@@ -11,12 +11,12 @@ import platform
 
 #VARIABILI GLOBALI
 
-platform.system
-if  "Windows":
+so = platform.system()
+if  so == "Windows":
     eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-Win64/udpipe"  
-elif "Linux":
+elif so == "Linux":
     eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-linux64/udpipe"
-elif "Mac":
+elif so == "Mac":
     eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-osx/udpipe"
 	#È chiaro che su Windows dovresti modificare il nome della cartella in bin-win64
 #TODO: si può usare la funzione platform.system per riconoscere il sistema operativo (https://stackoverflow.com/a/1857). Si possono usare le condizioni if per creare il giusto percorso dell'eseguibile su ogni sistema.
