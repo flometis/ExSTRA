@@ -23,11 +23,13 @@ elif so == "Mac":
 modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italian-isdt-ud-2.4-190531.udpipe"
 
 dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
+profs = {"url" : 0, "prof" : 1, "definition" : 2}
 
 def patternfinder(corpus, patternlist):
     global eseguibile
     global modello
     global dct
+    global profs
     #Udpipe andrebbe lanciato con un comando del tipo ./bin-linux64/udpipe --tokenize --tag --parse ./modelli/italian-isdt-ud-2.4-190531.udpipe
     #Per poterlo avviare da Python con la libreria Subprocess dobbiamo dividere i vari argomenti in elementi di una lista, così non ci sono spazi
     process = subprocess.Popen([eseguibile, "--tokenize", "--tag", "--parse", modello], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
@@ -39,24 +41,34 @@ def patternfinder(corpus, patternlist):
     outputbyte = process.communicate(testobyte)[0]
     #È una buona idea chiudere il flusso dello stdin quando hai finito di scrivere
     process.stdin.close()
-    #Chiaramente anche l'output è una sequenza di byte, basta decodificarli in una stringa con la stessa codifica utf-8 usata per l'input
+    #Chiaramente anche l'output è una sequenza di byte, basta decodificarli in una stringa con la stessa codifica utf-8 usata per l'inpu
     stroutput = outputbyte.decode(encoding='utf-8')
     #print(stroutput)
     
     listarisultati = []
+    patterndict = {}
     mytable = stroutput.split("\n")
+    patternlist = patternlist.split("\n")
+    for prow in range(len(patternlist)):
+        chiave = patternlist[prow].split(",")[profs["prof"]]
+        valori = [patternlist[prow].split(",")[profs["url"]], patternlist[prow].split(",")[profs["definition"]]]
+        patterndict[chiave] = valori
+    #for prow in range(len(patternlist)):
+   #     patternlist[prow] = patternlist[prow].split(",")[profs["prof"]]
     for row in range(len(mytable)):
         mytable[row] = mytable[row].split("\t") #creare lista di liste (tabella, riga, colonna)
         if len(mytable[row]) <8:
             continue
-        for pattern in patternlist: 
-            if pattern in mytable[row][dct["lemma"]]:
-                listarisultati.append(mytable[row][dct["lemma"]])
+        if mytable[row][dct["lemma"]] in patterndict:
+            listarisultati.append(mytable[row][dct["lemma"]])
         
     return listarisultati
 
-corpus = sys.argv[1]
-patternlist = sys.argv[2].split(",")
-print(patternlist)
+#corpus = sys.argv[1]
+#patternlist = sys.argv[2]
+
+corpus = "Piero faceva il garzone in una bottega presso un artigiano"
+patternlist = "http://www.sapere.it/enciclopedia/ascensorista.html,ascensorista,ascensorista: sm. e f. (pl. m. -i) [sec. XX; da ascensore]. La persona che negli alberghi e in altri luoghi pubblici è addetta alla manovra e al funzionamento dell'ascensore.\nhttp://www.sapere.it/enciclopedia/artigiano.html,artigiano,artigiano:"
+
 risultato = patternfinder(corpus, patternlist)
 print(risultato)
