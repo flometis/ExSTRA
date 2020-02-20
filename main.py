@@ -59,8 +59,11 @@ def patternfinder(corpus, patternlist):
         mytable[row] = mytable[row].split("\t") #creare lista di liste (tabella, riga, colonna)
         if len(mytable[row]) <8:
             continue
-        if mytable[row][dct["lemma"]] in patterndict:
-            listarisultati.append(mytable[row][dct["lemma"]])
+        lemma = mytable[row][dct["lemma"]]
+        if lemma in patterndict:
+            rigarisultato = [lemma]
+            rigarisultato.extend(patterndict[lemma])
+            listarisultati.append(rigarisultato)
         
     return listarisultati
 
