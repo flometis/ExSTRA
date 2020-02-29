@@ -99,6 +99,7 @@ for r in range(len(risultato)):
         stringarisultato = stringarisultato + risultato[r][i]
     stringarisultato = stringarisultato + "\n"
 
+
 #Scrivo la stringa in un file di testo CSV
 fileName = "risultato.csv"
 text_file = open(fileName, "w", encoding='utf-8')
