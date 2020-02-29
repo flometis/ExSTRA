@@ -8,6 +8,7 @@ import sys
 import time
 import os
 import platform
+import re
 
 #VARIABILI GLOBALI
 
@@ -19,17 +20,14 @@ elif so == "Linux":
 elif so == "Mac":
     eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-osx/udpipe"
 	#È chiaro che su Windows dovresti modificare il nome della cartella in bin-win64
-#TODO: si può usare la funzione platform.system per riconoscere il sistema operativo (https://stackoverflow.com/a/1857). Si possono usare le condizioni if per creare il giusto percorso dell'eseguibile su ogni sistema.
-modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italian-isdt-ud-2.4-190531.udpipe"
+modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.udpipe"
 
 dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
 profs = {"url" : 0, "prof" : 1, "definition" : 2}
 
-def patternfinder(corpus, patternlist):
+def UDtagger(origcorpus):
     global eseguibile
     global modello
-    global dct
-    global profs
     #Udpipe andrebbe lanciato con un comando del tipo ./bin-linux64/udpipe --tokenize --tag --parse ./modelli/italian-isdt-ud-2.4-190531.udpipe
     #Per poterlo avviare da Python con la libreria Subprocess dobbiamo dividere i vari argomenti in elementi di una lista, così non ci sono spazi
     process = subprocess.Popen([eseguibile, "--tokenize", "--tag", "--parse", modello], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
@@ -44,7 +42,11 @@ def patternfinder(corpus, patternlist):
     #Chiaramente anche l'output è una sequenza di byte, basta decodificarli in una stringa con la stessa codifica utf-8 usata per l'inpu
     stroutput = outputbyte.decode(encoding='utf-8')
     #print(stroutput)
+    return stroutput
     
+def patternfinder(stroutput, patternlist):
+    global dct
+    global profs
     listarisultati = []
     patterndict = {}
     mytable = stroutput.split("\n")
@@ -63,45 +65,77 @@ def patternfinder(corpus, patternlist):
         if len(mytable[row]) <8:
             continue
         lemma = mytable[row][dct["lemma"]]
-        if lemma in patterndict:
+        if lemma in patterndict and "NOUN" in mytable[row][dct["POS"]]:
             rigarisultato = [lemma]
             rigarisultato.extend(patterndict[lemma])
             listarisultati.append(rigarisultato)
         
     return listarisultati
 
-#corpus = sys.argv[1]
-#patternlist = sys.argv[2]
-
-try:
-    text_file = open(sys.argv[1], "r", encoding='utf-8')
-    corpus = text_file.read()
+def savetable(risultato, fileName = "risultato.csv"):
+    separatore = ","
+    stringarisultato = ""
+    for r in range(len(risultato)):
+        for i in range(len(risultato[r])):
+            if i > 0:
+                stringarisultato = stringarisultato + separatore
+            stringarisultato = stringarisultato + risultato[r][i]
+        stringarisultato = stringarisultato + "\n"
+    #Scrivo la stringa in un file di testo CSV
+    text_file = open(fileName, "w", encoding='utf-8')
+    text_file.write(stringarisultato)
     text_file.close()
 
-    text_file = open(sys.argv[2], "r", encoding='utf-8')
-    patternlist = text_file.read()
-    text_file.close()
+def untagRegex(mytext):
+    textIndexes = [(m.start(0), m.end(0)) for m in re.finditer("\<text\>.*?\<\/text\>", mytext, flags=re.DOTALL)] # we want only what's inside <text></text> tags
+    newtext = ""
+    #we might have many text portions in the same file, we just concatenate them
+    for subtextIndex in textIndexes:
+        start = subtextIndex[0]
+        end = subtextIndex[1]
+        newtext = newtext + mytext[start:end]
+    newtext = re.sub("\<.*?\>", "", newtext)  #substitute tags with nothing
+    newtext = re.sub(" +", " ", newtext)  #substitute multiple spaces with one space
+    newtext = re.sub("\n *\n", "\n", newtext)  #substitute multiple newlines
+    newtext = re.sub("([^\.\!\?])\n([^A-Z])", "\g<1> \g<2>", newtext)  #substitute spaces at the beginning of every row with nothing
+    return newtext
 
-except:
+if len(sys.argv) <3:
     print("main.py corpus patternlist")
+    print("patternlist is list of entities to find")
+    print("corpus can be:\n1) single .xml file;\n2) folder containing .xml files from the ELTeC Corpus;\n3) folder containing .tsv files already tagged with UDpipe")
     sys.exit()
 
-risultato = patternfinder(corpus, patternlist)
-print(risultato)
-
-#Trasformo la tabella in una stringa formato CSV
-separatore = ","
-stringarisultato = ""
-for r in range(len(risultato)):
-    for i in range(len(risultato[r])):
-        if i > 0:
-            stringarisultato = stringarisultato + separatore
-        stringarisultato = stringarisultato + risultato[r][i]
-    stringarisultato = stringarisultato + "\n"
-
-
-#Scrivo la stringa in un file di testo CSV
-fileName = "risultato.csv"
-text_file = open(fileName, "w", encoding='utf-8')
-text_file.write(stringarisultato)
+text_file = open(sys.argv[2], "r", encoding='utf-8')
+patternlist = text_file.read()
 text_file.close()
+
+filenames = []
+path = sys.argv[1]
+if os.path.isfile(path) == True:
+    filenames.append(path)
+
+if os.path.isdir(path) == True:
+    filenames = [os.path.abspath(path + "/" + filename) for filename in os.listdir(path)]
+
+for filepath in filenames:
+    if os.path.isfile(filepath) == False:
+        continue
+    text_file = open(filepath, "r", encoding='utf-8')
+    corpus = text_file.read()
+    text_file.close()
+    if filepath[-4:] == ".xml":
+        corpusraw = untagRegex(corpus)
+        corpusfile = UDtagger(corpusraw)
+        taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+".tsv"
+        text_file = open(taggedname, "w", encoding='utf-8')
+        text_file.write(corpusfile)
+        text_file.close()
+    elif filepath[-4:] == ".tsv":
+        corpusfile = corpus
+    else:
+        continue
+    risultato = patternfinder(corpusfile, patternlist)
+#Trasformo la tabella in una stringa formato CSV
+    newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(sys.argv[2])[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
+    savetable(risultato, newname)
