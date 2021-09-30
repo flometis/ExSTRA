@@ -13,7 +13,7 @@ from socket import timeout
 entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "human": "Q5" }
 
 #Any language can be used, I'm laying these out just as examples
-langs = {"inglese":"en", "italiano":"it", "tedesco":"de", "francese":"fr", "siciliano":"scn", "lombardo": "lmo", "friulano": "fur", "emiliano romagnolo":"eml", "veneto":"vec", "croato":"hr", "sloveno":"sl"} 
+langs = {"inglese":"en", "italiano":"it", "tedesco":"de", "francese":"fr", "siciliano":"scn", "lombardo": "lmo", "friulano": "fur", "emiliano romagnolo":"eml", "romagnolo": "rgn", "veneto":"vec", "croato":"hr", "sloveno":"sl", "corso": "co", "etrusco":"ett", "franco provenzale": "frp", "latino": "la", "ladino": "lld", "napoletano": "nap", "occitano": "oc", "ligure": "lij", "monegasco": "lij-mc", "greco antico", "grc", "piemontese": "pms", "tarantino": "roa-tara", "sardo": "sc", "sassarese": "sdc", "albanese": "sq", "spagnolo": "es", "portoghese": "pt"} 
 #Full list of supported languages: https://www.wikidata.org/wiki/Help:Wikimedia_language_codes/lists/all
 
 #Config for the web downloader
