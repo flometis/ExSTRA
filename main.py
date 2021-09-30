@@ -74,10 +74,15 @@ def patternfinder(stroutput, patternlist):
                 occ[lemma] = occ[lemma] +1
             except:
                 occ[lemma] = 1
-            rigarisultato = [lemma]
-            rigarisultato.append(occ[lemma])
-            rigarisultato.extend(patterndict[lemma])
-            listarisultati.append(rigarisultato)
+            if occ[lemma] == 1:
+                rigarisultato = [lemma]
+                rigarisultato.append(occ[lemma])
+                rigarisultato.extend(patterndict[lemma])
+                listarisultati.append(rigarisultato)
+            else:
+                for resRow in range(len(listarisultati)):
+                    if listarisultati[resRow][0] == lemma:
+                        listarisultati[resRow][1] = occ[lemma]
         
     return listarisultati
 
@@ -148,3 +153,4 @@ for filepath in filenames:
 #Trasformo la tabella in una stringa formato CSV
     newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(sys.argv[2])[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
     savetable(risultato, newname)
+    print("Results in: "+newname)
