@@ -51,6 +51,7 @@ def patternfinder(stroutput, patternlist):
     patterndict = {}
     mytable = stroutput.split("\n")
     patternlist = patternlist.split("\n")
+    #Realizzo un dizionario per accesso rapido alle informazioni
     for prow in range(len(patternlist)):
         try:
             chiave = patternlist[prow].split(",")[profs["prof"]]
@@ -59,14 +60,22 @@ def patternfinder(stroutput, patternlist):
         except:
             continue
     #for prow in range(len(patternlist)):
-   #     patternlist[prow] = patternlist[prow].split(",")[profs["prof"]]
+    #     patternlist[prow] = patternlist[prow].split(",")[profs["prof"]]
+
+    #Conto le occorrenze
+    occ = {}
     for row in range(len(mytable)):
         mytable[row] = mytable[row].split("\t") #creare lista di liste (tabella, riga, colonna)
         if len(mytable[row]) <8:
             continue
         lemma = mytable[row][dct["lemma"]]
         if lemma in patterndict and "NOUN" in mytable[row][dct["POS"]]:
+            try:
+                occ[lemma] = occ[lemma] +1
+            except:
+                occ[lemma] = 1
             rigarisultato = [lemma]
+            rigarisultato.append(occ[lemma])
             rigarisultato.extend(patterndict[lemma])
             listarisultati.append(rigarisultato)
         
@@ -79,7 +88,7 @@ def savetable(risultato, fileName = "risultato.csv"):
         for i in range(len(risultato[r])):
             if i > 0:
                 stringarisultato = stringarisultato + separatore
-            stringarisultato = stringarisultato + risultato[r][i]
+            stringarisultato = stringarisultato + str(risultato[r][i])
         stringarisultato = stringarisultato + "\n"
     #Scrivo la stringa in un file di testo CSV
     text_file = open(fileName, "w", encoding='utf-8')
