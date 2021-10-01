@@ -13,16 +13,17 @@ from socket import timeout
 entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "human": "Q5" }
 
 #Any language can be used, I'm laying these out just as examples
-langs = {"inglese":"en", "italiano":"it", "tedesco":"de", "francese":"fr", "siciliano":"scn", "lombardo": "lmo", "friulano": "fur", "emiliano romagnolo":"eml", "romagnolo": "rgn", "veneto":"vec", "croato":"hr", "sloveno":"sl", "corso": "co", "etrusco":"ett", "franco provenzale": "frp", "latino": "la", "ladino": "lld", "napoletano": "nap", "occitano": "oc", "ligure": "lij", "monegasco": "lij-mc", "greco antico", "grc", "piemontese": "pms", "tarantino": "roa-tara", "sardo": "sc", "sassarese": "sdc", "albanese": "sq", "spagnolo": "es", "portoghese": "pt"} 
+langs = {"inglese":"en", "italiano":"it", "tedesco":"de", "francese":"fr", "siciliano":"scn", "lombardo": "lmo", "friulano": "fur", "emiliano romagnolo":"eml", "romagnolo": "rgn", "veneto":"vec", "croato":"hr", "sloveno":"sl", "corso": "co", "etrusco":"ett", "franco provenzale": "frp", "latino": "la", "ladino": "lld", "napoletano": "nap", "occitano": "oc", "ligure": "lij", "monegasco": "lij-mc", "greco antico": "grc", "piemontese": "pms", "tarantino": "roa-tara", "sardo": "sc", "sassarese": "sdc", "albanese": "sq", "spagnolo": "es", "portoghese": "pt"}          
 #Full list of supported languages: https://www.wikidata.org/wiki/Help:Wikimedia_language_codes/lists/all
 
 #Config for the web downloader
 useragent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+#useragent = 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0'
 mytimeout = 60
 
 #URLs to get data from
 WIKIDATA_SPARQL_URL = "https://query.wikidata.org/sparql"
-SAPERE_URL = "http://www.sapere.it/sapere/enciclopedia/storia-e-societ%C3%A0/economia-e-statistica/generale/mestieri-e-professioni.html?src="
+SAPERE_URL = "https://www.sapere.it/sapere/enciclopedia/storia-e-societ%C3%A0/economia-e-statistica/generale/mestieri-e-professioni.html?src="
 
 
 # This function gets the content of a web page safely. If you're looking for wikidata specific functions, skip this
@@ -73,8 +74,9 @@ def geturl(thisurl, params = None):
     #Now we should have the webpage as a string. We just need to remove HTML escape sequences, things like &quote;. And we use html.unescape function
     try:
         thishtml = html.unescape(thishtml)
-    except:
-        thishtml = ""
+    except Exception as e:
+        print(e)
+        #thishtml = ""
     return thishtml
 
 
@@ -182,6 +184,9 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
         myrow = []
         for key in res:
             myrow.append(res[key]["value"])            
+            if len(myrow)==2:
+                myrow.append("wikidata")
+                myrow.append(language)
         resultsTable.append(myrow)
     
     #If you want sorted results, do it
@@ -212,6 +217,7 @@ def getSapereProfessions():
         #every webpage URL with a word description is wrapped inside href=""
         regex = ".*?href=[\"'](.*?)[\"']"
         links = [m.group(1) for m in re.finditer(regex, myhtml, flags=re.DOTALL)]
+        print(SAPERE_URL+letter.lower())
         for i in range(len(links)):
             #we look at every page for every word, getting its description
             thisurl = "http://www.sapere.it"+links[i]
@@ -221,7 +227,7 @@ def getSapereProfessions():
             m = re.match(regex, wordhtml, flags=re.DOTALL)
             definition = m.group(1)
             #now we've got the word, its full url, and its description: we add them to the table in a new row
-            resultsTable.append([thisurl, words[i], definition])
+            resultsTable.append([thisurl, words[i], "sapere", "it", definition])
         print(resultsTable[-1]) #we print the last row of the table, just to let the user know what it the last word read. It's a long process, it's good to know if it's still running
     return resultsTable
     
