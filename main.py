@@ -23,7 +23,7 @@ elif so == "Mac":
 modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.udpipe"
 
 dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
-profs = {"url" : 0, "prof" : 1, "definition" : 2}
+profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
 
 def UDtagger(origcorpus):
     global eseguibile
@@ -44,7 +44,7 @@ def UDtagger(origcorpus):
     #print(stroutput)
     return stroutput
     
-def patternfinder(stroutput, patternlist):
+def patternfinder(filepath, stroutput, patternlist):
     global dct
     global profs
     listarisultati = []
@@ -54,8 +54,9 @@ def patternfinder(stroutput, patternlist):
     #Realizzo un dizionario per accesso rapido alle informazioni
     for prow in range(len(patternlist)):
         try:
+        #if True:
             chiave = patternlist[prow].split(",")[profs["prof"]]
-            valori = [patternlist[prow].split(",")[profs["url"]], patternlist[prow].split(",")[profs["definition"]]]
+            valori = [patternlist[prow].split(",")[profs["url"]], patternlist[prow].split(",")[profs["lang"]], patternlist[prow].split(",")[profs["source"]], patternlist[prow].split(",")[profs["tag"]], patternlist[prow].split(",")[profs["definition"]]]
             patterndict[chiave] = valori
         except:
             continue
@@ -75,18 +76,20 @@ def patternfinder(stroutput, patternlist):
             except:
                 occ[lemma] = 1
             if occ[lemma] == 1:
-                rigarisultato = [lemma]
+                rigarisultato = [os.path.basename(filepath), lemma]
                 rigarisultato.append(occ[lemma])
                 rigarisultato.extend(patterndict[lemma])
                 listarisultati.append(rigarisultato)
             else:
                 for resRow in range(len(listarisultati)):
-                    if listarisultati[resRow][0] == lemma:
-                        listarisultati[resRow][1] = occ[lemma]
+                    #TODO: check also lemma language
+                    if listarisultati[resRow][1] == lemma and listarisultati[resRow][0] == os.path.basename(filepath): #and listarisultati[resRow][4] == patterndict[lemma][1]:
+                        listarisultati[resRow][2] = occ[lemma]
         
     return listarisultati
 
 def savetable(risultato, fileName = "risultato.csv"):
+    header = "File,Lemma,Occurrences,LemmaID,Language,Source,Tags,Description"
     separatore = ","
     stringarisultato = ""
     for r in range(len(risultato)):
@@ -114,13 +117,17 @@ def untagRegex(mytext):
     newtext = re.sub("([^\.\!\?])\n([^A-Z])", "\g<1> \g<2>", newtext)  #substitute spaces at the beginning of every row with nothing
     return newtext
 
-if len(sys.argv) <3:
-    print("main.py corpus patternlist")
-    print("patternlist is list of entities to find")
-    print("corpus can be:\n1) single .xml file;\n2) folder containing .xml files from the ELTeC Corpus;\n3) folder containing .tsv files already tagged with UDpipe")
+if len(sys.argv) <2:
+    print("main.py corpus [patternlist]")
+    print("patternlist is list of entities to find (exstra_dictionary is default, but you might generate a subset and use it)")
+    print("corpus can be:\n1) single .xml/.txt file;\n2) folder containing .xml/.txt files from the ELTeC Corpus;\n3) folder containing .tsv files already tagged with UDpipe")
     sys.exit()
 
-text_file = open(sys.argv[2], "r", encoding='utf-8')
+patternlistFile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.csv" 
+if len(sys.argv) >2:
+    patternlistFile = sys.argv[2]
+
+text_file = open(patternlistFile, "r", encoding='utf-8')
 patternlist = text_file.read()
 text_file.close()
 
@@ -138,7 +145,7 @@ for filepath in filenames:
     text_file = open(filepath, "r", encoding='utf-8')
     corpus = text_file.read()
     text_file.close()
-    if filepath[-4:] == ".xml":
+    if filepath[-4:] == ".xml" or filepath[-4:] == ".txt":
         corpusraw = untagRegex(corpus)
         corpusfile = UDtagger(corpusraw)
         taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+".tsv"
@@ -149,8 +156,8 @@ for filepath in filenames:
         corpusfile = corpus
     else:
         continue
-    risultato = patternfinder(corpusfile, patternlist)
+    risultato = patternfinder(filepath, corpusfile, patternlist)
 #Trasformo la tabella in una stringa formato CSV
-    newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(sys.argv[2])[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
+    newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
     savetable(risultato, newname)
     print("Results in: "+newname)
