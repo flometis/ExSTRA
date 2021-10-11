@@ -25,6 +25,7 @@ mytimeout = 60
 WIKIDATA_SPARQL_URL = "https://query.wikidata.org/sparql"
 SAPERE_URL = "https://www.sapere.it/sapere/enciclopedia/storia-e-societ%C3%A0/economia-e-statistica/generale/mestieri-e-professioni.html?src="
 
+language = ""
 
 # This function gets the content of a web page safely. If you're looking for wikidata specific functions, skip this
 def geturl(thisurl, params = None):
@@ -85,6 +86,16 @@ def mergeTables(table1, table2):
     #TODO: check if table1 structure (number of columns) matches table2
     table1.extend(table2)
     return table1
+
+def mergeResultTables(table1, table2):
+    mytable = table1
+    mytable.extend(table2)
+    mytable = sorted(mytable)
+    #columns:
+    #ID,lemma,source,language,tag,descrizione
+    mytbclean = [mytable[i] for i in range(len(mytable)) if i == 0 or mytable[i][:-1] != mytable[i-1][:-1]]   #the last element is the description
+    return mytbclean
+
 
 def sortTable(table, sortColumn = 0):
     res = table
@@ -183,10 +194,16 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
             continue
         myrow = []
         for key in res:
-            myrow.append(res[key]["value"])            
-            if len(myrow)==2:
+            #first key:value is the ID, then we get lemma and description
+            if len(myrow)==1:
+                myrow.append(res[key]["value"].lower())
                 myrow.append("wikidata")
                 myrow.append(language)
+                myrow.append(entity)
+            else:
+                myrow.append(res[key]["value"])
+        if len(res) < 3:
+            myrow.append("") #empty description
         resultsTable.append(myrow)
     
     #If you want sorted results, do it
@@ -253,7 +270,16 @@ def saveTable(table, outFile):
             with open(outFile, "a", encoding='utf-8') as myfile:
                 myfile.write(rowtxt[1:]+"\n")
             
-            
+
+def openTable(inFile):
+    text_file = open(inFile, "r", encoding='utf-8')
+    patternlist = text_file.read()
+    text_file.close()
+    mytable = []
+    for row in patternlist.split("\n"):
+        mytable.append(row.split(","))
+    return mytable
+
 #Main routine:
 print("Available sources:\n 1 - Wikidata\n 2 - Sapere.it")
 source = input("Where do you want to get data from?")
@@ -274,26 +300,48 @@ myentity = "none"
 while myentity not in entities:
     myentity = input("Which entity do you want to list?")
 
-print("Example of languages:")
+print("Example of languages (choose 'all' for all supported languages or use ',' as separator):")
 for key in langs:
     print(langs[key] + " (" + key + ")")
 print("Full languages list: https://www.wikidata.org/wiki/Help:Wikimedia_language_codes/lists/all")
-mylang = input("Which language do you want?")
+tmplang = input("Which language do you want?")
 
-#if we are looking for humans (Q5) probably we need to run the query many times (one run for every year of birth we need). This means we'll need to merge tables, so we also sort only at the end. Sorting every table before merging it would be a waste of time, we do it only once, after all table are merged into a single one
-if entities[myentity] == "Q5":
-    yearfrom = input("From which year do you want to start? (years BC are < 0)")
-    yearto = input("To which year do you want to stop?")
-    mytable = []
-    for year in range(int(yearfrom), int(yearto)):
-        tmptable = getInstanceOf(myentity, mylang, year, sort=False)
-        mergeTables(mytable, tmptable)
-        #time.sleep(10)
-    mytable = groupTable(mytable, 0)
-    mytable = sortTable(mytable, 2) 
+filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.csv"
+
+
+if tmplang == "all":
+    mylangs = []
+    for key in langs:
+        mylangs.append(langs[key])
+elif "," in tmplang:
+    mylangs = tmplang.split(",")
 else:
-    mytable = getInstanceOf(myentity, mylang)
-#It's safer to specify full path of the file. We could as the user for it, but that's for the future
-filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"
-saveTable(mytable, filename)
-print("Saved in " + filename)
+    mylangs = [tmplang]
+
+for mylang in mylangs:
+    #if we are looking for humans (Q5) probably we need to run the query many times (one run for every year of birth we need). This means we'll need to merge tables, so we also sort only at the end. Sorting every table before merging it would be a waste of time, we do it only once, after all table are merged into a single one
+    if entities[myentity] == "Q5":
+        yearfrom = input("From which year do you want to start? (years BC are < 0)")
+        yearto = input("To which year do you want to stop?")
+        mytable = []
+        for year in range(int(yearfrom), int(yearto)):
+            tmptable = getInstanceOf(myentity, mylang, year, sort=False)
+            mergeTables(mytable, tmptable)
+            #time.sleep(10)
+        mytable = groupTable(mytable, 0)
+        mytable = sortTable(mytable, 2) 
+    else:
+        mytable = getInstanceOf(myentity, mylang)
+
+    #It's safer to specify full path of the file. We could ask the user for it, but that's for the future
+    #filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"
+    try:
+        oldtable = openTable(filename)
+    except:
+        oldtable = []
+    print("Merging "+str(len(mytable))+" with "+str(len(oldtable))+" previous results...")
+    fulltable = mergeResultTables(mytable, oldtable)
+    saveTable(fulltable, filename)
+    print("Saved in " + filename)
+
+
