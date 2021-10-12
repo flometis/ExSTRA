@@ -44,7 +44,7 @@ def UDtagger(origcorpus):
     #print(stroutput)
     return stroutput
     
-def patternfinder(filepath, stroutput, patternlist):
+def patternfinder(filepath, stroutput, patternlist, languages = ""):
     global dct
     global profs
     listarisultati = []
@@ -54,15 +54,18 @@ def patternfinder(filepath, stroutput, patternlist):
     #Realizzo un dizionario per accesso rapido alle informazioni
     for prow in range(len(patternlist)):
         try:
-        #if True:
             chiave = patternlist[prow].split(",")[profs["prof"]]
-            valori = [patternlist[prow].split(",")[profs["url"]], patternlist[prow].split(",")[profs["lang"]], patternlist[prow].split(",")[profs["source"]], patternlist[prow].split(",")[profs["tag"]], patternlist[prow].split(",")[profs["definition"]]]
-            patterndict[chiave] = valori
+            valori = [patternlist[prow].split(",")[profs["url"]], patternlist[prow].split(",")[profs["source"]], patternlist[prow].split(",")[profs["tag"]], patternlist[prow].split(",")[profs["definition"]]]
+            lingua = patternlist[prow].split(",")[profs["lang"]]
+            if languages != "":
+                if lingua not in languages.split(","):
+                    continue
+            if chiave in patterndict:
+                patterndict[chiave][lingua] = valori
+            else:
+                patterndict[chiave] = {lingua: valori}
         except:
             continue
-    #for prow in range(len(patternlist)):
-    #     patternlist[prow] = patternlist[prow].split(",")[profs["prof"]]
-
     #Conto le occorrenze
     occ = {}
     for row in range(len(mytable)):
@@ -71,27 +74,29 @@ def patternfinder(filepath, stroutput, patternlist):
             continue
         lemma = mytable[row][dct["lemma"]]
         if lemma in patterndict and "NOUN" in mytable[row][dct["POS"]]:
+            #Non ho modo di sapere quale sia la lingua del lemma, assegno le stesse occorrenze a tutte le lingue disponibili
             try:
                 occ[lemma] = occ[lemma] +1
             except:
                 occ[lemma] = 1
-            if occ[lemma] == 1:
-                rigarisultato = [os.path.basename(filepath), lemma]
-                rigarisultato.append(occ[lemma])
-                rigarisultato.extend(patterndict[lemma])
-                listarisultati.append(rigarisultato)
-            else:
-                for resRow in range(len(listarisultati)):
-                    #TODO: check also lemma language
-                    if listarisultati[resRow][1] == lemma and listarisultati[resRow][0] == os.path.basename(filepath): #and listarisultati[resRow][4] == patterndict[lemma][1]:
-                        listarisultati[resRow][2] = occ[lemma]
-        
+            #Aggiungo una riga per ogni lingua in cui esiste il lemma
+            for lingua in patterndict[lemma]:
+                if occ[lemma] == 1:
+                    rigarisultato = [os.path.basename(filepath), lemma]
+                    rigarisultato.append(occ[lemma])
+                    rigarisultato.append(lingua)
+                    rigarisultato.extend(patterndict[lemma][lingua])
+                    listarisultati.append(rigarisultato)
+                else:
+                    for resRow in range(len(listarisultati)):
+                        if listarisultati[resRow][1] == lemma and listarisultati[resRow][0] == os.path.basename(filepath) and listarisultati[resRow][3] == lingua:
+                            listarisultati[resRow][2] = occ[lemma]
     return listarisultati
 
 def savetable(risultato, fileName = "risultato.csv"):
-    header = "File,Lemma,Occurrences,LemmaID,Language,Source,Tags,Description"
+    header = "File,Lemma,Occurrences,Language,LemmaID,Source,Tags,Description\n"
     separatore = ","
-    stringarisultato = ""
+    stringarisultato = header
     for r in range(len(risultato)):
         for i in range(len(risultato[r])):
             if i > 0:
