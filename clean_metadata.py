@@ -99,9 +99,11 @@ for r in range(len(text.split('\n'))):
         corpuslist = corpusfile.split("\n")
         for u in range(len(corpuslist)):
             udline = corpuslist[u]
-            tmptokens = re.sub('^([0-9\-]+)[^0-9\-].*', '\g<1>', udline)
+            #tmptokens = re.sub('^([0-9\-]+)[^0-9\-].*', '\g<1>', udline)
+            #L'idea è che le righe che contengono token iniziano con un numero o al massimo con una serie di numeri separati da -
             try:
-                test = int(tmptokens) 
+                tmptokens = udline[:udline.index('\t')]
+                test = int(tmptokens)
                 totaltokens = totaltokens + 1
             except:
                 elements = tmptokens.count("-") +1 #se la parola è composta ho un -, per esempio 11-12, quindi avrò 2 righe superflue
