@@ -115,7 +115,7 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
     return listarisultati
 
 def savetable(risultato, fileName = "risultato.csv"):
-    header = "File,Lemma,Occurrences,Language,LemmaID,Source,Tags,Description\n"
+    header = "File,Lemma,Occurrences,Language,LemmaID,Source,Tags,Author,Title,Gender,Year,Decade,Description\n"
     separatore = ","
     stringarisultato = header
     for r in range(len(risultato)):
