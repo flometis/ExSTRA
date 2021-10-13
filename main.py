@@ -32,7 +32,7 @@ def UDtagger(origcorpus):
     #Per poterlo avviare da Python con la libreria Subprocess dobbiamo dividere i vari argomenti in elementi di una lista, così non ci sono spazi
     process = subprocess.Popen([eseguibile, "--tokenize", "--tag", "--parse", modello], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
     #Per lavorare sullo standard input bisogna usare una sequenza di byte invece di una comune stringa di testo, perché siamo a basso livello. Una stringa può essere codificata come byte usando la sua funzione encode
-    testobyte = corpus.encode(encoding='utf-8')
+    testobyte = origcorpus.encode(encoding='utf-8')
     #Una volta si usava questo metodo per scrivere su stdin:
     #process.stdin.write(testo)
     #ma ci sono dei problemi con i testi lunghi. Adesso si usa direttamente la funzione communicate, che allo stesso tempo fornisce anche la risposta elaborata dall'eseguibile
@@ -151,7 +151,11 @@ for filepath in filenames:
     corpus = text_file.read()
     text_file.close()
     if filepath[-4:] == ".xml" or filepath[-4:] == ".txt":
-        corpusraw = untagRegex(corpus)
+        corpusraw = corpus
+        if filepath[-4:] == ".xml":
+            corpusraw = untagRegex(corpus)
+        if corpusraw == "":
+            corpusraw = corpus
         corpusfile = UDtagger(corpusraw)
         taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+".tsv"
         text_file = open(taggedname, "w", encoding='utf-8')
