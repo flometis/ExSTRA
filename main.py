@@ -25,6 +25,16 @@ modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.
 dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
 profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
 
+metadatafile = "Eltec100/Eltec-metadata.tsv"
+text_file = open(metadatafile, "r", encoding='utf-8')
+metadatastr = text_file.read()
+text_file.close()
+metadata = []
+for row in metadatastr.split("\n"):
+    metadata.append(row.split('\t'))
+metadata = metadata[1:]
+
+
 def UDtagger(origcorpus):
     global eseguibile
     global modello
@@ -47,7 +57,16 @@ def UDtagger(origcorpus):
 def patternfinder(filepath, stroutput, patternlist, languages = ""):
     global dct
     global profs
+    global metadata
     listarisultati = []
+    fileinfo = ['','','','','']
+    for mrow in metadata:
+        if mrow[0] == os.path.basename(filepath):
+            fileinfo[0] = mrow[1].replace(",","")
+            fileinfo[1] = mrow[2].replace(",","")
+            fileinfo[2] = mrow[3]
+            fileinfo[3] = mrow[4]
+            fileinfo[4] = mrow[5]
     patterndict = {}
     mytable = stroutput.split("\n")
     patternlist = patternlist.split("\n")
@@ -85,7 +104,9 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
                     rigarisultato = [os.path.basename(filepath), lemma]
                     rigarisultato.append(occ[lemma])
                     rigarisultato.append(lingua)
-                    rigarisultato.extend(patterndict[lemma][lingua])
+                    rigarisultato.extend(patterndict[lemma][lingua][:-1])
+                    rigarisultato.extend(fileinfo)
+                    rigarisultato.append(patterndict[lemma][lingua][-1])
                     listarisultati.append(rigarisultato)
                 else:
                     for resRow in range(len(listarisultati)):
