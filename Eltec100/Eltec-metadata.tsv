@@ -1,7 +1,7 @@
 filename	autore	titolo	sesso	anno	decennio	tokens	range
 Aleramo-Sibilla_Il-passaggio_1919.txt	Aleramo, Sibilla	Il passaggio	f	1919	1910_1920	25446	10_50mila
 Aleramo-Sibilla_Una donna_1921.txt	Aleramo, Sibilla	Una donna	f	1921	1910_1920	67390	50_150mila
-baccini-ida_il_principino_1891.txt	Baccini, Ida	Il principino	f	1891	1890_1899		10_50mila
+baccini-ida_il_principino_1891.txt	Baccini, Ida	Il principino	f	1891	1890_1899	19425	10_50mila
 Baccini-Ida_Memorie_di_un_Pulcino_1875.txt	Baccini, Ida	Le memorie di un pulcino	f	1875	1870_1879	28627	10_50mila
 Barbieri-Ulisse_Adelia_1867.txt	Barbieri, Ulisse	Adelia	m	1867	1860_1869	6835	50_150mila
 Barbieri-Ulisse_Lucifero_1871.txt	Barbieri, Ulisse	Lucifero	m	1871	1870_1879	17964	10_50mila
@@ -15,7 +15,7 @@ Capuana-Luigi_Giacinta_1879.txt	Capuana, Luigi	Giacinta	m	1879	1870_1879	54137	5
 Capuana-Luigi_Il_Marchese_Di_Roccaverdina_1901.txt	Capuana, Luigi	Il marchese di Roccaverdina	m	1901	1900_1909	87118	50_150mila
 Carcano-Giulio_Damiano_1850.txt	Carcano, Giulio	Damiano	m	1850	1850_1859	144069	50_150mila
 Carcano-Giulio_La_Nunziata_Novelle_Campagnuole_1842.txt	Carcano, Giulio	La nunziata	m	1842	1840_1849	101917	50_150mila
-Castellani_Fantoni_Benaglio_Ines_Mia_1887.txt	Castellani Fantoni Benaglio, Ines	Mia	f	1887	1880_1889		10_50mila
+Castellani_Fantoni_Benaglio_Ines_Mia_1887.txt	Castellani Fantoni Benaglio, Ines	Mia	f	1887	1880_1889	51832	10_50mila
 Collodi-Carlo_Pinocchio_1883.txt	Collodi, Carlo	Le avventure di Pinocchio	m	1881	1880_1889	46885	10_50mila
 DAnnunzio-Gabriele_Il_Piacere_1889.txt	D’Annunzio, Gabriele	Il piacere	m	1889	1880_1889	119100	50_150mila
 D-Annunzio-Gabriele_Il_Fuoco_1898.txt	D’Annunzio, Gabriele	Il fuoco	m	1898	1890-1899	109184	50_150mila
@@ -35,26 +35,26 @@ Dossi-Carlo_La_Colonia_Felice_1874.txt	Dossi, Carlo	La colonia felice	m	1874	187
 Dossi-Carlo_La_Desinenza_In_A_1878.txt	Dossi, Carlo	La desinenza in A	m	1889	1880_1889	70488	50_150mila
 Fogazzaro-Antonio_Malombra_1914.txt	Fogazzaro, Antonio	Malombra	m	1914	1910-1920	160219	50_150mila
 Fogazzaro-Antonio_Daniele_Cortis_1885.txt	Fogazzaro, Antonio	Daniele Cortis	m	1885	1880_1889	115002	50_150mila
-fogazzaro-Antonio_piccolo_mondo_moderno_1901.txt	Fogazzaro, Antonio	Piccolo mondo moderno	m	1901	1900_1909		50_150mila
+fogazzaro-Antonio_piccolo_mondo_moderno_1901.txt	Fogazzaro, Antonio	Piccolo mondo moderno	m	1901	1900_1909	104738	50_150mila
 Garibaldi-Giuseppe_Cantoni_Il_Volontario_1870.txt	Garibaldi, Giuseppe	Cantoni il volontario	m	1870	1870_1879	54661	10_50mila
 Garibaldi-Giuseppe_Clelia_Ovvero_Il_Governo_Dei_Preti_1870.txt	Garibaldi, Giuseppe	Clelia	m	1870	1870_1879	79969	50_150mila
 Guerrazzi-Domenico_Pasquale-Paoli_1860.txt	Guerrazzi Domenico	Pasquale Paoli	m	1860	1860_1869	215673	oltre150mila
 Guerrazzi-Domenico_L assedio di Firenze_1863.txt	Guerrazzi Domenico	L’assedio di Firenze	m	1863	1860_1869	349587	oltre150mila
-guglielminetti-Amalia_anime-allo-specchio_1915.txt	Guglielminetti, Amalia	Anime allo specchio	f	1915	1910_1920		50_150
-guglielminetti-Amalia_la_porta_della_gioia_1920.txt	Guglielminetti, Amalia	La porta della gioia	f	1920	1910_1920		10_50mila
-guglielminetti-Amalia_le-ore-inutili_1919.txt	Guglielminetti, Amalia	Le ore inutili	f	1919	1910_1920		10_50mila
+guglielminetti-Amalia_anime-allo-specchio_1915.txt	Guglielminetti, Amalia	Anime allo specchio	f	1915	1910_1920	73431	50_150
+guglielminetti-Amalia_la_porta_della_gioia_1920.txt	Guglielminetti, Amalia	La porta della gioia	f	1920	1910_1920	48089	10_50mila
+guglielminetti-Amalia_le-ore-inutili_1919.txt	Guglielminetti, Amalia	Le ore inutili	f	1919	1910_1920	33835	10_50mila
 Imbriani-Vittorio_Dio_Ne_Scampi_Dagli_Orsenigo_1876.txt	Imbriani, Vittorio	Dio ne scampi dagli Orsenigo	m	1876	1870_1879	51726	10_50mila
 Invernizio-Carolina_I_Misteri_Delle_Soffitte_1901.txt	Invernizio, Carolina	I misteri delle soffitte	f	1901	1900_1909	99172	50_150mila
 Invernizio-Carolina_Il_Bacio_Duna_Morta_1886.txt	Invernizio, Carolina	Il bacio di una morta	f	1886	1880_1889	103364	50_150mila
 Invernizio-Carolina_La_Trovatella_Di_Milano_1889.txt	Invernizio, Carolina	La trovatella di Milano	f	1889	1880_1889	23086	10_50mila
 Manzoni-Alessandro_I_Promessi_Sposi_1840.txt	Manzoni, Alessandro	I promessi sposi	m	1840	1840_1849	259107	oltre150mila
 Manzoni-Alessandro_Storia_Della_Colonna_Infame_1842.txt	Manzoni, Alessandro	Storia della colonna infame	m	1842	1840_1849	42134	10_50mila
-Marchesa-Colombi_Prima morire_1881.txt	Marchesa Colombi	Prima morire	f	1881	1880-1889		50_150mila
+Marchesa-Colombi_Prima morire_1881.txt	Marchesa Colombi	Prima morire	f	1881	1880-1889	65967	50_150mila
 Melegari Dora_Caterina Spadaro_1908.txt	Melegari, Dora	Caterina Spadaro	f	1908	1900_1909	59654	50_150mila
 Neera_Lydia_1888.txt	Neera	Lydia	f	1887	1880_1889	51037	10_50mila
 Neera_Un_Nido_1889.txt	Neera	Un nido	f	1881	1880_1889	34220	10_50mila
 Neera_Una_Passione_1903.txt	Neera	Una passione	f	1903	1900_1909	59147	50_150mila
-negri-ada_le-solitarie_1917.txt	Negri, Ada	Le solitarie	f	1917	1910-1920		10_50mila
+negri-ada_le-solitarie_1917.txt	Negri, Ada	Le solitarie	f	1917	1910-1920	55764	10_50mila
 Nievo-Ippolito_Le_Confessione_Di_Un_Italiano_1858.txt	Nievo, Ippolito	Le confessioni di un italiano	m	1867	1860_1969	357071	oltre150mila
 Nievo-Ippolito_Il_Barone_Di_Nicastro_1860.txt	Nievo, Ippolito	Il barone di Nicastro	m	1860	1860_1869	57440	50_150mila
 Oriani-Alfredo_Al_Di_La_1890.txt	Oriani, Alfredo	Al di là	m	1890	1890_1899	109102	50_150mia
@@ -77,8 +77,8 @@ Salgari-Emilio_I_Pirati_Della_Malesia_1896.txt	Salgari, Emilio	I pirati della Ma
 Salgari-Emilio_Alla_Conquista_Di_Un_Impero_1907.txt	Salgari, Emilio	Alla conquista di un impero	m	1907	1900_1909	113802	50_150mila
 Salgari-Emilio_I_Misteri_Della_Giungla_Nera_1887.txt	Salgari, Emilio	I misteri della giungla nera	m	1887	1880_1889	80890	50_150mila
 Serao-Matilde_La-mano-tagliata_1912.txt	Serao, Matilde	La mano tagliata	f	1912	1910_1920	134590	50_150mila
-serao-matidle_cuore_infermo_1881.txt	Serao, Matilde	Cuore inferno	f	1881	1880-1889		50_150mila
-Serao-Matilde_dal_vero_1879.txt	Serao, Matilde	Dal vero	f	1879	1870_1879		50_150mila
+serao-matidle_cuore_infermo_1881.txt	Serao, Matilde	Cuore inferno	f	1881	1880-1889	101733	50_150mila
+Serao-Matilde_dal_vero_1879.txt	Serao, Matilde	Dal vero	f	1879	1870_1879	70630	50_150mila
 Silvola-Rodolfo-Giuspeppe_Alboino in Italia_1840.txt	Silvola, Rodolfo Giuseppe	Alboino in Italia	m	1840	1840-49	69256	50_150mila
 Slataper-Scipio_Il_Mio_Carso_1912.txt	Slataper, Scipio	Il mio Carso	m	1912	1910_1920	31588	10_50mila
 Svevo-Italo_La_Coscienza_Di_Zeno_1923.txt	Svevo, Italo	La coscienza di Zeno	m	1923	1910_1920	154338	50_150mila
@@ -92,10 +92,10 @@ Tommaseo_Niccolo_Fede_E_Bellezza_1852.txt	Tommaseo, Niccolò	Fede e bellezza	m	1
 Torricelli_Oddantonio Feltre_1860.txt	Torricelli, Giovan Battista	Antonio Feltre	m	1860	1860_1869	206953	oltre150mila
 Tozzi-Federigo_Con_Gli_Occhi_Chiusi_1919.txt	Tozzi, Federigo	Con gli occhi chiusi	m	1919	1910_1920	54524	10_50mila
 Tozzi-Federigo_Tre_Croci_1920.txt	Tozzi, Federigo	Tre croci	m	1920	1910_1920	33422	10_50mila
-Vamba_Giamburrasca_1912.txt	Vamba	Giamburrasca	m	1912	1910_1920		50_150mila
+Vamba_Giamburrasca_1912.txt	Vamba	Giamburrasca	m	1912	1910_1920	80843	50_150mila
 Verga-Giovanni_Tigre_Reale_1875.txt	Verga, Giovanni	Tigre Reale	m	1875	1870_1879	35309	10_50mila
 Verga-Giovanni_Una_Peccatrice_1866.txt	Verga, Giovanni	Una peccatrice	m	1866	1860_1869	42641	10_50mila
 Verga-Giovanni_Il_Marito_Di_Elena_1882.txt	Verga, Giovanni	Il marito di Elena	m	1875	1870_1879	50009	10_50mila
-Vertua-gentile-anna_Il romanzo di una signorina perbene_1897.txt	Vertua Gentile, Anna	Il romanzo di una signora perbene	f	1897	1890-1899		10_50mila
+Vertua-gentile-anna_Il romanzo di una signorina perbene_1897.txt	Vertua Gentile, Anna	Il romanzo di una signora perbene	f	1897	1890-1899	32357	10_50mila
 Zuccoli-Luciano_La_Freccia_Nel_Fianco_1913.txt	Zuccoli, Luciano	La freccia nel fianco	m	1913	1910_1920	68556	50_150mila
 Zuccoli-Luciano_Roberta_1897.txt	Zuccoli, Luciano	Roberta	m	1897	1890_1899	45888	10_50mila

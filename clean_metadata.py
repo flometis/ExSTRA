@@ -98,9 +98,21 @@ for r in range(len(text.split('\n'))):
         if tnum > 0 or len(line)<2:
             ops = 0/0
         totaltokens = 0
-        text_file = open(path+"/"+line[0], "r", encoding='utf-8')
-        corpusraw = text_file.read()
-        text_file.close()
+        try:
+            text_file = open(path+"/"+line[0], "r", encoding='utf-8')
+            corpusraw = text_file.read()
+            text_file.close()
+        except:
+            try:
+                text_file = open(path+"/"+line[0], "r", encoding='ISO-8859-15')
+                corpusraw = text_file.read()
+                text_file.close()
+                text_file = open(path+"/"+line[0], "w", encoding='utf-8')
+                text_file.write(corpusraw)
+                text_file.close()
+            except:
+                #print("Error reading file")
+                pass
         corpusfile = UDtagger(corpusraw)
         corpuslist = corpusfile.split("\n")
         for u in range(len(corpuslist)):
@@ -119,7 +131,7 @@ for r in range(len(text.split('\n'))):
         print(totaltokens)
         line[6] = totaltokens 
     except Exception as e:
-        if e != "division by zero":
+        if "division by zero" in str(e)==False and "corpusraw" in str(e)==False:
             print(e)
         pass
     print(line)
