@@ -91,6 +91,12 @@ for r in range(len(text.split('\n'))):
             line[0] = file
     #Conteggio tokens
     try:
+        tnum = int(line[6])
+    except:
+        tnum = 0
+    try:
+        if tnum > 0 or len(line)<2:
+            ops = 0/0
         totaltokens = 0
         text_file = open(path+"/"+line[0], "r", encoding='utf-8')
         corpusraw = text_file.read()
@@ -99,8 +105,8 @@ for r in range(len(text.split('\n'))):
         corpuslist = corpusfile.split("\n")
         for u in range(len(corpuslist)):
             udline = corpuslist[u]
-            #tmptokens = re.sub('^([0-9\-]+)[^0-9\-].*', '\g<1>', udline)
             #L'idea è che le righe che contengono token iniziano con un numero o al massimo con una serie di numeri separati da -
+            tmptokens = ""
             try:
                 tmptokens = udline[:udline.index('\t')]
                 test = int(tmptokens)
@@ -110,9 +116,13 @@ for r in range(len(text.split('\n'))):
                 if elements >1:
                     totaltokens = totaltokens - elements
                 pass
+        print(totaltokens)
         line[6] = totaltokens 
-    except:
+    except Exception as e:
+        if e != "division by zero":
+            print(e)
         pass
     print(line)
-    newtable.append(line)
+    if len(line) >2:
+        newtable.append(line)
 savetable(newtable, filepath, '\t')
