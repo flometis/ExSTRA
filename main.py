@@ -125,6 +125,9 @@ def savetable(risultato, fileName = "risultato.csv"):
             stringarisultato = stringarisultato + str(risultato[r][i])
         stringarisultato = stringarisultato + "\n"
     #Scrivo la stringa in un file di testo CSV
+    so = platform.system()
+    if so == "Windows":
+        fileName = fileName.replace("/", "\\")
     text_file = open(fileName, "w", encoding='utf-8')
     text_file.write(stringarisultato)
     text_file.close()
@@ -144,14 +147,19 @@ def untagRegex(mytext):
     return newtext
 
 if len(sys.argv) <2:
-    print("main.py corpus [patternlist]")
+    print("main.py corpus [languages] [patternlist]")
+    print("languages should be separated by commas")
     print("patternlist is list of entities to find (exstra_dictionary is default, but you might generate a subset and use it)")
     print("corpus can be:\n1) single .xml/.txt file;\n2) folder containing .xml/.txt files from the ELTeC Corpus;\n3) folder containing .tsv files already tagged with UDpipe")
     sys.exit()
+if len(sys.argv) >2:
+    chooseLang = sys.argv[2]
+else:
+    chooseLang = ""
 
 patternlistFile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.csv" 
-if len(sys.argv) >2:
-    patternlistFile = sys.argv[2]
+if len(sys.argv) >3:
+    patternlistFile = sys.argv[3]
 
 text_file = open(patternlistFile, "r", encoding='utf-8')
 patternlist = text_file.read()
@@ -166,6 +174,8 @@ if os.path.isdir(path) == True:
     filenames = [os.path.abspath(path + "/" + filename) for filename in os.listdir(path)]
 
 for filepath in filenames:
+    if so == "Windows": 
+        filepath = filepath.replace("/", "\\")
     if os.path.isfile(filepath) == False:
         continue
     text_file = open(filepath, "r", encoding='utf-8')
@@ -179,6 +189,11 @@ for filepath in filenames:
             corpusraw = corpus
         corpusfile = UDtagger(corpusraw)
         taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+".tsv"
+        if not os.path.isdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"):
+            os.mkdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/")
+        so = platform.system()
+        if so == "Windows":
+            taggedname = taggedname.replace("/", "\\")
         text_file = open(taggedname, "w", encoding='utf-8')
         text_file.write(corpusfile)
         text_file.close()
@@ -186,7 +201,8 @@ for filepath in filenames:
         corpusfile = corpus
     else:
         continue
-    risultato = patternfinder(filepath, corpusfile, patternlist)
+    
+    risultato = patternfinder(filepath, corpusfile, patternlist, chooseLang)
 #Trasformo la tabella in una stringa formato CSV
     newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
     savetable(risultato, newname)
