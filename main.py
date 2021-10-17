@@ -165,6 +165,9 @@ text_file = open(patternlistFile, "r", encoding='utf-8')
 patternlist = text_file.read()
 text_file.close()
 
+fullresults = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_COMPLETE.csv"
+
+
 filenames = []
 path = sys.argv[1]
 if os.path.isfile(path) == True:
@@ -173,6 +176,7 @@ if os.path.isfile(path) == True:
 if os.path.isdir(path) == True:
     filenames = [os.path.abspath(path + "/" + filename) for filename in os.listdir(path)]
 
+risultati = []
 for filepath in filenames:
     if so == "Windows": 
         filepath = filepath.replace("/", "\\")
@@ -201,9 +205,11 @@ for filepath in filenames:
         corpusfile = corpus
     else:
         continue
-    
     risultato = patternfinder(filepath, corpusfile, patternlist, chooseLang)
+    risultati.extend(risultato)
 #Trasformo la tabella in una stringa formato CSV
     newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
     savetable(risultato, newname)
-    print("Results in: "+newname)
+    savetable(risultati, fullresults)
+    print("Results for this file in: "+newname)
+print("Complete results in: "+fullresults)
