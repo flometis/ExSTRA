@@ -25,7 +25,7 @@ modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.
 dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
 profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
 
-metadatafile = "Eltec100/Eltec-metadata.tsv"
+metadatafile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Eltec100/Eltec-metadata.tsv"
 text_file = open(metadatafile, "r", encoding='utf-8')
 metadatastr = text_file.read()
 text_file.close()
