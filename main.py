@@ -201,6 +201,9 @@ for filepath in filenames:
             corpusfile = UDtagger(corpusraw)
         else:
             print("Tagged corpus "+taggedname+" already exists, not tagging again.")
+            text_file = open(taggedname, "r", encoding='utf-8')
+            corpusfile = text_file.read()
+            text_file.close()
         text_file = open(taggedname, "w", encoding='utf-8')
         text_file.write(corpusfile)
         text_file.close()

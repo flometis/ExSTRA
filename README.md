@@ -15,11 +15,15 @@ python3 extract-dictionary.py
 At this moment, this is an interactive tool: answer to the questions to get the lemmas you want.
 
 3. Extract lemma occurrences
+If you need to tag again your corpus, please remove files inside ***Tagged*** folder (rm Tagged/*).
 ```
-python3 main.py corpus [languages] [patternlist]
+#python3 main.py corpus [languages] [patternlist]
+python3 main.py Eltec100/Eltec100 it
 ```
-languages should be separated by commas
+languages should be separated by commas (es: it,en,scn).
+
 patternlist is list of entities to find (exstra_dictionary is default, but you might generate a subset and use it)
+
 corpus can be:
 * single .xml/.txt file;
 * folder containing .xml/.txt files from the ELTeC Corpus;
