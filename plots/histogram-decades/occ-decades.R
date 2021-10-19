@@ -28,6 +28,7 @@ for(i in levels(file$Decade)){
     if (i != "") {
         basename <- sub('\\.csv$', '', fullpath);
         basename <- paste(basename,"-", i);
+	basename <- basename(basename);
 
         mytb <- subset(file, file$Decade==i & file$Occurrences!="");
         mytb <- droplevels(mytb);
