@@ -277,20 +277,45 @@ def openTable(inFile):
     text_file.close()
     mytable = []
     for row in patternlist.split("\n"):
+        if row=="":
+            continue
         mytable.append(row.split(","))
     return mytable
 
+def cleanAccents(parola):
+    pulita = parola.replace("à", "a")
+    pulita = pulita.replace("è", "e")
+    pulita = pulita.replace("é", "e")
+    pulita = pulita.replace("ì", "i")
+    pulita = pulita.replace("ò", "o")
+    pulita = pulita.replace("ó", "o") 
+    pulita = pulita.replace("ù", "u")  
+    pulita = re.sub("[^a-z]", "", pulita.lower())
+    return pulita
+
+def mergeSapere(mytable):
+    sapere = openTable("listing_sapere_profession_it.csv")
+    transTable = list(map(list, zip(*mytable)))
+    #transTable = list(map(list, itertools.zip_longest(*mytable, fillvalue="")))
+    for r in range(len(sapere)):
+        if cleanAccents(sapere[r][1]) in transTable[1]:
+            newrow = [sapere[r][0],cleanAccents(sapere[r][1])]
+            newrow.extend(sapere[r][2:])
+            mytable.append(newrow)
+    return mytable
+    
 #Main routine:
-print("Available sources:\n 1 - Wikidata\n 2 - Sapere.it")
-source = input("Where do you want to get data from?")
-if source == "2":
-    mytable = getSapereProfessions()
-    myentity = "sapere_profession"
-    mylang = "it"
-    filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"    
-    saveTable(mytable, filename)
-    print("Saved in " + filename)
-    sys.exit()
+source = "1"
+#print("Available sources:\n 1 - Wikidata\n 2 - Sapere.it")
+#source = input("Where do you want to get data from?")
+#if source == "2":
+#    mytable = getSapereProfessions()
+#    myentity = "sapere_profession"
+#    mylang = "it"
+#    filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"    
+#    saveTable(mytable, filename)
+#    print("Saved in " + filename)
+#    sys.exit()
 
 print("Supported entites:")
 for key in entities:
@@ -343,5 +368,8 @@ for mylang in mylangs:
     fulltable = mergeResultTables(mytable, oldtable)
     saveTable(fulltable, filename)
     print("Saved in " + filename)
-
+if "it" in mylangs and "exstra_dictionary" in filename:
+    fulltable = openTable(filename)
+    fulltable = mergeSapere(fulltable)
+    saveTable(fulltable, filename)
 
