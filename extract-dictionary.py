@@ -298,7 +298,7 @@ def mergeSapere(mytable):
     transTable = list(map(list, zip(*mytable)))
     #transTable = list(map(list, itertools.zip_longest(*mytable, fillvalue="")))
     for r in range(len(sapere)):
-        if cleanAccents(sapere[r][1]) in transTable[1]:
+        if cleanAccents(sapere[r][1]) not in transTable[1]:
             newrow = [sapere[r][0],cleanAccents(sapere[r][1])]
             newrow.extend(sapere[r][2:])
             mytable.append(newrow)

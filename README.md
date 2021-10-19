@@ -32,7 +32,7 @@ corpus can be:
 4. Generate simple plot report
 ```
 cd plots/histogram-decades
-Rscript occ-decades.R
+C:\Program Files\R\R-4.1.1\bin\Rscript.exe occ-decades.R
 ```
 For this to work you'll need R and Rscript (https://cran.r-project.org/bin/windows/base/, or ***apt-get install R*** on Debian).
 
