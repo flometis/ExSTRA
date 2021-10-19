@@ -191,13 +191,16 @@ for filepath in filenames:
             corpusraw = untagRegex(corpus)
         if corpusraw == "":
             corpusraw = corpus
-        corpusfile = UDtagger(corpusraw)
         taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+".tsv"
         if not os.path.isdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"):
             os.mkdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/")
         so = platform.system()
         if so == "Windows":
             taggedname = taggedname.replace("/", "\\")
+        if not os.path.isfile(taggedname):
+            corpusfile = UDtagger(corpusraw)
+        else:
+            print("Tagged corpus "+taggedname+" already exists, not tagging again.")
         text_file = open(taggedname, "w", encoding='utf-8')
         text_file.write(corpusfile)
         text_file.close()

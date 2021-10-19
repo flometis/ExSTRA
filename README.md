@@ -36,7 +36,7 @@ For this to work you'll need R and Rscript (https://cran.r-project.org/bin/windo
 - [ ] Make extract-dictionary.py non interactive
 - [ ] Add sapere.it lemmas in exstra-dictionary.csv
 - [ ] Change every CSV to TSV
-- [ ] Perform UDtagging only if needed (main.py)
+- [x] Perform UDtagging only if needed (main.py)
 - [ ] Improve speed for occurrences finder (main.py)
 - [ ] Add synonims from wikitionary for every wikidata lemma
 - [ ] Tidy up repository
