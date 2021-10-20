@@ -38,7 +38,7 @@ For this to work you'll need R and Rscript (https://cran.r-project.org/bin/windo
 
 ## TODO
 - [ ] Make extract-dictionary.py non interactive
-- [ ] Add sapere.it lemmas in exstra-dictionary.csv
+- [x] Add sapere.it lemmas in exstra-dictionary.csv
 - [ ] Change every CSV to TSV
 - [x] Perform UDtagging only if needed (main.py)
 - [ ] Improve speed for occurrences finder (main.py)
