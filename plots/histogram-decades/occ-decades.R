@@ -19,8 +19,8 @@ fullpath <- "../../Findings/exstra_dictionary_COMPLETE.csv";
 
 #file <- read.table(fullpath,header=TRUE, sep=",", col.names=c("Lemma" , "Occurrences", "Decade"), colClasses = c("character", "numeric", "factor"));
 
-origfile <- read.table(fullpath,header=TRUE, sep=",", col.names=c("File","Lemma","Occurrences","Language","LemmaID","Source","Tags","Author","Title","Gender","Year","Decade","Description"), colClasses =c("factor","character","numeric","factor","factor","character","character","character","character","factor","factor","factor","character"));
-origsubset <- origfile[, c(2,3,12)] ;
+origfile <- read.table(fullpath,header=TRUE, sep=",");
+origsubset <- origfile[, c("Lemma","Occurrences","Decade")] ;
 file <- aggregate(. ~Decade+Lemma, data=origsubset, sum, na.rm=TRUE)
 #print.data.frame(head(file));
 
