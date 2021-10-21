@@ -24,7 +24,7 @@ origsubset <- origfile[, c("Lemma","Occurrences","Decade")] ;
 file <- aggregate(. ~Decade+Lemma, data=origsubset, sum, na.rm=TRUE)
 #print.data.frame(head(file));
 
-for(i in levels(file$Decade)){
+for(i in levels(as.factor(file$Decade))){
     if (i != "") {
         basename <- sub('\\.csv$', '', fullpath);
         basename <- paste(basename,"-", i);
