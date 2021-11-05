@@ -36,6 +36,13 @@ C:\Program Files\R\R-4.1.1\bin\Rscript.exe occ-decades.R
 ```
 For this to work you'll need R and Rscript (https://cran.r-project.org/bin/windows/base/, or ***apt-get install R*** on Debian).
 
+5. Generate contingency table
+If you need a contingency table, you should run
+```
+python3 contingenza.py
+```
+The script, at this moment, builds a lemmaXyear table, but you can easily change the code to set different variable for rows and columns.
+
 ## TODO
 - [ ] Make extract-dictionary.py non interactive
 - [x] Add sapere.it lemmas in exstra-dictionary.csv
