@@ -27,11 +27,12 @@ for filename in filenames:
     print("Sto lavorando su: " + filename)
     
     i = 0
+    print("0%", end='')
     for operazione in toDo:
         i = i + 1
-        print(str((i/len(toDo))*100) + "%")
+        print('\r'+str((i/len(toDo))*100) + "%", end='', flush=True)
         fulltext = re.sub(operazione["find"], operazione["rep"],  fulltext)
-        
+    print("\n") 
     
     output = os.path.abspath(os.path.dirname(sys.argv[0])) + "/Eltec100/puliti/" + os.path.basename(filename)
     so = platform.system()
