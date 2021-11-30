@@ -13,8 +13,12 @@ if so == "Windows":
 filenames = [os.path.abspath(path + "/" + filename) for filename in os.listdir(path)]
 
 toDo = [
-    {"find": "[\r\n]+", "rep": "\n", "flag": "", "tag": ""}, 
-    {"find": "([^\.\!\?]) *\n", "rep": "\g<1>", "flag": "", "tag": ""},
+    {"find": "\r", "rep": "\n", "flag": 0, "tag": "carriageReturn"},
+    {"find": "\n[\n]+", "rep": "\n", "flag": 0, "tag": "inviiMultipli"},
+    {"find": "^\s*", "rep": "", "flag": re.MULTILINE, "tag": "spazioInizioRiga"},
+    {"find": "([^\s])\-\s*\n", "rep": "\g<1>", "flag": 0, "tag": "paroleSpezzate"},
+    {"find": "\s*\#+.*\#+\s*", "rep": "", "flag": re.MULTILINE, "tag": "numeroPaginaCancelletto"},
+    {"find": "([^\.\!\?\n\s])\s*\n", "rep": "\g<1>", "flag": 0, "tag": "invioAMetaFrase"},
     ]
 
 for filename in filenames:
@@ -30,8 +34,8 @@ for filename in filenames:
     print("0%", end='')
     for operazione in toDo:
         i = i + 1
-        print('\r'+str((i/len(toDo))*100) + "%", end='', flush=True)
-        fulltext = re.sub(operazione["find"], operazione["rep"],  fulltext)
+        print('\r'+str(int((i/len(toDo))*100)) + "%", end='', flush=True)
+        fulltext = re.sub(operazione["find"], operazione["rep"],  fulltext, flags=operazione["flag"])
     print("\n") 
     
     output = os.path.abspath(os.path.dirname(sys.argv[0])) + "/Eltec100/puliti/" + os.path.basename(filename)
