@@ -9,7 +9,7 @@ import platform
 import re
 import psutil
 
-path = "Eltec100/Eltec100"
+path = "Eltec100/puliti"
 filenames = [filename for filename in os.listdir(path)]
 
 filepath = "Eltec100/Eltec-metadata.tsv"
