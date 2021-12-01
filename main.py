@@ -14,6 +14,11 @@ so = platform.system()
 if  so == "Windows":
     pythonexe = "python"
 
+rmexe = "rm"
+so = platform.system()
+if  so == "Windows":
+    rmexe = "del"
+
 print("Do you want to clean up original texts? [y/N]")
 rch = input()
 if rch == "Y" or rch == "y":
@@ -21,8 +26,9 @@ if rch == "Y" or rch == "y":
 print("Do you want to tag again all texts? [y/N]")
 rch = input()
 if rch == "Y" or rch == "y":
+    #os.system(rmexe+" "+os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/*.tsv")
     os.system(pythonexe+ " clean-metadata.py --force")
-print("Do you want to check metadata integrity? [y/N]")
+print("Do you want to count tokens again? [y/N]")
 rch = input()
 if rch == "Y" or rch == "y":
     os.system(pythonexe+ " clean-metadata.py")

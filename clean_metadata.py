@@ -84,9 +84,12 @@ def savetable(risultato, fileName = "risultato.csv", separatore = ",", header = 
 
 #Main
 newtable = []
-for r in range(1,len(text.split('\n'))):
+for r in range(0,len(text.split('\n'))):
     row = text.split('\n')[r]
     line = row.split('\t')
+    if r == 0:
+        newtable.append(line)
+        continue
     if r > 0:
         line[0] = line[0].replace(".xml","")
         line[0] = re.sub('[^a-z]' , '',line[0].lower())
@@ -104,7 +107,7 @@ for r in range(1,len(text.split('\n'))):
     except:
         tnum = 0
     try:
-        if bool(tnum > 0 or len(line)<2) and not forceTag:
+        if len(line)<2:
             ops = 0/0
         totaltokens = 0
         try:
@@ -122,7 +125,24 @@ for r in range(1,len(text.split('\n'))):
             except:
                 #print("Error reading file")
                 pass
-        corpusfile = UDtagger(corpusraw)
+
+        taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(path+"/"+line[0])[:-4]+".tsv"
+        if not os.path.isdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"):
+            os.mkdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/")
+        so = platform.system()
+        if so == "Windows":
+            taggedname = taggedname.replace("/", "\\")
+        if forceTag or not os.path.isfile(taggedname):
+            corpusfile = UDtagger(corpusraw)
+        else:
+            print("Tagged corpus "+taggedname+" already exists, not tagging again.")
+            text_file = open(taggedname, "r", encoding='utf-8')
+            corpusfile = text_file.read()
+            text_file.close()
+        text_file = open(taggedname, "w", encoding='utf-8')
+        text_file.write(corpusfile)
+        text_file.close()
+
         corpuslist = corpusfile.split("\n")
         for u in range(len(corpuslist)):
             udline = corpuslist[u]
@@ -133,7 +153,7 @@ for r in range(1,len(text.split('\n'))):
                 test = int(tmptokens)
                 thistext = re.sub(ignoretext, "", udline.split('\t')[1])
                 if thistext == "":
-                    print("PUNCT")
+                    #print("PUNCT")
                     continue
                 totaltokens = totaltokens + 1
             except:
