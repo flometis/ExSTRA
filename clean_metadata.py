@@ -17,6 +17,10 @@ text_file = open(filepath, "r", encoding='utf-8')
 text = text_file.read()
 text_file.close()
 
+forceTag = False
+if sys.argv[-1] == "--force":
+    forceTag = True
+
 so = platform.system()
 if  so == "Windows":
     eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-Win64/udpipe"
@@ -29,6 +33,7 @@ modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.
 
 dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
 
+ignoretext = "((?<=[^0-9])"+ re.escape(".")+ "|^" + re.escape(".")+ "|(?<= )"+ re.escape("-")+ "|^"+re.escape("-")+ "|"+re.escape(":")+"|(?<=[^0-9])"+re.escape(",")+"|^"+re.escape(",")+"|"+re.escape(";")+"|"+re.escape("?")+"|"+re.escape("!")+"|"+re.escape("«")+"|"+re.escape("»")+"|"+re.escape("\"")+"|"+re.escape("(")+"|"+re.escape(")")+"|^"+re.escape("'")+ "|" + re.escape("[PUNCT]") + "|" + re.escape("[SYMBOL]") + "|" + re.escape("<unknown>") + ")"
 
 def UDtagger(origcorpus):
     global eseguibile
@@ -79,23 +84,27 @@ def savetable(risultato, fileName = "risultato.csv", separatore = ",", header = 
 
 #Main
 newtable = []
-for r in range(len(text.split('\n'))):
+for r in range(1,len(text.split('\n'))):
     row = text.split('\n')[r]
     line = row.split('\t')
     if r > 0:
         line[0] = line[0].replace(".xml","")
         line[0] = re.sub('[^a-z]' , '',line[0].lower())
+    found = False
     for file in filenames:
         fileclean = re.sub('[^a-z]' , '',file.lower())
         if fileclean.startswith(line[0]):
+            found = True
             line[0] = file
+    if not found:
+        print("ERROR: File "+ line[0] + " not found")
     #Conteggio tokens
     try:
         tnum = int(line[6])
     except:
         tnum = 0
     try:
-        if tnum > 0 or len(line)<2:
+        if bool(tnum > 0 or len(line)<2) and not forceTag:
             ops = 0/0
         totaltokens = 0
         try:
@@ -122,6 +131,10 @@ for r in range(len(text.split('\n'))):
             try:
                 tmptokens = udline[:udline.index('\t')]
                 test = int(tmptokens)
+                thistext = re.sub(ignoretext, "", udline.split('\t')[1])
+                if thistext == "":
+                    print("PUNCT")
+                    continue
                 totaltokens = totaltokens + 1
             except:
                 elements = tmptokens.count("-") +1 #se la parola è composta ho un -, per esempio 11-12, quindi avrò 2 righe superflue
