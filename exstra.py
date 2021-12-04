@@ -61,7 +61,7 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
     listarisultati = []
     fileinfo = ['','','','','']
     for mrow in metadata:
-        if mrow[0] == os.path.basename(filepath):
+        if re.sub("[^a-z0-9]","",mrow[0].lower()[:-4]) == re.sub("[^a-z0-9]","",os.path.basename(filepath).lower()[:-4]):
             fileinfo[0] = mrow[1].replace(",","")
             fileinfo[1] = mrow[2].replace(",","")
             fileinfo[2] = mrow[3]
