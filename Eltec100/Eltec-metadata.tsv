@@ -1,6 +1,6 @@
 filename	autore	titolo	sesso	anno	decennio	tokens	range
 Aleramo-Sibilla_Il-passaggio_1919.txt	Aleramo, Sibilla	Il passaggio	f	1919	1910_1920	21527	10_50mila
-Aleramo-Sibilla_Una-donna_1907.txt	Aleramo, Sibilla	Una donna	f	1907	1900_1910	58812	50_150mila
+Aleramo-Sibilla_Una-donna_1907.txt	Aleramo, Sibilla	Una donna	f	1907	1900_1909	58812	50_150mila
 Baccini-Ida_Il-principino_1883.txt	Baccini, Ida	Il principino	f	1883	1880_1889	16683	10_50mila
 Barbieri-Ulisse_Lucifero_1871.txt	Barbieri, Ulisse	Lucifero	m	1871	1870_1879	11833	10_50mila
 Battaglia-Giacinto_La-lega-lombarda_1834.txt	Battaglia, Giacinto	La lega lombarda	m	1834	1830_1839	22935	10_50mila
@@ -24,10 +24,10 @@ Deledda-Grazia_Canne-al-vento_1913.txt	Deledda, Grazia	Canne al vento	f	1913	191
 Deledda-Grazia_La-madre_1920.txt	Deledda, Grazia	La madre	f	1920	1910_1920	34211	10_50mila
 Deledda-Grazia_La-via-del-male_1896.txt	Deledda, Grazia	La via del male	f	1896	1890_1899	63338	50_150mila
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	De Marchi, Emilio	Demetrio Pianelli	m	1890	1890_1899	93479	50_150mila
-De-Marchi-Emilio_Giacomo-l-idealista_1897.txt	De Marchi, Emilio	Giacomo l’idealista	m	1897	1890_1899	88656	10_50mila
+De-Marchi-Emilio_Giacomo-l-idealista_1897.txt	De Marchi, Emilio	Giacomo l’idealista	m	1897	1890_1899	88656	50_150mila
 De-Marchi-Emilio_Il-cappello-del-prete_1888.txt	De Marchi, Emilio	Il cappello del prete	m	1888	1880_1889	54545	50_150mila
-De-Roberto-Federico_I-vicere_1894.txt	De Roberto, Federico	I viceré	m	1894	1890_1899	194545	10_50mila
-De-Roberto-Federico_Processi-verbali_1890.txt	De Roberto, Federico	Processi verbali	m	1890	1890_1899	31125	50_150mila
+De-Roberto-Federico_I-vicere_1894.txt	De Roberto, Federico	I viceré	m	1894	1890_1899	194545	oltre150mila
+De-Roberto-Federico_Processi-verbali_1890.txt	De Roberto, Federico	Processi verbali	m	1890	1890_1899	31125	10_50mila
 Di-Luanto-Regina_Nuovissimo-amore_1903.txt	Di Luanto, Regina	Nuovissimo amore	f	1903	1900_1909	50362	50_150mila
 Di-Luanto-Regina_Per-il-lusso_1912.txt	Di Luanto, Regina	Per il lusso	f	1912	1910_1920	58431	50_150mila
 Dossi-Carlo_La-colonia-felice_1874.txt	Dossi, Carlo	La colonia felice	m	1874	1870_1879	15132	10_50mila
@@ -52,7 +52,7 @@ Manzoni-Alessandro_Storia-della-colonna-infame_1840.txt	Manzoni, Alessandro	Stor
 Marchesa-Colombi_Prima-morire_1881.txt	Marchesa Colombi	Prima morire	f	1881	1880_1889	56374	50_150mila
 Melegari-Dora_Caterina-Spadaro_1908.txt	Melegari, Dora	Caterina Spadaro	f	1908	1900_1909	48372	10_50mila
 Neera_Lydia_1888.txt	Neera	Lydia	f	1888	1880_1889	43535	10_50mila
-Neera_Una-passione_1903.txt	Neera	Un nido	f	1903	1900_1909	52032	10_50mila
+Neera_Una-passione_1903.txt	Neera	Un nido	f	1903	1900_1909	52032	50_150mila
 Neera_Un-nido_1880.txt	Neera	Una passione	f	1880	1880_1889	29687	10_50mila
 Negri-Ada_Le-solitarie_1917.txt	Negri, Ada	Le solitarie	f	1917	1910_1920	45665	10_50mila
 Nievo-Ippolito_Il-Barone-di-Nicastro_1860.txt	Nievo, Ippolito	Le confessioni di un italiano	m	1860	1860_1869	50969	50_150mila
@@ -62,7 +62,7 @@ Oriani-Alfredo_No_1881.txt	Oriani, Alfredo	No	m	1881	1880_1889	90878	50_150mila
 Perodi-Emma_Il-principe-della-Marsiliana_1891.txt	Perodi, Emma	Il principe della marsiliana	f	1891	1890_1899	51023	50_150mila
 Petrucelli-della-Gattina-Ferdinando_Il-sorbetto-della-regina_1890.txt	Petruccelli, Ferdinando	Il sorbetto della regina	m	1890	1890_1899	66282	50_150mila
 Petrucelli-della-Gattina-Ferdinando_Memorie-di-Giuda_1867.txt	Petruccelli, Ferdinando	Memorie di Giuda	m	1867	1860_1869	138061	50_150mila
-Petrucelli-della-Gattina-Ferdinando_I-moribondi-del-Palazzo-Carignano_1862.txt	Petruccelli, Ferdinando	I moribondi del palazzo Carignano	m	1862	1860_1869	41651	50_150mila
+Petrucelli-della-Gattina-Ferdinando_I-moribondi-del-Palazzo-Carignano_1862.txt	Petruccelli, Ferdinando	I moribondi del palazzo Carignano	m	1862	1860_1869	41651	10_50mila
 Pirandello-Luigi_Il-fu-Mattia_Pascal_1904.txt	Pirandello, Luigi	I vecchi e i giovani	m	1904	1900_1909	74010	50_150mila
 Pirandello-Luigi_I-vecchi-e-i-Giovani_1913.txt	Pirandello, Luigi	Il fu Mattia Pascal	m	1913	1910_1920	142258	50_150mila
 Pirandello-Luigi_L-esclusa_1901.txt	Pirandello, Luigi	L’esclusa	m	1901	1900_1909	52400	50_150mila
