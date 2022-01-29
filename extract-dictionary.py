@@ -10,7 +10,7 @@ import time
 from socket import timeout
 
 #List of the Wikidata entities we can download. If you need another one, just add it to the dictionary
-entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "human": "Q5" }
+entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "honorary title": "Q3320743", "ecclesiastical occupation": "Q11773926", "historical profession": "Q16335296", "military rank": "Q56019", "human": "Q5"}
 
 #Any language can be used, I'm laying these out just as examples
 langs = {"inglese":"en", "italiano":"it", "tedesco":"de", "francese":"fr", "siciliano":"scn", "lombardo": "lmo", "friulano": "fur", "emiliano romagnolo":"eml", "romagnolo": "rgn", "veneto":"vec", "croato":"hr", "sloveno":"sl", "corso": "co", "etrusco":"ett", "franco provenzale": "frp", "latino": "la", "ladino": "lld", "napoletano": "nap", "occitano": "oc", "ligure": "lij", "monegasco": "lij-mc", "greco antico": "grc", "piemontese": "pms", "tarantino": "roa-tara", "sardo": "sc", "sassarese": "sdc", "albanese": "sq", "spagnolo": "es", "portoghese": "pt"}          
@@ -94,6 +94,13 @@ def mergeResultTables(table1, table2):
     #columns:
     #ID,lemma,source,language,tag,descrizione
     mytbclean = [mytable[i] for i in range(len(mytable)) if i == 0 or mytable[i][:-1] != mytable[i-1][:-1]]   #the last element is the description
+    #mytbclean = []
+    #for i in range(len(mytable)):
+    #    if i == 0 or bool(mytable[i][0] != mytable[i-1][0] and mytable[i][1] != mytable[i-1][1]):   #the last element is the description
+    #        mytbclean.append(mytable[i])
+    #    else:
+    #        if mytable[i][4] not in mytbclean[-1][4]: #4 is the category
+    #            mytbclean[-1][4] = mytbclean[-1][4] + ";" + mytable[i][4]
     return mytbclean
 
 
@@ -322,8 +329,19 @@ for key in entities:
     print("'" + key + "'")
 print("Press Ctrl+C to exit")
 myentity = "none"
-while myentity not in entities:
-    myentity = input("Which entity do you want to list?")
+while bool(myentity not in entities and myentity.lower() != "all" and "," not in myentity):
+    myentity = input("Which entity do you want to list? (Write 'all' to get everything except humans search) ")
+myentityList = []
+if myentity == "all":
+    for key in entities:
+        if key == "human":
+            continue
+        myentityList.append(key)
+elif "," in myentity:
+    myentityList = myentity.split(",")
+else:
+    myentityList = [myentity]
+myentity = ""
 
 print("Example of languages (choose 'all' for all supported languages or use ',' as separator):")
 for key in langs:
@@ -345,18 +363,20 @@ else:
 
 for mylang in mylangs:
     #if we are looking for humans (Q5) probably we need to run the query many times (one run for every year of birth we need). This means we'll need to merge tables, so we also sort only at the end. Sorting every table before merging it would be a waste of time, we do it only once, after all table are merged into a single one
-    if entities[myentity] == "Q5":
+    if "human" in myentityList:
         yearfrom = input("From which year do you want to start? (years BC are < 0)")
         yearto = input("To which year do you want to stop?")
         mytable = []
         for year in range(int(yearfrom), int(yearto)):
-            tmptable = getInstanceOf(myentity, mylang, year, sort=False)
+            tmptable = getInstanceOf("human", mylang, year, sort=False)
             mergeTables(mytable, tmptable)
             #time.sleep(10)
         mytable = groupTable(mytable, 0)
         mytable = sortTable(mytable, 2) 
     else:
-        mytable = getInstanceOf(myentity, mylang)
+        mytable = []
+        for myentity in myentityList:
+            mytable.extend(getInstanceOf(myentity, mylang))
 
     #It's safer to specify full path of the file. We could ask the user for it, but that's for the future
     #filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"
