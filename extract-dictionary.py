@@ -262,10 +262,10 @@ def saveTable(table, outFile):
     text_file.close()
     #now write one line after the other
     for row in table:
-        #we need to build the new line for the file: it's going to be the list of cells in current table row, separated by comma
+        #we need to build the new line for the file: it's going to be the list of cells in current table row, separated by tab
         rowtxt = ""
         for col in row:
-            rowtxt = rowtxt + "," + col.replace(',',';')
+            rowtxt = rowtxt + "\t" + col.replace(',',';')
         try:
             #mode "a" means append to file
             with open(outFile, "a", encoding='utf-8') as myfile:
@@ -278,7 +278,7 @@ def saveTable(table, outFile):
                 myfile.write(rowtxt[1:]+"\n")
             
 
-def openTable(inFile):
+def openTable(inFile, sep = "\t"):
     text_file = open(inFile, "r", encoding='utf-8')
     patternlist = text_file.read()
     text_file.close()
@@ -286,7 +286,7 @@ def openTable(inFile):
     for row in patternlist.split("\n"):
         if row=="":
             continue
-        mytable.append(row.split(","))
+        mytable.append(row.split(sep))
     return mytable
 
 def cleanAccents(parola):
@@ -301,7 +301,7 @@ def cleanAccents(parola):
     return pulita
 
 def mergeSapere(mytable):
-    sapere = openTable("listing_sapere_profession_it.csv")
+    sapere = openTable("listing_sapere_profession_it.tsv")
     transTable = list(map(list, zip(*mytable)))
     #transTable = list(map(list, itertools.zip_longest(*mytable, fillvalue="")))
     for r in range(len(sapere)):
@@ -319,18 +319,30 @@ source = "1"
 #    mytable = getSapereProfessions()
 #    myentity = "sapere_profession"
 #    mylang = "it"
-#    filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"    
+#    filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".tsv"    
 #    saveTable(mytable, filename)
 #    print("Saved in " + filename)
 #    sys.exit()
 
-print("Supported entites:")
+print("Command line arguments: python3 extract_dictionary.py entitiesList languagesList [yearFrom] [yearTo]")
+print("E.g.: python3 extract-dictionary.py all it,scn,eml,ven")
+print("E.g.: python3 extract-dictionary.py human it 1800 1801")
+
+if len(sys.argv)>1:
+    if sys.argv[1] == "help":
+        sys.exit()
+
+print("\nSupported entites:")
 for key in entities:
     print("'" + key + "'")
 print("Press Ctrl+C to exit")
 myentity = "none"
-while bool(myentity not in entities and myentity.lower() != "all" and "," not in myentity):
-    myentity = input("Which entity do you want to list? (Write 'all' to get everything except humans search) ")
+try:
+    myentity = sys.argv[1]
+except:
+    while bool(myentity not in entities and myentity.lower() != "all" and "," not in myentity):
+        myentity = input("Which entity do you want to list? (Write 'all' to get everything except humans search) ")
+
 myentityList = []
 if myentity == "all":
     for key in entities:
@@ -347,10 +359,13 @@ print("Example of languages (choose 'all' for all supported languages or use ','
 for key in langs:
     print(langs[key] + " (" + key + ")")
 print("Full languages list: https://www.wikidata.org/wiki/Help:Wikimedia_language_codes/lists/all")
-tmplang = input("Which language do you want?")
+try:
+    tmplang = sys.argv[2]
+except:
+    tmplang = input("Which language do you want?")
 
-filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.csv"
 
+filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.tsv"
 
 if tmplang == "all":
     mylangs = []
@@ -364,8 +379,12 @@ else:
 for mylang in mylangs:
     #if we are looking for humans (Q5) probably we need to run the query many times (one run for every year of birth we need). This means we'll need to merge tables, so we also sort only at the end. Sorting every table before merging it would be a waste of time, we do it only once, after all table are merged into a single one
     if "human" in myentityList:
-        yearfrom = input("From which year do you want to start? (years BC are < 0)")
-        yearto = input("To which year do you want to stop?")
+        try:
+            yearfrom = sys.argv[3]
+            yearto = sys.argv[4]
+        except:
+            yearfrom = input("From which year do you want to start? (years BC are < 0)")
+            yearto = input("To which year do you want to stop?")
         mytable = []
         for year in range(int(yearfrom), int(yearto)):
             tmptable = getInstanceOf("human", mylang, year, sort=False)
@@ -379,7 +398,7 @@ for mylang in mylangs:
             mytable.extend(getInstanceOf(myentity, mylang))
 
     #It's safer to specify full path of the file. We could ask the user for it, but that's for the future
-    #filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".csv"
+    #filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".tsv"
     try:
         oldtable = openTable(filename)
     except:

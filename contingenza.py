@@ -48,13 +48,13 @@ for row in metadatastr.split("\n"):
     metadata.append(row.split('\t'))
 metadata = metadata[1:]
 
-findingsfile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/exstra_dictionary_COMPLETE.csv"
+findingsfile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/exstra_dictionary_COMPLETE.tsv"
 text_file = open(findingsfile, "r", encoding='utf-8')
 findingsstr = text_file.read()
 text_file.close()
 findings = []
 for row in findingsstr.split("\n"):
-    findings.append(row.split(','))
+    findings.append(row.split('\t'))
 findings = findings[1:]
 
 

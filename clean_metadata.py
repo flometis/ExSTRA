@@ -68,7 +68,7 @@ def UDtagger(origcorpus):
     #print(stroutput)
     return stroutput
 
-def savetable(risultato, fileName = "risultato.csv", separatore = ",", header = ""):
+def savetable(risultato, fileName = "risultato.tsv", separatore = "\t", header = ""):
     stringarisultato = header
     for r in range(len(risultato)):
         for i in range(len(risultato[r])):

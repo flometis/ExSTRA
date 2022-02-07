@@ -24,10 +24,15 @@ python3 clean-metadata.py --force
 
 
 3. (optional) Generate new ExSTRA dictionary
+
+For example, these commands will find all entities (profession, social rank, etc...) in Italian, Sicilian, Emiliano-Romagnolo, Veneziano, Furlan, and then every profession for people born between 1800 and 1801.
 ```
-python3 extract-dictionary.py
+python3 extract-dictionary.py all it,scn,eml,ven,fur
+python3 extract-dictionary.py human it 1800 1801
 ```
-At this moment, this is an interactive tool: answer to the questions to get the lemmas you want.
+This is also interactive tool: if run without arguments, it will ask you questions to get the lemmas you want.
+
+NOTE: This tool updates the existing dictionary, it does not drop old records. This means that you can add more entities or languages to the existing file just by running again the script with different parameters.
 
 4. Extract lemma occurrences
 If you need to tag again your corpus, please remove files inside ***Tagged*** folder (rm Tagged/*).
@@ -59,7 +64,7 @@ python3 contingenza.py
 The script, at this moment, builds a lemmaXyear table, but you can easily change the code to set different variable for rows and columns.
 
 ## TODO
-- [ ] Make extract-dictionary.py non interactive
+- [x] Make extract-dictionary.py non interactive
 - [x] Add sapere.it lemmas in exstra-dictionary.csv
 - [ ] Change every CSV to TSV
 - [x] Perform UDtagging only if needed (main.py)

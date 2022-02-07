@@ -33,10 +33,10 @@ rch = input()
 if rch == "Y" or rch == "y":
     os.system(pythonexe+ " clean-metadata.py")
 
-#print("Do you want to build again ExSTRA dictionary? [y/N]")
-#rch = input()
-#if rch == "Y" or rch == "y":
-#    os.system(pythonexe+ " extract-dictionary.py")
+print("Do you want to update ExSTRA dictionary? [y/N]")
+rch = input()
+if rch == "Y" or rch == "y":
+    os.system(pythonexe+ " extract-dictionary.py all it")
 
 print("Running again ExSTRA")
 os.system(pythonexe+ " exstra.py Eltec100/puliti it")

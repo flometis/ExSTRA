@@ -73,9 +73,10 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
     #Realizzo un dizionario per accesso rapido alle informazioni
     for prow in range(len(patternlist)):
         try:
-            chiave = patternlist[prow].split(",")[profs["prof"]]
-            valori = [patternlist[prow].split(",")[profs["url"]], patternlist[prow].split(",")[profs["source"]], patternlist[prow].split(",")[profs["tag"]], patternlist[prow].split(",")[profs["definition"]]]
-            lingua = patternlist[prow].split(",")[profs["lang"]]
+            sep = '\t'
+            chiave = patternlist[prow].split(sep)[profs["prof"]]
+            valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], patternlist[prow].split(sep)[profs["definition"]]]
+            lingua = patternlist[prow].split(sep)[profs["lang"]]
             if languages != "":
                 if lingua not in languages.split(","):
                     continue
@@ -85,6 +86,7 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
                 patterndict[chiave] = {lingua: valori}
         except:
             continue
+    print("Dictionary size: "+str(len(patterndict)))
     #Conto le occorrenze
     occ = {}
     for row in range(len(mytable)):
@@ -114,9 +116,9 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
                             listarisultati[resRow][2] = occ[lemma]
     return listarisultati
 
-def savetable(risultato, fileName = "risultato.csv"):
-    header = "File,Lemma,Occurrences,Language,LemmaID,Source,Tags,Author,Title,Gender,Year,Decade,Description\n"
-    separatore = ","
+def savetable(risultato, fileName = "risultato.tsv"):
+    header = "File\tLemma\tOccurrences\tLanguage\tLemmaID\tSource\tTags\tAuthor\tTitle\tGender\tYear\tDecade\tDescription\n"
+    separatore = "\t"
     stringarisultato = header
     for r in range(len(risultato)):
         for i in range(len(risultato[r])):
@@ -157,7 +159,7 @@ if len(sys.argv) >2:
 else:
     chooseLang = ""
 
-patternlistFile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.csv" 
+patternlistFile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.tsv" 
 if len(sys.argv) >3:
     patternlistFile = sys.argv[3]
 
@@ -165,7 +167,7 @@ text_file = open(patternlistFile, "r", encoding='utf-8')
 patternlist = text_file.read()
 text_file.close()
 
-fullresults = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_COMPLETE.csv"
+fullresults = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_COMPLETE.tsv"
 
 
 filenames = []
@@ -214,7 +216,7 @@ for filepath in filenames:
     risultato = patternfinder(filepath, corpusfile, patternlist, chooseLang)
     risultati.extend(risultato)
 #Trasformo la tabella in una stringa formato CSV
-    newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_"+os.path.basename(filepath)[:-4]+".csv"
+    newname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/"+os.path.basename(patternlistFile)[:-4]+"_"+os.path.basename(filepath)[:-4]+".tsv"
     savetable(risultato, newname)
     savetable(risultati, fullresults)
     print("Results for this file in: "+newname)
