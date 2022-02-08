@@ -9,20 +9,32 @@ import time
 import os
 import platform
 import re
+import tempfile
+import subprocess
+import signal
+import shutil
 
 #VARIABILI GLOBALI
-
 so = platform.system()
 if  so == "Windows":
-    eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-Win64/udpipe"  
+    eseguibile = "C:\\Python37\\python.exe"
 elif so == "Linux":
-    eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-linux64/udpipe"
+    eseguibile = '/usr/bin/python3'
 elif so == "Mac":
-    eseguibile = os.path.abspath(os.path.dirname(sys.argv[0])) + "/bin-osx/udpipe"
-	#È chiaro che su Windows dovresti modificare il nome della cartella in bin-win64
+    eseguibile = '/usr/bin/python3'
+
+#Mi aspetto di trovare la cartella di Bran nella stessa cartella di ExSTRA (es: Documents/GitHub/ExSTRA, Documents/GitHub/Bran)
+branmain = os.path.dirname(os.path.abspath(os.path.dirname(sys.argv[0]))) + '/Bran/main.py'
+
+#TODO: passare un modello a Bran 
 modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.udpipe"
 
-dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 , "depA": 6, "depB": 7}
+if so == "Windows":
+    branmain = branmain.replace("/", "\\")
+if so == "Windows":
+    modello = modello.replace("/", "\\")
+
+corpuscols = {'TAGcorpus': 0,'token': 1,'lemma': 2,'pos': 3,'ner': 4,'feat': 5,'IDword': 6,'IDphrase': 7,'dep': 8,'head': 9}
 profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
 
 metadatafile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Eltec100/Eltec-metadata.tsv"
@@ -35,29 +47,43 @@ for row in metadatastr.split("\n"):
 metadata = metadata[1:]
 
 
-def UDtagger(origcorpus):
-    global eseguibile
-    global modello
-    #Udpipe andrebbe lanciato con un comando del tipo ./bin-linux64/udpipe --tokenize --tag --parse ./modelli/italian-isdt-ud-2.4-190531.udpipe
-    #Per poterlo avviare da Python con la libreria Subprocess dobbiamo dividere i vari argomenti in elementi di una lista, così non ci sono spazi
-    process = subprocess.Popen([eseguibile, "--tokenize", "--tag", "--parse", modello], stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-    #Per lavorare sullo standard input bisogna usare una sequenza di byte invece di una comune stringa di testo, perché siamo a basso livello. Una stringa può essere codificata come byte usando la sua funzione encode
-    testobyte = origcorpus.encode(encoding='utf-8')
-    #Una volta si usava questo metodo per scrivere su stdin:
-    #process.stdin.write(testo)
-    #ma ci sono dei problemi con i testi lunghi. Adesso si usa direttamente la funzione communicate, che allo stesso tempo fornisce anche la risposta elaborata dall'eseguibile
-    outputbyte = process.communicate(testobyte)[0]
-    #È una buona idea chiudere il flusso dello stdin quando hai finito di scrivere
-    process.stdin.close()
-    #Chiaramente anche l'output è una sequenza di byte, basta decodificarli in una stringa con la stessa codifica utf-8 usata per l'inpu
-    stroutput = outputbyte.decode(encoding='utf-8')
-    #print(stroutput)
-    return stroutput
-    
+def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
+    redirect = ""
+    if so == "Linux":
+      redirect = " &> /dev/null"
+    a = subprocess.Popen(mycmd + redirect, stdout=subprocess.PIPE, shell=True)
+    starttime = time.time()
+    if checkfile != "":
+        while os.path.isfile(checkfile)==False:
+           if (time.time() - starttime) > (mytimeout):
+               time.sleep(1)
+               break
+           time.sleep(0.5)
+    while a.poll():
+        if (time.time() - starttime) > mytimeout:
+            time.sleep(1)
+            break
+        else:
+            time.sleep(0.5)
+    #Safety measure: do not proceed immediately, os might still be writing the file
+    while (time.time()-os.path.getmtime(checkfile)<waitforstop):
+        time.sleep(0.5)
+    try:
+        #subprocess.Popen.kill(a)
+        os.kill(a.pid, signal.SIGKILL)
+    except:
+        if so == "Linux":
+            try:
+                os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o 'root *[0-9]*' | grep -o '[0-9]*') &> /dev/null")
+            except:
+                pass
+
 def patternfinder(filepath, stroutput, patternlist, languages = ""):
-    global dct
+    global corpuscols
     global profs
     global metadata
+    global eseguibile
+    global branmain
     listarisultati = []
     fileinfo = ['','','','','']
     for mrow in metadata:
@@ -93,8 +119,8 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
         mytable[row] = mytable[row].split("\t") #creare lista di liste (tabella, riga, colonna)
         if len(mytable[row]) <8:
             continue
-        lemma = mytable[row][dct["lemma"]]
-        if lemma in patterndict and "NOUN" in mytable[row][dct["POS"]]:
+        lemma = mytable[row][corpuscols["lemma"]]
+        if lemma in patterndict and "NOUN" in mytable[row][corpuscols["pos"]]:
             #Non ho modo di sapere quale sia la lingua del lemma, assegno le stesse occorrenze a tutte le lingue disponibili
             try:
                 occ[lemma] = occ[lemma] +1
@@ -193,21 +219,35 @@ for filepath in filenames:
             corpusraw = untagRegex(corpus)
         if corpusraw == "":
             corpusraw = corpus
-        taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+".tsv"
+        taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+"-bran.tsv"
         if not os.path.isdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"):
             os.mkdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/")
         so = platform.system()
         if so == "Windows":
             taggedname = taggedname.replace("/", "\\")
         if not os.path.isfile(taggedname):
-            corpusfile = UDtagger(corpusraw)
+            #corpusfile = UDtagger(corpusraw)
+            if so == "Windows":
+                os.makedirs("C:\Temp\Bran", exist_ok=True)
+                tmpdir = tempfile.NamedTemporaryFile(dir="C:\Temp\Bran").name
+            else:
+                os.makedirs("/tmp/Bran", exist_ok=True)
+                tmpdir = tempfile.NamedTemporaryFile(dir="/tmp/Bran").name
+            os.makedirs(tmpdir)
+            origfile = tmpdir+"/testo.txt"
+            print("Tagging file in temporary folder "+tmpdir)
+            file = open(origfile,"w", encoding='utf-8')
+            file.write(corpusraw)
+            file.close()
+            sessionfile = tmpdir+"/testo-bran.tsv"
+            execWithTimeout(eseguibile+" "+branmain+" udpipeImport "+origfile+" ita n", sessionfile, 1200) #Se entro 20 minuti non ha finito il tag, il file deve avere qualche problema
+            shutil.move(sessionfile, taggedname)
+            shutil.rmtree(tmpdir)
+            print("Written tagged output to: "+taggedname)
         else:
             print("Tagged corpus "+taggedname+" already exists, not tagging again.")
-            text_file = open(taggedname, "r", encoding='utf-8')
-            corpusfile = text_file.read()
-            text_file.close()
-        text_file = open(taggedname, "w", encoding='utf-8')
-        text_file.write(corpusfile)
+        text_file = open(taggedname, "r", encoding='utf-8')
+        corpusfile = text_file.read()
         text_file.close()
     elif filepath[-4:] == ".tsv":
         corpusfile = corpus
