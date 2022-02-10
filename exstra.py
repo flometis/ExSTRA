@@ -337,7 +337,7 @@ for filepath in filenames:
             file.write(corpusraw)
             file.close()
             sessionfile = tmpdir+"/testo-bran.tsv"
-            execWithTimeout(eseguibile+" "+branmain+" udpipeImport "+origfile+" ita n", sessionfile, 1200) #Se entro 20 minuti non ha finito il tag, il file deve avere qualche problema
+            execWithTimeout(eseguibile+" "+branmain+" udpipeImport "+origfile+" 'ita:"+modello+"' n", sessionfile, -1, 20) #Se entro 20 minuti non ha finito il tag, il file deve avere qualche problema
             shutil.move(sessionfile, taggedname)
             shutil.rmtree(tmpdir)
             print("Written tagged output to: "+taggedname)
