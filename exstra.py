@@ -37,6 +37,12 @@ if so == "Windows":
 corpuscols = {'TAGcorpus': 0,'token': 1,'lemma': 2,'pos': 3,'ner': 4,'feat': 5,'IDword': 6,'IDphrase': 7,'dep': 8,'head': 9}
 profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
 
+
+patterndict = {}
+ngramsdict = {}
+
+
+
 metadatafile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Eltec100/Eltec-metadata.tsv"
 text_file = open(metadatafile, "r", encoding='utf-8')
 metadatastr = text_file.read()
@@ -55,10 +61,12 @@ def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
     starttime = time.time()
     if checkfile != "":
         while os.path.isfile(checkfile)==False:
-           if (time.time() - starttime) > (mytimeout):
+           if (time.time() - starttime) > (mytimeout) and mytimeout > 0:
                time.sleep(1)
                break
            time.sleep(0.5)
+    if mytimeout < 1:
+        mytimeout = waitforstop
     while a.poll():
         if (time.time() - starttime) > mytimeout:
             time.sleep(1)
@@ -74,27 +82,13 @@ def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
     except:
         if so == "Linux":
             try:
-                os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o 'root *[0-9]*' | grep -o '[0-9]*') &> /dev/null")
+                os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o 'root *[0-9]*' | grep -o '[0-9]*' 2> /dev/null) 2> /dev/null")
             except:
                 pass
 
-def patternfinder(filepath, stroutput, patternlist, languages = ""):
-    global corpuscols
-    global profs
-    global metadata
-    global eseguibile
-    global branmain
-    listarisultati = []
-    fileinfo = ['','','','','']
-    for mrow in metadata:
-        if re.sub("[^a-z0-9]","",mrow[0].lower()[:-4]) == re.sub("[^a-z0-9]","",os.path.basename(filepath).lower()[:-4]):
-            fileinfo[0] = mrow[1].replace(",","")
-            fileinfo[1] = mrow[2].replace(",","")
-            fileinfo[2] = mrow[3]
-            fileinfo[3] = mrow[4]
-            fileinfo[4] = mrow[5]
-    patterndict = {}
-    mytable = stroutput.split("\n")
+def dictGenerator(patternlist, languages = ""):
+    global patterndict
+    global ngramsdict
     patternlist = patternlist.split("\n")
     #Realizzo un dizionario per accesso rapido alle informazioni
     for prow in range(len(patternlist)):
@@ -106,15 +100,44 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
             if languages != "":
                 if lingua not in languages.split(","):
                     continue
-            if chiave in patterndict:
-                patterndict[chiave][lingua] = valori
+            if " " in chiave:
+                #TODO: lemmatizzare chiave
+                if chiave in ngramsdict:
+                    ngramsdict[chiave][lingua] = valori
+                else:
+                    ngramsdict[chiave] = {lingua: valori}
             else:
-                patterndict[chiave] = {lingua: valori}
+                if chiave in patterndict:
+                    patterndict[chiave][lingua] = valori
+                else:
+                    patterndict[chiave] = {lingua: valori}
         except:
             continue
-    print("Dictionary size: "+str(len(patterndict)))
+    print("Lemmas: "+str(len(patterndict)))
+    print("Ngrams: "+str(len(ngramsdict)))
+
+def patternfinder(filepath, stroutput, patternlist, languages = ""):
+    global corpuscols
+    global profs
+    global metadata
+    global eseguibile
+    global branmain
+    global patterndict
+    global ngramsdict
+
+    listarisultati = []
+    fileinfo = ['','','','','']
+    for mrow in metadata:
+        if re.sub("[^a-z0-9]","",mrow[0].lower()[:-4]) == re.sub("[^a-z0-9]","",os.path.basename(filepath).lower()[:-4]):
+            fileinfo[0] = mrow[1].replace(",","")
+            fileinfo[1] = mrow[2].replace(",","")
+            fileinfo[2] = mrow[3]
+            fileinfo[3] = mrow[4]
+            fileinfo[4] = mrow[5]
+    mytable = stroutput.split("\n")
     #Conto le occorrenze
     occ = {}
+    #Lemma
     for row in range(len(mytable)):
         mytable[row] = mytable[row].split("\t") #creare lista di liste (tabella, riga, colonna)
         if len(mytable[row]) <8:
@@ -140,6 +163,78 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
                     for resRow in range(len(listarisultati)):
                         if listarisultati[resRow][1] == lemma and listarisultati[resRow][0] == os.path.basename(filepath) and listarisultati[resRow][3] == lingua:
                             listarisultati[resRow][2] = occ[lemma]
+    #Ngram:
+    if so == "Windows":
+        os.makedirs("C:\Temp\Bran", exist_ok=True)
+        tmpdir = tempfile.NamedTemporaryFile(dir="C:\Temp\Bran").name
+    else:
+        os.makedirs("/tmp/Bran", exist_ok=True)
+        tmpdir = tempfile.NamedTemporaryFile(dir="/tmp/Bran").name
+    os.makedirs(tmpdir)
+    sessionfile = tmpdir+"/testo-bran.tsv"
+    taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(filepath)[:-4]+"-bran.tsv"
+    shutil.copy(taggedname, sessionfile)
+    useFilter = False
+    if useFilter:
+        for ngram in ngramsdict:
+            mycol = 1
+            hkey = "token"
+            filtertext = ""
+            for iNG in range(len(ngram.split(" "))):
+                elNgram = ngram.split(" ")[iNG]
+                if iNG > 0:
+                    filtertext = filtertext + "&&"
+                filtertext = filtertext + "lemma["+str(iNG)+"]=^"+elNgram.replace("'","").replace('"','')+"$"
+            if filtertext == "":
+                continue
+            #print(filtertext)
+            cleanedfilter = re.sub("[^a-zA-Z0-9\[\]]", "", filtertext)[:50]
+            output = sessionfile + "-cerca-" + hkey + "-filtro-" + cleanedfilter + ".tsv"
+            #print(output)
+            execWithTimeout(eseguibile+" "+branmain+" cerca "+sessionfile+" "+ str(mycol) + " '" + filtertext +"' n", output, -1, 0.5)
+            ngOcc = 0
+            with open(output, "r", encoding='utf-8') as ins:
+                for line in ins:
+                    ngOcc = ngOcc +1
+            ngOcc = ngOcc -1
+            if ngOcc > 0:
+                #print("Ngram occurrences: "+str(ngOcc))
+                #occ[ngram] = ngOcc
+                #Aggiungo una riga per ogni lingua in cui esiste il lemma
+                for lingua in ngramsdict[ngram]:
+                     rigarisultato = [os.path.basename(filepath), ngram]
+                     rigarisultato.append(ngOcc)
+                     rigarisultato.append(lingua)
+                     rigarisultato.extend(ngramsdict[ngram][lingua][:-1])
+                     rigarisultato.extend(fileinfo)
+                     rigarisultato.append(ngramsdict[ngram][lingua][-1])
+                     listarisultati.append(rigarisultato)
+    else:
+        mycol = 2
+        hkey = "lemma"
+        output = sessionfile + "-ricostruito-" + hkey + "-.txt"
+        #execWithTimeout(eseguibile+" "+branmain+" ricostruisci "+sessionfile+" "+ str(mycol) + " n '' n", output, -1, 0.5)
+        execWithTimeout(eseguibile+" "+branmain+" ricostruisci "+sessionfile+" "+ str(mycol), output, -1, 0.5)
+        text_file = open(output, "r", encoding='utf-8')
+        rebuiltCorpus = text_file.read()
+        text_file.close()
+        #print(output)
+        for ngram in ngramsdict:
+            #we're looking for non overlapping occurrences 
+            #ngOcc = rebuiltCorpus.count(ngram)  #questo da problemi con iniziali e finali delle parole. Es: "re consorte" viene trovato in "essere consorte"
+            myregex = "[^A-Za-zàèéòìù]"+re.escape(ngram)+"[^A-Za-zàèéòìù]"
+            ngOcc = len(re.findall(myregex, rebuiltCorpus))
+            if ngOcc > 0:
+                #Aggiungo una riga per ogni lingua in cui esiste il lemma
+                for lingua in ngramsdict[ngram]:
+                     rigarisultato = [os.path.basename(filepath), ngram]
+                     rigarisultato.append(ngOcc)
+                     rigarisultato.append(lingua)
+                     rigarisultato.extend(ngramsdict[ngram][lingua][:-1])
+                     rigarisultato.extend(fileinfo)
+                     rigarisultato.append(ngramsdict[ngram][lingua][-1])
+                     listarisultati.append(rigarisultato)
+    shutil.rmtree(tmpdir)
     return listarisultati
 
 def savetable(risultato, fileName = "risultato.tsv"):
@@ -203,6 +298,8 @@ if os.path.isfile(path) == True:
 
 if os.path.isdir(path) == True:
     filenames = [os.path.abspath(path + "/" + filename) for filename in os.listdir(path)]
+
+dictGenerator(patternlist, chooseLang)
 
 risultati = []
 for filepath in filenames:
