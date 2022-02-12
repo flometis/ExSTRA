@@ -115,7 +115,7 @@ def tagText(filepath):
             file.write(corpus)
             file.close()
             sessionfile = tmpdir+"/testo-bran.tsv"
-            execWithTimeout(eseguibile+" "+branmain+" udpipeImport "+origfile+" '"+udlanguage+":"+modello+"' n", sessionfile, -1, 20) #Se entro 20 minuti non ha finito il tag, il file deve avere qualche problema
+            execWithTimeout(eseguibile+" "+branmain+" udpipeImport "+origfile+" \""+udlanguage+":"+modello+"\" n", sessionfile, -1, 20) #Se entro 20 minuti non ha finito il tag, il file deve avere qualche problema
             shutil.move(sessionfile, taggedname)
             shutil.rmtree(tmpdir)
             print("Written tagged output to: "+taggedname)
@@ -173,12 +173,15 @@ if os.path.isdir(path) == True:
     filenames = [os.path.abspath(path + "/" + filename) for filename in os.listdir(path)]
 
 
-#Get total number of cpu cores
-cores_available = len(os.sched_getaffinity(0))
-cores = int(cores_available*(3/4))
-if cores < 2:
-    cores = 2
+try:
+    #Get total number of cpu cores
+    cores_available = len(os.sched_getaffinity(0))
+    cores = int(cores_available*(3/4))
+    if cores < 2:
+        cores = 2
 #cores = 8
+except:
+    cores = 2
 
 
 #if not os.path.exists('/tmp/Bran'):
