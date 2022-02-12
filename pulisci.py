@@ -41,7 +41,7 @@ for filename in filenames:
     for operazione in toDo:
         i = i + 1
         print('\r'+str(int((i/len(toDo))*100)) + "%", end='', flush=True)
-        if "numeroPaginaCancelletto" in operazione["tag"] and not bool("lega-lombarda" in filename or "Torricelli" in filename or "Silvola" in filename or "assedio-di-Firenze" in filename):
+        if "numeroPaginaCancelletto" in operazione["tag"] and not bool("lega-lombarda" in filename or "Torricelli" in filename or "Silvola" in filename or "assedio-di-Firenze" in filename or "Gualtieri" in filename):
             #Per ora eseguiamo questa operazione solo su questo file, vedremo se fa danni su altri file
             continue
         fulltext = re.sub(operazione["find"], operazione["rep"],  fulltext, flags=operazione["flag"])
