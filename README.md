@@ -15,7 +15,7 @@ python3 pulisci.py
 2. (optional) Update metadata
 This should only be done if you plan to use a new corpus: please add its metadata in **Eltec100/Eltec-metadata.tsv**, then run
 ```
-python3 clean-metadata.py
+python3 clean_metadata.py
 ```
 To force tagging again already tagged corpus add --force as last argument:
 ```

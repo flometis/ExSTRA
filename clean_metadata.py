@@ -35,6 +35,15 @@ dct = {"sindex" : 0, "tkn" : 1, "lemma" : 2, "POS" : 3, "RPOS" : 4, "morph" : 5 
 
 ignoretext = "((?<=[^0-9])"+ re.escape(".")+ "|^" + re.escape(".")+ "|(?<= )"+ re.escape("-")+ "|^"+re.escape("-")+ "|"+re.escape(":")+"|(?<=[^0-9])"+re.escape(",")+"|^"+re.escape(",")+"|"+re.escape(";")+"|"+re.escape("?")+"|"+re.escape("!")+"|"+re.escape("«")+"|"+re.escape("»")+"|"+re.escape("\"")+"|"+re.escape("(")+"|"+re.escape(")")+"|^"+re.escape("'")+ "|" + re.escape("[PUNCT]") + "|" + re.escape("[SYMBOL]") + "|" + re.escape("<unknown>") + ")"
 
+
+tokenRanges = {
+"sotto10mila": [0,10000], 
+"10_50mila": [10000,50000],
+"50_150mila": [50000,150000],
+"oltre150mila": [150000, sys.maxsize]
+}
+
+
 def UDtagger(origcorpus):
     global eseguibile
     global modello
@@ -126,7 +135,7 @@ for r in range(0,len(text.split('\n'))):
                 #print("Error reading file")
                 pass
 
-        taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(path+"/"+line[0])[:-4]+".tsv"
+        taggedname = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"+os.path.basename(path+"/"+line[0])[:-4]+"-bran.tsv"
         if not os.path.isdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/"):
             os.mkdir(os.path.abspath(os.path.dirname(sys.argv[0]))+"/Tagged/")
         so = platform.system()
@@ -144,25 +153,18 @@ for r in range(0,len(text.split('\n'))):
         text_file.close()
 
         corpuslist = corpusfile.split("\n")
-        for u in range(len(corpuslist)):
-            udline = corpuslist[u]
-            #L'idea è che le righe che contengono token iniziano con un numero o al massimo con una serie di numeri separati da -
-            tmptokens = ""
-            try:
-                tmptokens = udline[:udline.index('\t')]
-                test = int(tmptokens)
-                thistext = re.sub(ignoretext, "", udline.split('\t')[1])
-                if thistext == "":
-                    #print("PUNCT")
-                    continue
-                totaltokens = totaltokens + 1
-            except:
-                elements = tmptokens.count("-") +1 #se la parola è composta ho un -, per esempio 11-12, quindi avrò 2 righe superflue
-                if elements >1:
-                    totaltokens = totaltokens - elements
-                pass
+        totaltokens = len(corpuslist)
         print(totaltokens)
         line[6] = totaltokens 
+        tkrange = ""
+        for rangelbl in tokenRanges:
+            if totaltokens > tokenRanges[rangelbl][0] and totaltokens < tokenRanges[rangelbl][1]:
+               tkrange = rangelbl
+        if len(line) < 7:
+            line.append(tkrange)
+        else:
+            line[7] = tkrange
+        
     except Exception as e:
         if "division by zero" in str(e)==False and "corpusraw" in str(e)==False:
             print(e)
