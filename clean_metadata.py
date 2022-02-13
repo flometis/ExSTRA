@@ -39,8 +39,8 @@ ignoretext = "((?<=[^0-9])"+ re.escape(".")+ "|^" + re.escape(".")+ "|(?<= )"+ r
 tokenRanges = {
 "sotto10mila": [0,10000], 
 "10_50mila": [10000,50000],
-"50_150mila": [50000,150000],
-"oltre150mila": [150000, sys.maxsize]
+"50_100mila": [50000,100000],
+"oltre100mila": [100000, sys.maxsize]
 }
 
 
