@@ -153,7 +153,10 @@ for r in range(0,len(text.split('\n'))):
         text_file.close()
 
         corpuslist = corpusfile.split("\n")
-        totaltokens = len(corpuslist)
+        totaltokens = 0
+        for element in corpuslist:
+            if "PUNCT" not in element:
+                totaltokens = totaltokens + 1
         print(totaltokens)
         line[6] = totaltokens 
         tkrange = ""
