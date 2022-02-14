@@ -66,7 +66,7 @@ The script, at this moment, builds a lemmaXyear table, but you can easily change
 ## TODO
 - [x] Make extract-dictionary.py non interactive
 - [x] Add sapere.it lemmas in exstra-dictionary.csv
-- [ ] Change every CSV to TSV
+- [x] Change every CSV to TSV
 - [x] Perform UDtagging only if needed (main.py)
 - [ ] Improve speed for occurrences finder (main.py)
 - [ ] Add synonims from wikitionary for every wikidata lemma

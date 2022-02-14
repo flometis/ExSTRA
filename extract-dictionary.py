@@ -8,6 +8,13 @@ import json
 import datetime
 import time
 from socket import timeout
+import os.path
+import platform
+import tempfile
+import subprocess
+import signal
+import shutil
+
 
 #List of the Wikidata entities we can download. If you need another one, just add it to the dictionary
 entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "honorary title": "Q3320743", "ecclesiastical occupation": "Q11773926", "historical profession": "Q16335296", "military rank": "Q56019", "human": "Q5"}
@@ -26,6 +33,94 @@ WIKIDATA_SPARQL_URL = "https://query.wikidata.org/sparql"
 SAPERE_URL = "https://www.sapere.it/sapere/enciclopedia/storia-e-societ%C3%A0/economia-e-statistica/generale/mestieri-e-professioni.html?src="
 
 language = ""
+
+
+so = platform.system()
+if  so == "Windows":
+    eseguibile = "C:\\Python37\\python.exe"
+elif so == "Linux":
+    eseguibile = '/usr/bin/python3'
+elif so == "Mac":
+    eseguibile = '/usr/bin/python3'
+
+#Mi aspetto di trovare la cartella di Bran nella stessa cartella di ExSTRA (es: Documents/GitHub/ExSTRA, Documents/GitHub/Bran)
+branmain = os.path.dirname(os.path.abspath(os.path.dirname(sys.argv[0]))) + '/Bran/main.py'
+
+#TODO: passare un modello a Bran 
+modello = os.path.abspath(os.path.dirname(sys.argv[0])) + "/modelli/italial-all.udpipe"
+
+if so == "Windows":
+    branmain = branmain.replace("/", "\\")
+if so == "Windows":
+    modello = modello.replace("/", "\\")
+
+corpuscols = {'TAGcorpus': 0,'token': 1,'lemma': 2,'pos': 3,'ner': 4,'feat': 5,'IDword': 6,'IDphrase': 7,'dep': 8,'head': 9}
+profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
+
+
+def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
+    redirect = ""
+    if so == "Linux" and False:
+      redirect = " &> /dev/null"
+    a = subprocess.Popen(mycmd + redirect, stdout=subprocess.PIPE, shell=True)
+    starttime = time.time()
+    if checkfile != "":
+        while os.path.isfile(checkfile)==False:
+           if (time.time() - starttime) > (mytimeout) and mytimeout > 0:
+               time.sleep(1)
+               break
+           time.sleep(0.5)
+    if mytimeout < 1:
+        mytimeout = waitforstop
+    while a.poll():
+        if (time.time() - starttime) > mytimeout:
+            time.sleep(1)
+            break
+        else:
+            time.sleep(0.5)
+    #Safety measure: do not proceed immediately, os might still be writing the file
+    while (time.time()-os.path.getmtime(checkfile)<waitforstop):
+        time.sleep(0.5)
+    try:
+        #subprocess.Popen.kill(a)
+        os.kill(a.pid, signal.SIGKILL)
+    except:
+        if so == "Linux":
+            try:
+                os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o 'root *[0-9]*' | grep -o '[0-9]*' 2> /dev/null) 2> /dev/null")
+            except:
+                pass
+
+
+
+def lemmatizza(mytext):
+    mylemma = mytext
+    if so == "Windows":
+        os.makedirs("C:\Temp\Bran", exist_ok=True)
+        tmpdir = tempfile.NamedTemporaryFile(dir="C:\Temp\Bran").name
+    else:
+        os.makedirs("/tmp/Bran", exist_ok=True)
+        tmpdir = tempfile.NamedTemporaryFile(dir="/tmp/Bran").name
+    os.makedirs(tmpdir)
+    origfile = tmpdir+"/testo.txt"
+    #print("Tagging file in temporary folder "+tmpdir)
+    file = open(origfile,"w", encoding='utf-8')
+    file.write(mytext+"\n")
+    file.close()
+    sessionfile = tmpdir+"/testo-bran.tsv"
+    #print(mytext)
+    execWithTimeout(eseguibile+" "+branmain+" udpipeImport "+origfile+" \"ita:"+modello+"\" n", sessionfile, -1, 0.1) 
+    mycol = 2
+    hkey = "lemma"
+    output = sessionfile + "-ricostruito-" + hkey + "-.txt"
+    execWithTimeout(eseguibile+" "+branmain+" ricostruisci "+sessionfile+" "+ str(mycol), output, -1, 0.1)
+    text_file = open(output, "r", encoding='utf-8')
+    rebuiltCorpus = text_file.read()
+    mylemma = rebuiltCorpus
+    print(mylemma)
+    text_file.close()
+    shutil.rmtree(tmpdir)
+    return mylemma
 
 # This function gets the content of a web page safely. If you're looking for wikidata specific functions, skip this
 def geturl(thisurl, params = None):
@@ -203,7 +298,10 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
         for key in res:
             #first key:value is the ID, then we get lemma and description
             if len(myrow)==1:
-                myrow.append(res[key]["value"].lower())
+                myrowLemma = res[key]["value"].lower()
+                if bool(re.search('[^a-zA-Z]', myrowLemma)) and os.path.isfile(branmain):
+                    myrowLemma = lemmatizza(myrowLemma)
+                myrow.append(myrowLemma)
                 myrow.append("wikidata")
                 myrow.append(language)
                 myrow.append(entity)
