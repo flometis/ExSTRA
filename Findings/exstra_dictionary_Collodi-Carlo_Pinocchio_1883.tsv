@@ -1,7 +1,7 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 Collodi-Carlo_Pinocchio_1883.txt	maestro	20	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	falegname	8	it	http://www.sapere.it/enciclopedia/falegname.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	falegname: sm. [sec. XIV; impt. di fare+legname]. Artigiano che lavora il legno; specialmente fabbricando o riparando mobili.
-Collodi-Carlo_Pinocchio_1883.txt	re	1	it	http://www.wikidata.org/entity/Q12097	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	titolo nobiliare maschile
+Collodi-Carlo_Pinocchio_1883.txt	re	1	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	titolo nobiliare maschile
 Collodi-Carlo_Pinocchio_1883.txt	lettore	1	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	posizione accademica di rango inferiore al professore
 Collodi-Carlo_Pinocchio_1883.txt	capo	58	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	posizione all'interno di una organizzazione
 Collodi-Carlo_Pinocchio_1883.txt	contadino	15	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	contadino: sm. e agg. [sec. XIV; da contado].
@@ -30,7 +30,7 @@ Collodi-Carlo_Pinocchio_1883.txt	muratore	2	it	http://www.wikidata.org/entity/Q3
 Collodi-Carlo_Pinocchio_1883.txt	buffone	1	it	http://www.wikidata.org/entity/Q15037346	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	termine col quale si indicava un giullare
 Collodi-Carlo_Pinocchio_1883.txt	legnaiolo	1	it	http://www.sapere.it/enciclopedia/legnai%C3%B2lo.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	legnaiòlo: (lett. legnaiuòlo); sm. [sec. XIV; da legna]. Lavoratore del legno; specialmente chi esegue lavori grossolani di falegnameria.
 Collodi-Carlo_Pinocchio_1883.txt	generale	2	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	militare appartenente alla più elevata categoria degli ufficiali
-Collodi-Carlo_Pinocchio_1883.txt	imperatore	1	it	http://www.wikidata.org/entity/Q39018	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	tipo di monarca
+Collodi-Carlo_Pinocchio_1883.txt	imperatore	1	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	tipo di monarca
 Collodi-Carlo_Pinocchio_1883.txt	comparsa	1	it	http://www.wikidata.org/entity/Q658371	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	veterinario	1	it	http://www.wikidata.org/entity/Q202883	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	professione
 Collodi-Carlo_Pinocchio_1883.txt	garzone	2	it	http://www.sapere.it/enciclopedia/garz%C3%B3ne.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	garzóne: sm. (f. -a) [sec. XIII; francese
@@ -42,3 +42,5 @@ Collodi-Carlo_Pinocchio_1883.txt	merciaio	1	it	http://www.sapere.it/enciclopedia
 Collodi-Carlo_Pinocchio_1883.txt	ortolano	3	it	http://www.sapere.it/enciclopedia/ortolano.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	ortolano: sm. (f. -a) [sec. XIV; latino tardo hortulānus; da hortus; orto].
 Collodi-Carlo_Pinocchio_1883.txt	modello	1	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	professione
 Collodi-Carlo_Pinocchio_1883.txt	intagliatore	1	it	http://www.wikidata.org/entity/Q1840507	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	direttore di orchestra	1	it	http://www.wikidata.org/entity/Q158852	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	persona che dirige un gruppo musicale durante un'esibizione
+Collodi-Carlo_Pinocchio_1883.txt	di il	1	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	

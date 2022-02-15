@@ -1,6 +1,6 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 Melegari-Dora_Caterina-Spadaro_1908.txt	signore	255	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	Titolo di nobiltà italiana
-Melegari-Dora_Caterina-Spadaro_1908.txt	maggiore	2	it	http://www.wikidata.org/entity/Q983927	wikidata	military rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	grado militare utilizzato in molte forze armate
+Melegari-Dora_Caterina-Spadaro_1908.txt	maggiore	2	it	http://www.wikidata.org/entity/Q983927	wikidata	honorary title	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	grado militare utilizzato in molte forze armate
 Melegari-Dora_Caterina-Spadaro_1908.txt	tenore	4	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	modello	1	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	professione
 Melegari-Dora_Caterina-Spadaro_1908.txt	pittore	1	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
@@ -23,7 +23,7 @@ Melegari-Dora_Caterina-Spadaro_1908.txt	intermediario	1	it	http://www.wikidata.o
 Melegari-Dora_Caterina-Spadaro_1908.txt	cameriere	2	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	personale di servizio in luoghi di ristorazione o case prevate
 Melegari-Dora_Caterina-Spadaro_1908.txt	governante	3	it	http://www.wikidata.org/entity/Q2596569	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	avvocato	4	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	professione svolta in ambito giuridico
-Melegari-Dora_Caterina-Spadaro_1908.txt	nobile	1	it	http://www.wikidata.org/entity/Q3877594	wikidata	noble rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo nobiliare italiano
+Melegari-Dora_Caterina-Spadaro_1908.txt	nobile	1	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo nobiliare italiano
 Melegari-Dora_Caterina-Spadaro_1908.txt	gioielliere	1	it	http://www.wikidata.org/entity/Q336221	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	commerciante che si occupa della vendita di oggetti in oro; argento; pietre preziose
 Melegari-Dora_Caterina-Spadaro_1908.txt	improvvisatore	1	it	http://www.wikidata.org/entity/Q3149505	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	artista che opera improvvisando
 Melegari-Dora_Caterina-Spadaro_1908.txt	stella	4	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	artista del mondo dello spettacolo che gode di molta popolarità
@@ -39,12 +39,14 @@ Melegari-Dora_Caterina-Spadaro_1908.txt	responsabile	1	it	http://www.wikidata.or
 Melegari-Dora_Caterina-Spadaro_1908.txt	ufficiale	2	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	compagno	2	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo onorifico in uso in molti ordinamenti
 Melegari-Dora_Caterina-Spadaro_1908.txt	saggio	1	it	http://www.wikidata.org/entity/Q2624172	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	re	1	it	http://www.wikidata.org/entity/Q12097	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo nobiliare maschile
+Melegari-Dora_Caterina-Spadaro_1908.txt	re	1	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo nobiliare maschile
 Melegari-Dora_Caterina-Spadaro_1908.txt	dottore	2	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo accademico
 Melegari-Dora_Caterina-Spadaro_1908.txt	agente	1	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	regina	1	it	http://www.wikidata.org/entity/Q16511993	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	monarca di genere femminile
+Melegari-Dora_Caterina-Spadaro_1908.txt	regina	1	it	http://www.wikidata.org/entity/Q16511993	wikidata	noble rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	monarca di genere femminile
 Melegari-Dora_Caterina-Spadaro_1908.txt	contadino	1	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	contadino: sm. e agg. [sec. XIV; da contado].
 Melegari-Dora_Caterina-Spadaro_1908.txt	musicista	1	it	http://www.sapere.it/enciclopedia/musicista.html	sapere	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	musicista: sm. e f. (pl. m. -i) [sec. XIV; da musica]. Compositore di musica; anche esecutore o suonatore di uno strumento musicale.
 Melegari-Dora_Caterina-Spadaro_1908.txt	bambinaia	1	it	http://www.wikidata.org/entity/Q45181247	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	ama	1	it	http://www.wikidata.org/entity/Q1577970	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	pescatrici subacquee in apnea tradizionali giapponesi
-Melegari-Dora_Caterina-Spadaro_1908.txt	ufficiale di marina	1	it	http://www.wikidata.org/entity/Q10669499	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	ufficiale di mare	1	it	http://www.wikidata.org/entity/Q10669499	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	tenere di vascello	1	it	http://www.wikidata.org/entity/Q475681	wikidata	military rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	di il	1	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
