@@ -14,6 +14,7 @@ import tempfile
 import subprocess
 import signal
 import shutil
+from threading import Thread
 
 
 #List of the Wikidata entities we can download. If you need another one, just add it to the dictionary
@@ -33,6 +34,9 @@ WIKIDATA_SPARQL_URL = "https://query.wikidata.org/sparql"
 SAPERE_URL = "https://www.sapere.it/sapere/enciclopedia/storia-e-societ%C3%A0/economia-e-statistica/generale/mestieri-e-professioni.html?src="
 
 language = ""
+
+fulltable = []
+
 
 
 so = platform.system()
@@ -56,6 +60,24 @@ if so == "Windows":
 
 corpuscols = {'TAGcorpus': 0,'token': 1,'lemma': 2,'pos': 3,'ner': 4,'feat': 5,'IDword': 6,'IDphrase': 7,'dep': 8,'head': 9}
 profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
+
+try:
+    #Get total number of cpu cores
+    cores_available = len(os.sched_getaffinity(0))
+    cores = int(cores_available*(3/4))
+    if cores < 2:
+        cores = 2
+#cores = 8
+except:
+    cores = 2
+
+
+
+#This script goes on too quick for usual cleanup to be effective, some processes will still be around consumin RAM. Clean up manually killing udpipeImport processes without any child
+#udpid=$(ps aux | grep udpipeImport | grep -o "`whoami` *[0-9]*" | grep -o '[0-9]*'); for puid in $udpid; do childs=$(ps --ppid $puid | wc -l); if [ $childs == "1" ]; then kill -9 $puid; fi; done
+
+#Continuous cleanup:
+#while true; do udpid=$(ps aux | grep udpipeImport | grep -o "`whoami` *[0-9]*" | grep -o '[0-9]*'); for puid in $udpid; do childs=$(ps --ppid $puid | wc -l); if [ $childs == "1" ]; then kill -9 $puid; fi; done; sleep 60; done
 
 
 def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
@@ -87,13 +109,17 @@ def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
     except:
         if so == "Linux":
             try:
-                os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o 'root *[0-9]*' | grep -o '[0-9]*' 2> /dev/null) 2> /dev/null")
+                #osuser = os.environ.get('USER')
+                #os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o '"+osuser+" *[0-9]*' | grep -o '[0-9]*' 2> /dev/null) 2> /dev/null")
+                os.system("kill -9 $(ps aux | grep '"+mycmd+"' | grep -o \"`whoami` *[0-9]*\" | grep -o '[0-9]*' 2> /dev/null) 2> /dev/null")
             except:
                 pass
 
 
 
-def lemmatizza(mytext):
+def lemmatizza(myindex):
+    global fulltable
+    mytext = fulltable[myindex][1]
     mylemma = mytext
     if so == "Windows":
         os.makedirs("C:\Temp\Bran", exist_ok=True)
@@ -120,7 +146,44 @@ def lemmatizza(mytext):
     print(mylemma)
     text_file.close()
     shutil.rmtree(tmpdir)
-    return mylemma
+    fulltable[myindex][1] = mylemma
+    fulltable[myindex][-1] = fulltable[myindex][-1].replace("DALEMMATIZZARE", "")
+
+
+
+def bulklemmatize(originals):
+    if True:
+        o = 0
+        origAvailable = True
+        while origAvailable:
+            if o >= len(originals):
+                origAvailable = False
+                break
+            
+            threads = []
+            
+            #Add one thread per core
+            of = o + cores
+            if of > len(originals):
+               of = len(originals)
+            for ot in range(o,of):
+                thisorig = originals[ot]
+                print(thisorig)
+                t = Thread(target=lemmatizza, args=(thisorig,))
+                threads.append(t)
+
+            # Start all threads
+            for x in threads:
+                x.start()
+            
+            # Wait for all of them to finish
+            for x in threads:
+                x.join()
+
+            #Ready for next cycle
+            o = of
+
+
 
 # This function gets the content of a web page safely. If you're looking for wikidata specific functions, skip this
 def geturl(thisurl, params = None):
@@ -188,7 +251,7 @@ def mergeResultTables(table1, table2):
     mytable = sorted(mytable)
     #columns:
     #ID,lemma,source,language,tag,descrizione
-    mytbclean = [mytable[i] for i in range(len(mytable)) if i == 0 or mytable[i][:-1] != mytable[i-1][:-1]]   #the last element is the description
+    mytbclean = [mytable[i] for i in range(len(mytable)) if i == 0 or bool(mytable[i][0] != mytable[i-1][0] or mytable[i][3] != mytable[i-1][3])]   #we cannot have the same entity for the same language
     #mytbclean = []
     #for i in range(len(mytable)):
     #    if i == 0 or bool(mytable[i][0] != mytable[i-1][0] and mytable[i][1] != mytable[i-1][1]):   #the last element is the description
@@ -299,8 +362,8 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
             #first key:value is the ID, then we get lemma and description
             if len(myrow)==1:
                 myrowLemma = res[key]["value"].lower()
-                if bool(re.search('[^a-zA-Z]', myrowLemma)) and os.path.isfile(branmain):
-                    myrowLemma = lemmatizza(myrowLemma)
+                #if bool(re.search('[^a-zA-Z]', myrowLemma)) and os.path.isfile(branmain):
+                #    myrowLemma = lemmatizza(myrowLemma)
                 myrow.append(myrowLemma)
                 myrow.append("wikidata")
                 myrow.append(language)
@@ -309,6 +372,8 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
                 myrow.append(res[key]["value"])
         if len(res) < 3:
             myrow.append("") #empty description
+        if bool(re.search('[^a-zA-Z]', myrowLemma)):
+            myrow[-1] = str(myrow[-1]) + "DALEMMATIZZARE"
         resultsTable.append(myrow)
     
     #If you want sorted results, do it
@@ -503,10 +568,19 @@ for mylang in mylangs:
         oldtable = []
     print("Merging "+str(len(mytable))+" with "+str(len(oldtable))+" previous results...")
     fulltable = mergeResultTables(mytable, oldtable)
+    lemmatizethese = []
+    f = 0
+    for fullrow in fulltable:
+        if "DALEMMATIZZARE" in fullrow[-1]:
+            lemmatizethese.append(f)
+        f = f + 1
+    if len(lemmatizethese) > 0 and os.path.isfile(branmain):
+        bulklemmatize(lemmatizethese)
     saveTable(fulltable, filename)
     print("Saved in " + filename)
 if "it" in mylangs and "exstra_dictionary" in filename:
     fulltable = openTable(filename)
     fulltable = mergeSapere(fulltable)
     saveTable(fulltable, filename)
+
 
