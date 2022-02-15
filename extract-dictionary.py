@@ -142,7 +142,7 @@ def lemmatizza(myindex):
     execWithTimeout(eseguibile+" "+branmain+" ricostruisci "+sessionfile+" "+ str(mycol), output, -1, 0.1)
     text_file = open(output, "r", encoding='utf-8')
     rebuiltCorpus = text_file.read()
-    mylemma = rebuiltCorpus
+    mylemma = re.sub(" $","",rebuiltCorpus)
     print(mylemma)
     text_file.close()
     shutil.rmtree(tmpdir)
