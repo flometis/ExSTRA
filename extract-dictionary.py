@@ -18,7 +18,8 @@ from threading import Thread
 
 
 #List of the Wikidata entities we can download. If you need another one, just add it to the dictionary
-entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "honorary title": "Q3320743", "ecclesiastical occupation": "Q11773926", "historical profession": "Q16335296", "military rank": "Q56019", "human": "Q5"}
+entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "honorary title": "Q3320743", "ecclesiastical occupation": "Q11773926", "historical profession": "Q16335296", "military rank": "Q56019", "human": "Q5", "place": {"factory (place)": "Q83405", "facility (place)": "Q13226383", "workplace (place)": "Q628858", "shop (place)": "Q213441", "commercial building (place)": "Q655686", "religious building (place)": "Q24398318", "house (place)": "Q3947", "rural building (place)": "Q131596", "fortification (place)": "Q57821", "venue (place)": "Q17350442"}}
+
 
 #Any language can be used, I'm laying these out just as examples
 langs = {"inglese":"en", "italiano":"it", "tedesco":"de", "francese":"fr", "siciliano":"scn", "lombardo": "lmo", "friulano": "fur", "emiliano romagnolo":"eml", "romagnolo": "rgn", "veneto":"vec", "croato":"hr", "sloveno":"sl", "corso": "co", "etrusco":"ett", "franco provenzale": "frp", "latino": "la", "ladino": "lld", "napoletano": "nap", "occitano": "oc", "ligure": "lij", "monegasco": "lij-mc", "greco antico": "grc", "piemontese": "pms", "tarantino": "roa-tara", "sardo": "sc", "sassarese": "sdc", "albanese": "sq", "spagnolo": "es", "portoghese": "pt"}          
@@ -78,6 +79,9 @@ except:
 
 #Continuous cleanup:
 #while true; do udpid=$(ps aux | grep udpipeImport | grep -o "`whoami` *[0-9]*" | grep -o '[0-9]*'); for puid in $udpid; do childs=$(ps --ppid $puid | wc -l); if [ $childs == "1" ]; then kill -9 $puid; fi; done; sleep 60; done
+
+#Alternative checking for files older than 5 minutes:
+#while true; do IFS=$'\n';for kpel in $(ps aux | grep 'udpipeImport'); do kpfile=$(echo $kpel | grep -o '/tmp/Bran[^ ]*');kppid=$(echo $kpel | grep -o "`whoami` *[0-9]*" | grep -o '[0-9]*' 2> /dev/null); if [ ! -z "$kpfile" ]; then if [ ! -f "$kpfile" ] || [[ $(find "$kpfile" -mmin +5 ) == "1" ]]; then kill -9 $kppid; fi; fi; done; sleep 60;done;
 
 
 def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
@@ -247,20 +251,27 @@ def mergeTables(table1, table2):
 
 def mergeResultTables(table1, table2):
     mytable = table1
-    mytable.extend(table2)
+    iddict2 = {}
+    for i in range(len(table2)):
+        try:
+            iddict2[table2[i][0]+","+table2[i][3]].append(table2[i][4])
+        except:
+            iddict2[table2[i][0]+","+table2[i][3]] = []
+    #mytable.extend(table2)
     mytable = sorted(mytable)
     #columns:
     #ID,lemma,source,language,tag,descrizione
-    mytbclean = [mytable[i] for i in range(len(mytable)) if i == 0 or bool(mytable[i][0] != mytable[i-1][0] or mytable[i][3] != mytable[i-1][3])]   #we cannot have the same entity for the same language
-    #mytbclean = []
-    #for i in range(len(mytable)):
-    #    if i == 0 or bool(mytable[i][0] != mytable[i-1][0] and mytable[i][1] != mytable[i-1][1]):   #the last element is the description
-    #        mytbclean.append(mytable[i])
-    #    else:
-    #        if mytable[i][4] not in mytbclean[-1][4]: #4 is the category
-    #            mytbclean[-1][4] = mytbclean[-1][4] + ";" + mytable[i][4]
-    return mytbclean
-
+    for i in range(len(mytable)):
+        if str(mytable[i][0]+","+mytable[i][3]) in iddict2:
+            for tagEl in iddict2[str(mytable[i][0]+","+mytable[i][3])]:
+                if tagEl not in mytable[i][4]:
+                    mytable[i][4] = mytable[i][4] + ";" + tagEl
+            del iddict2[mytable[i][0]+","+mytable[i][3]]
+    #se non sono stati rimossi vuol dire che non esistono in table1
+    for i in range(len(table2)):
+        if str(table2[i][0]+","+table2[i][3]) in iddict2:
+            mytable.append(table2[i])
+    return mytable
 
 def sortTable(table, sortColumn = 0):
     res = table
@@ -305,7 +316,7 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
     global entities
     print("Looking for " + str(entity) + " in language " + str(language) + ", year " + str(year) + "")
     #First of all, we need to write down the query for wikidata
-    if entities[entity]=="Q5":   #If the entity we're looking for is humans (code Q5), things are a little more complex
+    if entity=="human":   #If the entity we're looking for is humans (code Q5), things are a little more complex
         if year < 0:
             addyears = 2
         else:
@@ -331,6 +342,11 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
         query_string = query_string + "?occupation rdfs:label ?occupationLabel. FILTER( LANG(?occupationLabel)=\"en\" )\n"
         query_string = query_string + "?citizenship rdfs:label ?citizenshipLabel. FILTER( LANG(?citizenshipLabel)=\"en\" )\n"
         query_string = query_string + "}\n"
+    elif "(place)" in entity:
+        query_string = "\nSELECT ?item ?itemLabel ?itemDescription WHERE {\n"
+        query_string = query_string + "SERVICE wikibase:label { bd:serviceParam wikibase:language \""+language+"\". }\n"
+        query_string = query_string + "?item wdt:P279 wd:" + entities["place"][entity] + ".\n"
+        query_string = query_string + "}\n" 
     else:
         #if looking for a generic entity (not humans), the qeury is quite simple
         query_string = "\nSELECT ?item ?itemLabel ?itemDescription WHERE {\n"
@@ -509,8 +525,11 @@ except:
 myentityList = []
 if myentity == "all":
     for key in entities:
-        if key == "human":
+        if key == "human" or key == "place":
             continue
+        myentityList.append(key)
+elif myentity == "place":
+    for key in entities["place"]:
         myentityList.append(key)
 elif "," in myentity:
     myentityList = myentity.split(",")
@@ -555,6 +574,10 @@ for mylang in mylangs:
             #time.sleep(10)
         mytable = groupTable(mytable, 0)
         mytable = sortTable(mytable, 2) 
+    elif "place" in myentityList:
+        mytable = []
+        for myentity in myentityList:
+            mytable.extend(getInstanceOf(myentity, mylang))
     else:
         mytable = []
         for myentity in myentityList:
