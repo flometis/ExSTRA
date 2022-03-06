@@ -1,12 +1,17 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
+De-Amicis-Edmondo_Cuore_1886.txt	scuola	169	it	custom_717	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	bottega	26	it	custom_48	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	libraio	5	it	http://www.wikidata.org/entity/Q998550	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professione
 De-Amicis-Edmondo_Cuore_1886.txt	guardia	22	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	maestro	280	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	signore	138	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	Titolo di nobiltà italiana
 De-Amicis-Edmondo_Cuore_1886.txt	ufficiale	25	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	stanza	35	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	ambiente interno di un edificio; ad uso abitazione o ufficio
+De-Amicis-Edmondo_Cuore_1886.txt	teatro	17	it	custom_733	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	maestra	105	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	direttore	61	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 De-Amicis-Edmondo_Cuore_1886.txt	compagno	69	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	De Amicis Edomondo	Cuore   	m	1886	1880_1889	titolo onorifico in uso in molti ordinamenti
+De-Amicis-Edmondo_Cuore_1886.txt	casa	165	it	custom_184	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	scolaro	11	it	http://www.wikidata.org/entity/Q2248623	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	capo	96	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	posizione all'interno di una organizzazione
 De-Amicis-Edmondo_Cuore_1886.txt	medico	35	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
@@ -16,91 +21,163 @@ De-Amicis-Edmondo_Cuore_1886.txt	rivenditore	6	it	http://www.sapere.it/enciclope
 De-Amicis-Edmondo_Cuore_1886.txt	principe	6	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	De Amicis Edomondo	Cuore   	m	1886	1880_1889	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
 De-Amicis-Edmondo_Cuore_1886.txt	muratore	11	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	persona specializzata nella costruzione di opere in muratura
 De-Amicis-Edmondo_Cuore_1886.txt	fabbro	21	it	http://www.wikidata.org/entity/Q1639825	wikidata	historical profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professione
+De-Amicis-Edmondo_Cuore_1886.txt	pinacoteca	1	it	custom_701	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	museo	2	it	custom_677	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	sellaio	1	it	http://www.wikidata.org/entity/Q1760988	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	ispettore	1	it	http://www.wikidata.org/entity/Q3803360	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	soffitta	7	it	custom_280	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	erbivendolo	1	it	http://www.sapere.it/enciclopedia/erbiv%C3%A9ndolo.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	erbivéndolo: sm. (f. -a) [da erba+vendere; sul modello di fruttivendolo]. Venditore di erbaggi e frutta.
+De-Amicis-Edmondo_Cuore_1886.txt	municipio	9	it	custom_676	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	studio	11	it	custom_728	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	contadino	16	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	contadino: sm. e agg. [sec. XIV; da contado].
 De-Amicis-Edmondo_Cuore_1886.txt	console	2	it	http://www.wikidata.org/entity/Q48804423	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	cabina	1	it	custom_181	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	tenda	5	it	custom_286	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	albergo	3	it	custom_32	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	impiegato	6	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 De-Amicis-Edmondo_Cuore_1886.txt	spazzacamino	6	it	http://www.wikidata.org/entity/Q506126	wikidata	historical profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	cimitero	3	it	custom_504	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	sepolcro	2	it	custom_549	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	macchinista	4	it	http://www.sapere.it/enciclopedia/macchinista.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	macchinista: sm. e f. (pl. m. -i) [sec. XVIII; da macchina].
+De-Amicis-Edmondo_Cuore_1886.txt	piazza	18	it	custom_700	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	carbonaio	10	it	http://www.wikidata.org/entity/Q729340	wikidata	historical profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professione
 De-Amicis-Edmondo_Cuore_1886.txt	portinaio	3	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	lavoratore adibito alla cura e custodia di un edificio residenziale
 De-Amicis-Edmondo_Cuore_1886.txt	garzone	4	it	http://www.sapere.it/enciclopedia/garz%C3%B3ne.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	garzóne: sm. (f. -a) [sec. XIII; francese
+De-Amicis-Edmondo_Cuore_1886.txt	mercato	3	it	http://www.wikidata.org/entity/Q330284	wikidata	venue (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	luogo in cui le persone si riuniscono regolarmente per l'acquisto e la vendita di provviste; bestiame e altri beni
 De-Amicis-Edmondo_Cuore_1886.txt	speziale	1	it	http://www.wikidata.org/entity/Q1131236	wikidata	historical profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	questura	2	it	custom_710	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	supplente	6	it	http://www.wikidata.org/entity/Q3301537	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	avvocato	2	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professione svolta in ambito giuridico
+De-Amicis-Edmondo_Cuore_1886.txt	ufficio	4	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	stanza in cui delle persone svolgono degli impieghi
 De-Amicis-Edmondo_Cuore_1886.txt	negoziante	2	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
 De-Amicis-Edmondo_Cuore_1886.txt	sergente	12	it	http://www.wikidata.org/entity/Q429703	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	grado delle Forze armate tedesche
+De-Amicis-Edmondo_Cuore_1886.txt	avamposto	2	it	custom_04	custom	military (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	portavoce	1	it	http://www.wikidata.org/entity/Q17221	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	persona col compito di rilasciare dichiarazioni per conto di altri
+De-Amicis-Edmondo_Cuore_1886.txt	cappella	1	it	custom_458	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	accampamento	1	it	custom_557	custom	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	palazzo	3	it	custom_265	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	droghiere	1	it	http://www.wikidata.org/entity/Q7892860	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	tabaccaio	1	it	http://www.sapere.it/enciclopedia/tabacc%C3%A0io.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	tabaccàio: sm. (f. -a) [sec. XVII; da tabacco]. Chi gestisce una tabaccheria; per metonimia; la rivendita stessa: qual è il tabaccaio più vicino?
 De-Amicis-Edmondo_Cuore_1886.txt	bottegaio	5	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
+De-Amicis-Edmondo_Cuore_1886.txt	negozio	1	it	custom_108	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	rustico	1	it	custom_590	custom	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	capanna	1	it	custom_561	custom	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	buffone	2	it	http://www.wikidata.org/entity/Q15037346	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	termine col quale si indicava un giullare
+De-Amicis-Edmondo_Cuore_1886.txt	torre	3	it	custom_290	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	pastaio	1	it	http://www.sapere.it/enciclopedia/past%C3%A0io.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	pastàio: sm. [sec. XIX; da pasta].
+De-Amicis-Edmondo_Cuore_1886.txt	chiesa	13	it	custom_470	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	scrivano	2	it	http://www.sapere.it/enciclopedia/scriv%C3%A0no.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	scrivàno: sm. [sec. XIII; lat. tardo scriba-ānis; dal class. scriba-ae].
 De-Amicis-Edmondo_Cuore_1886.txt	copista	1	it	http://www.sapere.it/enciclopedia/copista.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	copista: sm. e f. (pl. m. -i) [sec. XVI; da copiare]. Chi trascriveva codici; amanuense. Per estensione; chi per professione copia lettere; scritture; documenti e simili. Anche chi esegue copie di dipinti o sculture.
+De-Amicis-Edmondo_Cuore_1886.txt	biblioteca	3	it	http://www.wikidata.org/entity/Q7075	wikidata	facility (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	istituzione culturale finalizzata alla raccolta organizzata di libri e risorse informative
 De-Amicis-Edmondo_Cuore_1886.txt	insegnante	1	it	http://www.sapere.it/enciclopedia/insegnante.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	insegnante: sm. e f. [sec. XIV; ppr. di insegnare]. Chi insegna; in particolare; chi esercita l'insegnamento come professione privatamente o nei vari ordini di scuole: insegnante elementare; insegnante di disegno. Anche agg.; specialmente nella loc.: corpo insegnante;...
+De-Amicis-Edmondo_Cuore_1886.txt	libreria	5	it	custom_102	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	bibliotecario	1	it	http://www.wikidata.org/entity/Q182436	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professionista che opera in una biblioteca fisica o digitale
 De-Amicis-Edmondo_Cuore_1886.txt	cuoco	2	it	http://www.wikidata.org/entity/Q2276446	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	collaboratore domestico
 De-Amicis-Edmondo_Cuore_1886.txt	re	18	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	titolo nobiliare maschile
 De-Amicis-Edmondo_Cuore_1886.txt	generale	6	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	militare appartenente alla più elevata categoria degli ufficiali
 De-Amicis-Edmondo_Cuore_1886.txt	inviato	1	it	http://www.wikidata.org/entity/Q42909	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	giornalista incaricato di un particolare evento
+De-Amicis-Edmondo_Cuore_1886.txt	tempio	1	it	custom_552	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	luogotenente	2	it	http://www.wikidata.org/entity/Q3840799	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	Chi fa temporaneamente le veci di una carica politica o militare
 De-Amicis-Edmondo_Cuore_1886.txt	carabiniere	2	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	militare
 De-Amicis-Edmondo_Cuore_1886.txt	alunno	7	it	http://www.wikidata.org/entity/Q48942	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	persona che studia in una scuola
+De-Amicis-Edmondo_Cuore_1886.txt	fornace	1	it	custom_352	custom	industrial (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	gentiluomo	1	it	http://www.wikidata.org/entity/Q749212	wikidata	honorary title	De Amicis Edomondo	Cuore   	m	1886	1880_1889	qualifica e status attribuita a persone
+De-Amicis-Edmondo_Cuore_1886.txt	officina	11	it	custom_387	custom	industrial (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	basso	2	it	custom_175	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	villa	2	it	custom_296	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	segretario	1	it	http://www.wikidata.org/entity/Q80687	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	impiegato che svolge vari tipi di mansioni
+De-Amicis-Edmondo_Cuore_1886.txt	carcere	4	it	custom_619	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	edificio	2	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	costruzione edilizia realizzata dall'uomo
+De-Amicis-Edmondo_Cuore_1886.txt	cella	1	it	custom_467	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	ebanista	1	it	http://www.wikidata.org/entity/Q559597	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	prigione	4	it	custom_707	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	assistente	8	it	http://www.wikidata.org/entity/Q20008154	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	dottore	7	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	De Amicis Edomondo	Cuore   	m	1886	1880_1889	titolo accademico
 De-Amicis-Edmondo_Cuore_1886.txt	vescovo	1	it	http://www.wikidata.org/entity/Q29182	wikidata	ecclesiastical occupation	De Amicis Edomondo	Cuore   	m	1886	1880_1889	responsabile di una diocesi (non necessariamente cattolico)
+De-Amicis-Edmondo_Cuore_1886.txt	baracca	2	it	custom_173	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	circo	10	it	custom_74	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	pittore	1	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
 De-Amicis-Edmondo_Cuore_1886.txt	giocoliere	1	it	http://www.wikidata.org/entity/Q2429735	wikidata	historical profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	cavallerizzo	1	it	http://www.sapere.it/enciclopedia/cavallerizzo.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	cavallerizzo: sm. (f. -a) [sec. XVI; dallo spagnolo caballerizo; da caballo; cavallo].
 De-Amicis-Edmondo_Cuore_1886.txt	marinaio	22	it	http://www.wikidata.org/entity/Q707995	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	membro dell'equipaggio di una nave
 De-Amicis-Edmondo_Cuore_1886.txt	acrobata	1	it	http://www.wikidata.org/entity/Q11957145	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	atleta circense
 De-Amicis-Edmondo_Cuore_1886.txt	maschera	5	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	figura professionale in ambito teatrale
+De-Amicis-Edmondo_Cuore_1886.txt	padiglione	1	it	custom_687	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	corte	1	it	custom_240	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	cortile	15	it	custom_644	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	modello	1	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professione
 De-Amicis-Edmondo_Cuore_1886.txt	violinista	1	it	http://www.sapere.it/enciclopedia/violin%C3%ACsta.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	violinìsta: sm. e f. (pl. -i) [sec. XV; da violino]. Suonatore di violino.
 De-Amicis-Edmondo_Cuore_1886.txt	falegname	2	it	http://www.sapere.it/enciclopedia/falegname.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	falegname: sm. [sec. XIV; impt. di fare+legname]. Artigiano che lavora il legno; specialmente fabbricando o riparando mobili.
 De-Amicis-Edmondo_Cuore_1886.txt	caporale	9	it	http://www.wikidata.org/entity/Q23058159	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	tintore	1	it	http://www.wikidata.org/entity/Q6147194	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	fantesca	1	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	fantésca: sf. [sec. XIV; da fante sul modello del greco
+De-Amicis-Edmondo_Cuore_1886.txt	collegio	3	it	custom_637	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	palcoscenico	6	it	http://www.wikidata.org/entity/Q194428	wikidata	workplace (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	parte del teatro
 De-Amicis-Edmondo_Cuore_1886.txt	rappresentante	3	it	http://www.wikidata.org/entity/Q994779	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	scultore	1	it	http://www.wikidata.org/entity/Q1281618	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	artista che pratica l'arte della scultura
 De-Amicis-Edmondo_Cuore_1886.txt	deputato	2	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	membro di una assemblea legislativa
 De-Amicis-Edmondo_Cuore_1886.txt	venditore	2	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	lavoro
-De-Amicis-Edmondo_Cuore_1886.txt	prefetto	4	it	http://www.wikidata.org/entity/Q5183538	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	ufficiale dell'Antica Roma; solitamente appartenente all'ordine equestre
+De-Amicis-Edmondo_Cuore_1886.txt	prefetto	4	it	custom_706	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	assessore	2	it	http://www.wikidata.org/entity/Q4657217	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	membro della giunta comunale
+De-Amicis-Edmondo_Cuore_1886.txt	osteria	3	it	custom_123	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	ridotta	1	it	http://www.wikidata.org/entity/Q90754	wikidata	fortification (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	fortificazione di minore importanza o comunque considerata secondaria
+De-Amicis-Edmondo_Cuore_1886.txt	santuario	1	it	custom_543	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	conte	3	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	titolo della nobiltà esistente nei paesi europei
+De-Amicis-Edmondo_Cuore_1886.txt	impresa	1	it	custom_97	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	asilo	4	it	custom_605	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	giardino	10	it	custom_660	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	caserma	1	it	custom_10	custom	military (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	stazione	10	it	custom_723	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	porticato	2	it	custom_704	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	brigadiere	2	it	http://www.wikidata.org/entity/Q41685	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	comandante	3	it	http://www.wikidata.org/entity/Q849424	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	sagrestia	2	it	custom_540	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	salone	1	it	custom_714	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	servitore	3	it	http://www.sapere.it/enciclopedia/servit%C3%B3re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	servitóre: (anticamente
+De-Amicis-Edmondo_Cuore_1886.txt	refettorio	1	it	custom_534	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	pollaio	1	it	custom_586	custom	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	imperatore	2	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	tipo di monarca
 De-Amicis-Edmondo_Cuore_1886.txt	giardiniere	16	it	http://www.wikidata.org/entity/Q758780	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	persona che si prende cura dei giardini per hobby o per professione
 De-Amicis-Edmondo_Cuore_1886.txt	ingegnere	9	it	http://www.wikidata.org/entity/Q81096	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professionista qualificato in ingegneria
+De-Amicis-Edmondo_Cuore_1886.txt	pensione	1	it	custom_132	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	convento	1	it	custom_508	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	rigattiere	1	it	http://www.sapere.it/enciclopedia/rigatti%C3%A8re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	rigattière: sm. [sec. XIV; dal francese
+De-Amicis-Edmondo_Cuore_1886.txt	università	1	it	custom_737	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	scrittore	1	it	http://www.wikidata.org/entity/Q36180	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	chiunque crei un lavoro scritto
 De-Amicis-Edmondo_Cuore_1886.txt	pompiere	14	it	http://www.sapere.it/enciclopedia/pompi%C3%A8re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	pompière: sm. [sec. XIX; dal francese
 De-Amicis-Edmondo_Cuore_1886.txt	artigliere	1	it	http://www.sapere.it/enciclopedia/artigli%C3%A8re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	artiglière: sm. [sec. XVI; dal francese
+De-Amicis-Edmondo_Cuore_1886.txt	portico	2	it	custom_705	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	usciere	1	it	http://www.wikidata.org/entity/Q2664461	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	persona che accoglie chi entra in un edificio residenziale; albergo o ufficio
 De-Amicis-Edmondo_Cuore_1886.txt	militare	1	it	http://www.wikidata.org/entity/Q47064	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	membro delle forze armate
+De-Amicis-Edmondo_Cuore_1886.txt	consolato	1	it	custom_641	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	serva	1	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	sèrva: sf. [sec. XIV; f. di servo].
+De-Amicis-Edmondo_Cuore_1886.txt	dormitorio	2	it	custom_247	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	coltivatore	1	it	http://www.sapere.it/enciclopedia/coltivat%C3%B3re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	coltivatóre: sm. (f. -trice) [sec. XVI; da coltivare].
 De-Amicis-Edmondo_Cuore_1886.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	porto	2	it	custom_402	custom	industrial (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	barcaiolo	1	it	http://www.wikidata.org/entity/Q2891167	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	stella	4	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	artista del mondo dello spettacolo che gode di molta popolarità
 De-Amicis-Edmondo_Cuore_1886.txt	capataz	7	it	http://www.sapere.it/enciclopedia/capataz.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	capataz: sm. spagnolo Capo di una squadra di operai; fattore.
 De-Amicis-Edmondo_Cuore_1886.txt	commerciante	1	it	http://www.sapere.it/enciclopedia/commerciante.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	commerciante: agg. e sm. e f. [sec. XVIII; ppr. di commerciare]. Chi; per professione; esercita il commercio: commerciante all'ingrosso; grossista; commerciante al minuto; dettagliante.
+De-Amicis-Edmondo_Cuore_1886.txt	piantagione	1	it	http://www.wikidata.org/entity/Q188913	wikidata	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	casetta	1	it	custom_226	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	chirurgo	2	it	http://www.sapere.it/enciclopedia/chirurgo.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	chirurgo: sm. (pl. -gi o -ghi) [sec. XV; dal greco
+De-Amicis-Edmondo_Cuore_1886.txt	fabbrica	2	it	custom_346	custom	industrial (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	cattedrale	1	it	custom_465	custom	religious building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	ferraio	2	it	http://www.sapere.it/enciclopedia/ferr%C3%A0io.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	ferràio: sm. [sec. XIV; latino (faber) ferraríus; (artigiano) che lavora il ferro]. Chi lavora il ferro; fabbro; anche agg.; fabbro ferraio.
 De-Amicis-Edmondo_Cuore_1886.txt	custode	6	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
+De-Amicis-Edmondo_Cuore_1886.txt	mulino	1	it	custom_582	custom	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	scalpellino	1	it	http://www.wikidata.org/entity/Q328325	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	artigiano che realizza elementi architettonici in pietra scolpita
+De-Amicis-Edmondo_Cuore_1886.txt	opificio	1	it	custom_392	custom	industrial (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	lustrascarpe	1	it	http://www.sapere.it/enciclopedia/lustrascarpe.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	lustrascarpe: sm. e f. inv. [sec. XIX; dall'impt. di lustrare1+scarpa]. Chi per mestiere pulisce e lucida le scarpe; spesso sulle pubbliche strade. Fig.; adulatore servile.
 De-Amicis-Edmondo_Cuore_1886.txt	spazzino	1	it	http://www.sapere.it/enciclopedia/spazz%C3%ACno.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	spazzìno: sm. [sec. XVII; da spazzare]. Chi spazza le strade o altri luoghi pubblici; netturbino; spazzaturaio.
 De-Amicis-Edmondo_Cuore_1886.txt	ore	1	it	http://www.sapere.it/enciclopedia/%C3%B3re.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	óre: sm. (f. -trice) [da scoticare]. Chi scotica. In particolare; in agricoltura; specie di grossa lama che viene applicata davanti al vomere di un aratro per tagliare lo strato superficiale; la cotica del terreno.
+De-Amicis-Edmondo_Cuore_1886.txt	cabine	1	it	http://www.wikidata.org/entity/Q2932327	wikidata	facility (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	pagina di disambiguazione di un progetto Wikimedia
 De-Amicis-Edmondo_Cuore_1886.txt	famiglio	1	it	http://www.sapere.it/enciclopedia/fam%C3%ACglio.html	sapere	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	famìglio: sm. [sec. XIV; da famiglia].
 De-Amicis-Edmondo_Cuore_1886.txt	governante	1	it	http://www.wikidata.org/entity/Q2596569	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
 De-Amicis-Edmondo_Cuore_1886.txt	maestro elementare	2	it	http://www.wikidata.org/entity/Q1459149	wikidata	profession	De Amicis Edomondo	Cuore   	m	1886	1880_1889	professione
 De-Amicis-Edmondo_Cuore_1886.txt	generale di divisione	1	it	http://www.wikidata.org/entity/Q2487961	wikidata	military rank	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	cassa di risparmio	1	it	custom_69	custom	commercial building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	casa mobile	1	it	custom_206	custom	civil building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	casa rustica	1	it	custom_567	custom	rural building (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	
+De-Amicis-Edmondo_Cuore_1886.txt	asilo infantile	3	it	custom_606	custom	public (place)	De Amicis Edomondo	Cuore   	m	1886	1880_1889	

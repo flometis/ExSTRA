@@ -49,6 +49,8 @@ for row in metadatastr.split("\n"):
 metadata = metadata[1:]
 
 findingsfile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/exstra_dictionary_COMPLETE.tsv"
+if len(sys.argv) > 1:
+    findingsfile = sys.argv[1]
 text_file = open(findingsfile, "r", encoding='utf-8')
 findingsstr = text_file.read()
 text_file.close()
