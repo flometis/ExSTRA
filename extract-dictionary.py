@@ -519,9 +519,10 @@ myentity = "none"
 try:
     myentity = sys.argv[1]
 except:
-    while bool(myentity not in entities and myentity.lower() != "all" and "," not in myentity):
+    while bool(myentity not in entities and myentity.lower() != "all" and "," not in myentity and not os.path.isfile(myentity)):
         myentity = input("Which entity do you want to list? (Write 'all' to get everything except humans search) ")
 
+ignorelang = False
 myentityList = []
 if myentity == "all":
     for key in entities:
@@ -535,6 +536,8 @@ elif "," in myentity:
     myentityList = myentity.split(",")
 else:
     myentityList = [myentity]
+    if os.path.isfile(myentity):
+        ignorelang = True
 myentity = ""
 
 print("Example of languages (choose 'all' for all supported languages or use ',' as separator):")
@@ -544,7 +547,10 @@ print("Full languages list: https://www.wikidata.org/wiki/Help:Wikimedia_languag
 try:
     tmplang = sys.argv[2]
 except:
-    tmplang = input("Which language do you want?")
+    if not ignorelang:
+        tmplang = input("Which language do you want?")
+    else:
+        tmplang = "it"
 
 
 filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/exstra_dictionary.tsv"
@@ -581,7 +587,15 @@ for mylang in mylangs:
     else:
         mytable = []
         for myentity in myentityList:
-            mytable.extend(getInstanceOf(myentity, mylang))
+            if os.path.isfile(myentity) and ".tsv" in myentity:
+                mytable.extend(openTable(myentity))
+                for myrow in mytable:
+                    if len(myrow) < 3:
+                        myrow.append("") #empty description
+                    if bool(re.search('[^a-zA-Z]', myrow[1])):
+                        myrow[-1] = str(myrow[-1]) + "DALEMMATIZZARE"
+            else:
+                mytable.extend(getInstanceOf(myentity, mylang))
 
     #It's safer to specify full path of the file. We could ask the user for it, but that's for the future
     #filename = os.path.abspath(os.path.dirname(sys.argv[0])) + "/listing_"+ myentity + "_" + mylang +".tsv"
