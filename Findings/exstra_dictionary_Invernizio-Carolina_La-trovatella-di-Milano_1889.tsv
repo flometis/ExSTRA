@@ -1,15 +1,16 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	maschera	9	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	figura professionale in ambito teatrale
-Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	negozio	13	it	custom_108	custom	commercial building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	negozio	13	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	luogo in cui si vendono merci o servizi
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	guardia	2	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	casa	22	it	custom_184	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	capo	18	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	posizione all'interno di una organizzazione
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	corte	4	it	custom_240	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	signore	21	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	Titolo di nobiltà italiana
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	stanza	9	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	ambiente interno di un edificio; ad uso abitazione o ufficio
-Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	magazzino	1	it	custom_378	custom	industrial (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	magazzino	1	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	compagno	2	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	titolo onorifico in uso in molti ordinamenti
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	ufficio	1	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	stanza in cui delle persone svolgono degli impieghi
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	abitazione	1	it	custom_164	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	palazzo	12	it	custom_265	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	conte	73	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	titolo della nobiltà esistente nei paesi europei
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	marchese	33	it	http://www.wikidata.org/entity/Q209726	wikidata	noble rank	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	titolo nobiliare
@@ -20,25 +21,26 @@ Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	gentiluomo	1	it	http://www.
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	cameriere	2	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	personale di servizio in luoghi di ristorazione o case prevate
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	rifugio	2	it	custom_589	custom	rural building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	spia	5	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
-Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	chiesa	3	it	custom_470	custom	religious building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	chiesa	3	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	edificio religioso cristiano
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	mercato	3	it	http://www.wikidata.org/entity/Q330284	wikidata	venue (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	luogo in cui le persone si riuniscono regolarmente per l'acquisto e la vendita di provviste; bestiame e altri beni
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	cavaliere	1	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	atleta che pratica lo sport dell'equitazione
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	appartamento	5	it	custom_169	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
-Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	studio	2	it	custom_728	custom	public (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	studio	2	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	villetta	5	it	custom_299	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	domestico	8	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	villa	6	it	custom_296	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	stella	1	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	artista del mondo dello spettacolo che gode di molta popolarità
-Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	giardino	3	it	custom_660	custom	public (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	giardino	3	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	giudice	2	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	sovrano in lingua volgare sarda
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	attrice	1	it	http://www.wikidata.org/entity/Q21169216	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	professione
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	carabiniere	2	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	militare
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	agente	1	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	banca	1	it	custom_42	custom	commercial building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	ospedale	3	it	custom_681	custom	public (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	cortile	1	it	custom_644	custom	public (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	usciere	1	it	http://www.wikidata.org/entity/Q2664461	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	persona che accoglie chi entra in un edificio residenziale; albergo o ufficio
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	domicilio	1	it	custom_246	custom	civil building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	medico	3	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	avvocato	1	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	professione svolta in ambito giuridico
-Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	carcere	1	it	custom_619	custom	public (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	
+Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	carcere	1	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	luogo di detenzione
 Invernizio-Carolina_La-trovatella-di-Milano_1889.txt	mausoleo	1	it	custom_524	custom	religious building (place)	Invernizio Carolina	La trovatella di Milano	f	1889	1880_1889	

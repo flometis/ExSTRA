@@ -106,9 +106,10 @@ def tabellaContingenza(originale, variabileRighe, variabileColonne, numero):
 
 # Tabella di contingenza per le occorrenze
 freqTable = tabellaContingenza(findings,1,10,2)
-freqTable[0][0] = "MESTIERI"
+freqTable[0][0] = findingsfile
 print(freqTable[:10])
-savetable(freqTable, "MESTIERIfreq.csv")
+freqName = findingsfile[:-4].upper() + "freq.csv"
+savetable(freqTable, freqName)
 
 #Tabella riassuntiva per i metadati
 info = {}
@@ -132,4 +133,5 @@ for anno in info:
     fullrow.extend(info[anno])
     infoTable.append(fullrow)
 print(infoTable[:10])
-savetable(infoTable, "MESTIERIinfo.csv")
+infoName = findingsfile[:-4].upper() + "info.csv"
+savetable(infoTable, infoName)

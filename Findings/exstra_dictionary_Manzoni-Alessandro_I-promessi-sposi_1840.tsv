@@ -2,12 +2,12 @@ File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Dec
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	impresa	41	it	custom_97	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	politico	8	it	http://www.wikidata.org/entity/Q82955	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona impegnata negli affari politici o che mantiene o è candidato per una posizione nel governo
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	signore	426	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	Titolo di nobiltà italiana
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	tempio	23	it	custom_552	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	tempio	23	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	struttura architettonica utilizzata come luogo di culto
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	critico	5	it	http://www.wikidata.org/entity/Q6430706	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	lettore	53	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	posizione accademica di rango inferiore al professore
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	deposito	7	it	custom_646	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	casale	1	it	custom_568	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	castello	58	it	custom_232	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	casale	1	it	http://www.wikidata.org/entity/Q3661417	wikidata	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	gruppo di case rustiche
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	castello	58	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	complesso architettonico fortificato tipico del Medioevo
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	comandante	3	it	http://www.wikidata.org/entity/Q849424	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	soldato	33	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che si è arruolata nelle forze armate di un paese sovrano
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	domestico	1	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
@@ -42,14 +42,14 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	medico	21	it	http://www.sapere.it/e
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	nobile	6	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	titolo nobiliare italiano
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	contadino	27	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	contadino: sm. e agg. [sec. XIV; da contado].
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	censore	2	it	http://www.wikidata.org/entity/Q22272441	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	studio	26	it	custom_728	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	studio	26	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	serva	6	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	sèrva: sf. [sec. XIV; f. di servo].
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	principe	61	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	filatore	7	it	http://www.sapere.it/enciclopedia/filat%C3%B3re.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	filatóre: sm. (f. -trice; pop. -tora) [sec. XIV; da filare (verbo)].
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	lavorante	4	it	http://www.sapere.it/enciclopedia/lavorante.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	lavorante: sm. e f. [sec. XIV; ppr. di lavorare]. Chi esegue lavori manuali e specialmente chi presta la propria opera in posizione subordinata in laboratorio; ecc.: lavorante del parrucchiere;lavorante finito; che ha acquisito una notevole abilità nel suo mestiere.
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	filatoio	5	it	custom_350	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	massaio	1	it	http://www.sapere.it/enciclopedia/mass%C3%A0io.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	massàio: (ant. o dial. massaro); sm. [sec. XIV; latino medievale
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	chiesa	70	it	custom_470	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	chiesa	70	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	edificio religioso cristiano
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	porto	7	it	custom_402	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	fortezza	5	it	custom_13	custom	military (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	artigianello	1	it	http://www.sapere.it/enciclopedia/artigian%C3%A8llo.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	artigianèllo: sm. [dim. di artigiano].
@@ -58,15 +58,16 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	stanza	62	it	http://www.wikidata.or
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	mercato	14	it	http://www.wikidata.org/entity/Q330284	wikidata	venue (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo in cui le persone si riuniscono regolarmente per l'acquisto e la vendita di provviste; bestiame e altri beni
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	dottore	53	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	titolo accademico
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	fiera	3	it	custom_651	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	abitazione	3	it	custom_164	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	marchese	9	it	http://www.wikidata.org/entity/Q209726	wikidata	noble rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	titolo nobiliare
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	barbiere	2	it	custom_44	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	barbiere	2	it	http://www.wikidata.org/entity/Q107198	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che si occupa di tagliare; acconciare; accorciare e sistemare i peli del volto maschili
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	maestro	8	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	avvocato	3	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	professione svolta in ambito giuridico
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	piazza	38	it	custom_700	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	giocatore	3	it	http://www.wikidata.org/entity/Q24114117	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che gioca d'azzardo; professionalmente o ricreativamente
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	granaio	2	it	custom_576	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	pescatore	9	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona addetta alla cattura di pesci
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	fabbrica	7	it	custom_346	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	fabbrica	7	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo di produzione o elaborazione di beni materiali
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	cocchiere	7	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	fondaco	3	it	custom_652	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	mensa	4	it	custom_674	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
@@ -91,7 +92,7 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	reggia	1	it	custom_270	custom	civil
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	profeta	1	it	http://www.wikidata.org/entity/Q42857	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che sostiene di parlare per conto di divinità
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	giureconsulto	1	it	http://www.wikidata.org/entity/Q2664701	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	esperto del diritto che dà pareri su determinate questioni o che si dedica all'insegnamento delle discipline del diritto
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	osteria	31	it	custom_123	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	negozio	9	it	custom_108	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	negozio	9	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo in cui si vendono merci o servizi
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	altare	6	it	custom_445	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	pegno	3	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	attività di credito con la garanzia di un bene in custodia
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	abate	1	it	http://www.wikidata.org/entity/Q103163	wikidata	ecclesiastical occupation	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	titolo religioso dato al capo di un monastero
@@ -99,7 +100,7 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	casolare	5	it	custom_570	custom	rur
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	generale	6	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	militare appartenente alla più elevata categoria degli ufficiali
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	pollaio	1	it	custom_586	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	membro	5	it	http://www.wikidata.org/entity/Q59820617	wikidata	honorary title	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	titolo onorifico in uso in molti ordinamenti
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	libreria	5	it	custom_102	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	libreria	5	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	negozio di vendita di libri
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	duomo	22	it	custom_515	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	campanile	5	it	custom_456	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	abituro	1	it	custom_166	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
@@ -111,7 +112,7 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	rifugio	6	it	custom_589	custom	rura
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	sagrestia	1	it	custom_540	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	barcaiolo	5	it	http://www.wikidata.org/entity/Q2891167	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	capanna	25	it	custom_561	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	monastero	49	it	custom_525	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	monastero	49	it	http://www.wikidata.org/entity/Q44613	wikidata	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	edificio adibito ad abitazione e luogo di lavoro per monaci e suore
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	badessa	12	it	http://www.wikidata.org/entity/Q1646408	wikidata	ecclesiastical occupation	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	immobile	2	it	custom_252	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	chiostro	15	it	custom_502	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
@@ -126,10 +127,10 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	comparsa	3	it	http://www.wikidata.o
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	rappresentante	1	it	http://www.wikidata.org/entity/Q994779	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	dame	1	it	http://www.wikidata.org/entity/Q901407	wikidata	honorary title	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	equivalente femminile di cavaliere
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	villa	5	it	custom_296	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	santuario	1	it	custom_543	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	santuario	1	it	http://www.wikidata.org/entity/Q697295	wikidata	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo sacro dedicato a una specifica divinità
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	maestra	2	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	prigione	22	it	custom_707	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	giardino	1	it	custom_660	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	giardino	1	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	pastore	9	it	http://www.wikidata.org/entity/Q81710	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che guida e si prende cura di un gregge di pecore o altri animali
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	torre	1	it	custom_290	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	fossato	4	it	http://www.wikidata.org/entity/Q88480	wikidata	fortification (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	elemento di architettura militare difensiva
@@ -142,7 +143,7 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	decurione	16	it	http://www.wikidata
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	garzone	11	it	http://www.sapere.it/enciclopedia/garz%C3%B3ne.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	garzóne: sm. (f. -a) [sec. XIII; francese
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	polveriera	1	it	custom_23	custom	military (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	soffitta	3	it	custom_280	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	magazzino	2	it	custom_378	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	magazzino	2	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	sguattero	1	it	http://www.sapere.it/enciclopedia/sgu%C3%A0ttero.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	sguàttero: sm. (f. -a.) [sec. XVI; dal longobardo
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	tribunale	33	it	custom_735	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	guida	14	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
@@ -159,19 +160,19 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	poeta	7	it	http://www.wikidata.org/
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	buffone	2	it	http://www.wikidata.org/entity/Q15037346	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	termine col quale si indicava un giullare
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	consorte	2	it	http://www.wikidata.org/entity/Q5784340	wikidata	noble rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	coniuge del monarca
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	servetta	1	it	http://www.sapere.it/enciclopedia/serv%C3%A9tta.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	servétta: sf. [sec. XVII; dim. di serva].
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	carcere	3	it	custom_619	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	carcere	3	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo di detenzione
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	locanda	1	it	custom_103	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	storico	5	it	http://www.wikidata.org/entity/Q201788	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che studia il passato
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	spadaio	4	it	http://www.sapere.it/enciclopedia/spad%C3%A0io.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	spadàio: (regionale
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	rocca	1	it	custom_275	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	monsignore	27	it	http://www.wikidata.org/entity/Q854905	wikidata	noble rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	cascina	2	it	custom_569	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	cascina	2	it	http://www.wikidata.org/entity/Q1169748	wikidata	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	struttura agricola tipica della Pianura Padana
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	albergo	1	it	custom_32	custom	commercial building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	ore	2	it	http://www.sapere.it/enciclopedia/%C3%B3re.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	óre: sm. (f. -trice) [da scoticare]. Chi scotica. In particolare; in agricoltura; specie di grossa lama che viene applicata davanti al vomere di un aratro per tagliare lo strato superficiale; la cotica del terreno.
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	pesciaiolo	4	it	http://www.sapere.it/enciclopedia/pesciai%C3%B2lo.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	pesciaiòlo: (lett. pesciaiuòlo); sm. [sec. XIV; da pesce]. Venditore di pesci; pescivendolo.
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	speziale	1	it	http://www.wikidata.org/entity/Q1131236	wikidata	historical profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	faccendiere	1	it	http://www.wikidata.org/entity/Q3738156	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	officina	1	it	custom_387	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	officina	1	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo di lavoro
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	tana	2	it	custom_285	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	domicilio	2	it	custom_246	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	accampamento	2	it	custom_557	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
@@ -182,7 +183,7 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	tenore	3	it	http://www.wikidata.org
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	ospizio	3	it	custom_686	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	biblioteca	8	it	http://www.wikidata.org/entity/Q7075	wikidata	facility (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	istituzione culturale finalizzata alla raccolta organizzata di libri e risorse informative
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	alunno	2	it	http://www.wikidata.org/entity/Q48942	wikidata	military rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che studia in una scuola
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	stamperia	1	it	custom_426	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	stamperia	1	it	http://www.wikidata.org/entity/Q47003909	wikidata	factory (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	seminario	2	it	http://www.wikidata.org/entity/Q233324	wikidata	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	istituto per l'insegnamento superiore della teologia
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	bibliotecario	1	it	http://www.wikidata.org/entity/Q182436	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	professionista che opera in una biblioteca fisica o digitale
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	biografo	1	it	http://www.wikidata.org/entity/Q864380	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	professione
@@ -228,8 +229,9 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	università	2	it	custom_737	custom	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	capocomico	1	it	http://www.wikidata.org/entity/Q17994313	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	direttore artistico e legale di una compagnia teatrale
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	impiegato	2	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	cuciniere	1	it	http://www.sapere.it/enciclopedia/cucini%C3%A8re.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	cucinière: sm. (f. -a) [sec. XIII; da cucina]. Chi è addetto alla cucina; cuoco; specialmente di una comunità.
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	industria	3	it	custom_358	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	archivio	2	it	custom_603	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	cimitero	3	it	custom_504	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	cimitero	3	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo di sepoltura dei defunti
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	pittore	1	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	meccanico	1	it	http://www.wikidata.org/entity/Q6804564	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	ingegnere o scienziato che si occupa di meccanica
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	muratore	1	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona specializzata nella costruzione di opere in muratura
@@ -238,8 +240,8 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	casotto	1	it	custom_231	custom	civi
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	principia	1	it	http://www.wikidata.org/entity/Q2110440	wikidata	fortification (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	venditore	1	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	lavoro
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	cantina	1	it	custom_317	custom	industrial (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	baracca	5	it	custom_173	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	cappella	8	it	custom_458	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	baracca	5	it	http://www.wikidata.org/entity/Q6502413	wikidata	house (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	piccolo riparo o abitazione
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	cappella	8	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	luogo destinato al culto religioso e legato a una struttura più grande
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	balia	4	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona che accudisce un neonato provvedendo anche al suo allattamento
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	costruzione	1	it	custom_241	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	mercantessa	2	it	http://www.sapere.it/enciclopedia/mercant%C3%A9ssa.html	sapere	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	mercantéssa: sf. antiq. [sec. XVII; da mercante]. Donna che esercita la mercatura o anche moglie di un mercante.
@@ -247,6 +249,10 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	infante	1	it	http://www.wikidata.or
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	canonico	1	it	http://www.wikidata.org/entity/Q1237385	wikidata	ecclesiastical occupation	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	topaia	1	it	custom_289	custom	civil building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	arbitro	1	it	http://www.wikidata.org/entity/Q716711	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	responsabile del rispetto delle regole del Football Americano durante il gioco
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	casa di signore	2	it	custom_460	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	casa parrocchiale	3	it	custom_462	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	casa di campagna	1	it	custom_565	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
+Manzoni-Alessandro_I-promessi-sposi_1840.txt	palazzo di giustizia	2	it	custom_691	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	regina madre	1	it	http://www.wikidata.org/entity/Q10477002	wikidata	noble rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	grande ammiraglio	1	it	http://www.wikidata.org/entity/Q3775598	wikidata	military rank	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	padre provinciale	17	it	http://www.wikidata.org/entity/Q1975161	wikidata	ecclesiastical occupation	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
@@ -255,6 +261,3 @@ Manzoni-Alessandro_I-promessi-sposi_1840.txt	capitano generale	1	it	http://www.w
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	padre cappuccino	1	it	http://www.wikidata.org/entity/Q64169989	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	occupazione religiosa
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	di il	1	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
 Manzoni-Alessandro_I-promessi-sposi_1840.txt	guardia di corpo	1	it	http://www.wikidata.org/entity/Q851436	wikidata	profession	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	persona assegnata alla sicurezza di un individuo
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	casa parrocchiale	3	it	custom_462	custom	religious building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	casa di campagna	1	it	custom_565	custom	rural building (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	
-Manzoni-Alessandro_I-promessi-sposi_1840.txt	palazzo di giustizia	2	it	custom_691	custom	public (place)	Manzoni Alessandro	I promessi sposi	m	1840	1840_1849	

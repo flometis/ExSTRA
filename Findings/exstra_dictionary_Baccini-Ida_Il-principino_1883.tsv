@@ -7,7 +7,7 @@ Baccini-Ida_Il-principino_1883.txt	segretario	2	it	http://www.wikidata.org/entit
 Baccini-Ida_Il-principino_1883.txt	cavaliere	2	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	atleta che pratica lo sport dell'equitazione
 Baccini-Ida_Il-principino_1883.txt	palazzo	2	it	custom_265	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	corte	5	it	custom_240	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	tempio	1	it	custom_552	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	struttura architettonica utilizzata come luogo di culto
 Baccini-Ida_Il-principino_1883.txt	signore	46	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Baccini Ida	Il principino	f	1883	1880_1889	Titolo di nobiltà italiana
 Baccini-Ida_Il-principino_1883.txt	generale	1	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Baccini Ida	Il principino	f	1883	1880_1889	militare appartenente alla più elevata categoria degli ufficiali
 Baccini-Ida_Il-principino_1883.txt	imperatore	1	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Baccini Ida	Il principino	f	1883	1880_1889	tipo di monarca
@@ -22,26 +22,26 @@ Baccini-Ida_Il-principino_1883.txt	medico	4	it	http://www.sapere.it/enciclopedia
 Baccini-Ida_Il-principino_1883.txt	guardia	2	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	stazione	6	it	custom_723	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	sepolcro	2	it	custom_549	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	carcere	2	it	custom_619	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	carcere	2	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Baccini Ida	Il principino	f	1883	1880_1889	luogo di detenzione
 Baccini-Ida_Il-principino_1883.txt	governante	1	it	http://www.wikidata.org/entity/Q2596569	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	prigione	1	it	custom_707	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	chiesa	11	it	custom_470	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	chiesa	11	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	edificio religioso cristiano
 Baccini-Ida_Il-principino_1883.txt	cattedrale	1	it	custom_465	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	albergo	2	it	custom_32	custom	commercial building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	residenza	1	it	custom_272	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	residenza	1	it	http://www.wikidata.org/entity/Q7743	wikidata	house (place)	Baccini Ida	Il principino	f	1883	1880_1889	luogo in cui la persona ha la dimora abituale
 Baccini-Ida_Il-principino_1883.txt	banca	3	it	custom_42	custom	commercial building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	giornalaio	1	it	http://www.sapere.it/enciclopedia/giornal%C3%A0io.html	sapere	profession	Baccini Ida	Il principino	f	1883	1880_1889	giornalàio: sm. (f. -a) [sec. XIX; da giornale]. Chi vende giornali; riviste e simili.
 Baccini-Ida_Il-principino_1883.txt	appartamento	2	it	custom_169	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	precettore	1	it	http://www.wikidata.org/entity/Q609016	wikidata	honorary title	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	piazza	6	it	custom_700	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	domicilio	2	it	custom_246	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	castello	1	it	custom_232	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Baccini Ida	Il principino	f	1883	1880_1889	complesso architettonico fortificato tipico del Medioevo
 Baccini-Ida_Il-principino_1883.txt	villa	1	it	custom_296	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	pittore	7	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	Baccini Ida	Il principino	f	1883	1880_1889	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
 Baccini-Ida_Il-principino_1883.txt	lettore	4	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	posizione accademica di rango inferiore al professore
 Baccini-Ida_Il-principino_1883.txt	dame	1	it	http://www.wikidata.org/entity/Q901407	wikidata	honorary title	Baccini Ida	Il principino	f	1883	1880_1889	equivalente femminile di cavaliere
 Baccini-Ida_Il-principino_1883.txt	biblioteca	2	it	http://www.wikidata.org/entity/Q7075	wikidata	facility (place)	Baccini Ida	Il principino	f	1883	1880_1889	istituzione culturale finalizzata alla raccolta organizzata di libri e risorse informative
-Baccini-Ida_Il-principino_1883.txt	studio	4	it	custom_728	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	studio	4	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	poeta	3	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	scrittore di poesie
 Baccini-Ida_Il-principino_1883.txt	museo	1	it	custom_677	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	basilica	1	it	custom_449	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
@@ -52,12 +52,13 @@ Baccini-Ida_Il-principino_1883.txt	sguattero	1	it	http://www.sapere.it/enciclope
 Baccini-Ida_Il-principino_1883.txt	spazzino	1	it	http://www.sapere.it/enciclopedia/spazz%C3%ACno.html	sapere	profession	Baccini Ida	Il principino	f	1883	1880_1889	spazzìno: sm. [sec. XVII; da spazzare]. Chi spazza le strade o altri luoghi pubblici; netturbino; spazzaturaio.
 Baccini-Ida_Il-principino_1883.txt	compagno	1	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Baccini Ida	Il principino	f	1883	1880_1889	titolo onorifico in uso in molti ordinamenti
 Baccini-Ida_Il-principino_1883.txt	centro	1	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Baccini Ida	Il principino	f	1883	1880_1889	tipo di installazione
+Baccini-Ida_Il-principino_1883.txt	abitazione	1	it	custom_164	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	ufficio	3	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Baccini Ida	Il principino	f	1883	1880_1889	stanza in cui delle persone svolgono degli impieghi
 Baccini-Ida_Il-principino_1883.txt	terrazza	3	it	custom_288	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	stella	1	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	artista del mondo dello spettacolo che gode di molta popolarità
-Baccini-Ida_Il-principino_1883.txt	parco	1	it	custom_694	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	giardino	1	it	custom_660	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	libreria	1	it	custom_102	custom	commercial building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	parco	1	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Baccini Ida	Il principino	f	1883	1880_1889	area protetta o per ricreazione
+Baccini-Ida_Il-principino_1883.txt	giardino	1	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	libreria	1	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Baccini Ida	Il principino	f	1883	1880_1889	negozio di vendita di libri
 Baccini-Ida_Il-principino_1883.txt	scrittore	2	it	http://www.wikidata.org/entity/Q36180	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	chiunque crei un lavoro scritto
 Baccini-Ida_Il-principino_1883.txt	asilo	1	it	custom_605	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	giudice	1	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Baccini Ida	Il principino	f	1883	1880_1889	sovrano in lingua volgare sarda
@@ -68,7 +69,7 @@ Baccini-Ida_Il-principino_1883.txt	scienziato	1	it	http://www.wikidata.org/entit
 Baccini-Ida_Il-principino_1883.txt	impiegato	1	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Baccini-Ida_Il-principino_1883.txt	torre	1	it	custom_290	custom	civil building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	mensa	1	it	custom_674	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	cimitero	2	it	custom_504	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	cimitero	2	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Baccini Ida	Il principino	f	1883	1880_1889	luogo di sepoltura dei defunti
 Baccini-Ida_Il-principino_1883.txt	pasticciere	1	it	http://www.wikidata.org/entity/Q1191511	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	trattoria	2	it	custom_161	custom	commercial building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	locanda	1	it	custom_103	custom	commercial building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
@@ -84,8 +85,8 @@ Baccini-Ida_Il-principino_1883.txt	libraio	1	it	http://www.wikidata.org/entity/Q
 Baccini-Ida_Il-principino_1883.txt	funzionario	1	it	http://www.wikidata.org/entity/Q212238	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	persona titolare di un ufficio nell'ambito di un ente pubblico
 Baccini-Ida_Il-principino_1883.txt	romanziere	2	it	http://www.wikidata.org/entity/Q6625963	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	autore di romanzi e/o racconti
 Baccini-Ida_Il-principino_1883.txt	sepolcreto	1	it	custom_548	custom	religious building (place)	Baccini Ida	Il principino	f	1883	1880_1889	
+Baccini-Ida_Il-principino_1883.txt	pronto soccorso	1	it	custom_708	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	principe reale	1	it	http://www.wikidata.org/entity/Q3403409	wikidata	noble rank	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	altezzo reale	9	it	http://www.wikidata.org/entity/Q1252328	wikidata	noble rank	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	maestro di cerimonia	1	it	http://www.wikidata.org/entity/Q191578	wikidata	profession	Baccini Ida	Il principino	f	1883	1880_1889	
 Baccini-Ida_Il-principino_1883.txt	grande maestro	1	it	http://www.wikidata.org/entity/Q622601	wikidata	honorary title	Baccini Ida	Il principino	f	1883	1880_1889	
-Baccini-Ida_Il-principino_1883.txt	pronto soccorso	1	it	custom_708	custom	public (place)	Baccini Ida	Il principino	f	1883	1880_1889	

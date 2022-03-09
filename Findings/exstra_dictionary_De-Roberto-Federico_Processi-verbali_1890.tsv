@@ -1,9 +1,9 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 De-Roberto-Federico_Processi-verbali_1890.txt	scrittore	2	it	http://www.wikidata.org/entity/Q36180	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	chiunque crei un lavoro scritto
-De-Roberto-Federico_Processi-verbali_1890.txt	teatro	1	it	custom_733	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	teatro	1	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	luogo in cui avvengono rappresentazioni teatrali
 De-Roberto-Federico_Processi-verbali_1890.txt	commediografo	1	it	http://www.wikidata.org/entity/Q11914886	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	scrittore di commedie
 De-Roberto-Federico_Processi-verbali_1890.txt	lettore	1	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	posizione accademica di rango inferiore al professore
-De-Roberto-Federico_Processi-verbali_1890.txt	giardino	12	it	custom_660	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	giardino	12	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	casa	67	it	custom_184	custom	civil building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	capo	65	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	posizione all'interno di una organizzazione
 De-Roberto-Federico_Processi-verbali_1890.txt	stanza	11	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	ambiente interno di un edificio; ad uso abitazione o ufficio
@@ -12,26 +12,27 @@ De-Roberto-Federico_Processi-verbali_1890.txt	becchino	1	it	http://www.sapere.it
 De-Roberto-Federico_Processi-verbali_1890.txt	serva	8	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	sèrva: sf. [sec. XIV; f. di servo].
 De-Roberto-Federico_Processi-verbali_1890.txt	terrazza	1	it	custom_288	custom	civil building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	massaro	1	it	http://www.sapere.it/enciclopedia/massaro.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	massaro: variante ant. o dial. di massaio.
-De-Roberto-Federico_Processi-verbali_1890.txt	chiesa	8	it	custom_470	custom	religious building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	chiesa	8	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	edificio religioso cristiano
 De-Roberto-Federico_Processi-verbali_1890.txt	eccellenza	1	it	http://www.wikidata.org/entity/Q1067610	wikidata	honorary title	De Roberto Federico	Processi verbali	m	1890	1890_1899	
-De-Roberto-Federico_Processi-verbali_1890.txt	negozio	1	it	custom_108	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	negozio	1	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	luogo in cui si vendono merci o servizi
 De-Roberto-Federico_Processi-verbali_1890.txt	medico	16	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 De-Roberto-Federico_Processi-verbali_1890.txt	corte	6	it	custom_240	custom	civil building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	osteria	7	it	custom_123	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
-De-Roberto-Federico_Processi-verbali_1890.txt	officina	1	it	custom_387	custom	industrial (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	officina	1	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	luogo di lavoro
 De-Roberto-Federico_Processi-verbali_1890.txt	lavorante	2	it	http://www.sapere.it/enciclopedia/lavorante.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	lavorante: sm. e f. [sec. XIV; ppr. di lavorare]. Chi esegue lavori manuali e specialmente chi presta la propria opera in posizione subordinata in laboratorio; ecc.: lavorante del parrucchiere;lavorante finito; che ha acquisito una notevole abilità nel suo mestiere.
 De-Roberto-Federico_Processi-verbali_1890.txt	soldato	7	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	De Roberto Federico	Processi verbali	m	1890	1890_1899	persona che si è arruolata nelle forze armate di un paese sovrano
 De-Roberto-Federico_Processi-verbali_1890.txt	portinaio	1	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	lavoratore adibito alla cura e custodia di un edificio residenziale
-De-Roberto-Federico_Processi-verbali_1890.txt	studio	5	it	custom_728	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	studio	5	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	caffè	3	it	custom_50	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	fabbro	1	it	http://www.wikidata.org/entity/Q1639825	wikidata	historical profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	professione
 De-Roberto-Federico_Processi-verbali_1890.txt	principessa	1	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	De Roberto Federico	Processi verbali	m	1890	1890_1899	titolo nobiliare
 De-Roberto-Federico_Processi-verbali_1890.txt	marchese	3	it	http://www.wikidata.org/entity/Q209726	wikidata	noble rank	De Roberto Federico	Processi verbali	m	1890	1890_1899	titolo nobiliare
-De-Roberto-Federico_Processi-verbali_1890.txt	libreria	1	it	custom_102	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	libreria	1	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	negozio di vendita di libri
 De-Roberto-Federico_Processi-verbali_1890.txt	cocchiere	7	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
-De-Roberto-Federico_Processi-verbali_1890.txt	magazzino	2	it	custom_378	custom	industrial (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	magazzino	2	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	casupola	1	it	custom_233	custom	civil building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	guardiano	1	it	http://www.sapere.it/enciclopedia/guardiano.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	guardiano: agg. e sm. (f. -a) [sec. XIV: da guardia].
-De-Roberto-Federico_Processi-verbali_1890.txt	carcere	3	it	custom_619	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	carcere	3	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	luogo di detenzione
 De-Roberto-Federico_Processi-verbali_1890.txt	militare	2	it	http://www.wikidata.org/entity/Q47064	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	membro delle forze armate
 De-Roberto-Federico_Processi-verbali_1890.txt	compagno	10	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	De Roberto Federico	Processi verbali	m	1890	1890_1899	titolo onorifico in uso in molti ordinamenti
 De-Roberto-Federico_Processi-verbali_1890.txt	governante	1	it	http://www.wikidata.org/entity/Q2596569	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
@@ -42,16 +43,17 @@ De-Roberto-Federico_Processi-verbali_1890.txt	esattore	1	it	http://www.wikidata.
 De-Roberto-Federico_Processi-verbali_1890.txt	piazza	7	it	custom_700	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	scuola	1	it	custom_717	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	commendatore	10	it	http://www.wikidata.org/entity/Q524980	wikidata	honorary title	De Roberto Federico	Processi verbali	m	1890	1890_1899	grado onorifico
-De-Roberto-Federico_Processi-verbali_1890.txt	prefetto	1	it	custom_706	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	prefetto	1	it	http://www.wikidata.org/entity/Q5183538	wikidata	military rank	De Roberto Federico	Processi verbali	m	1890	1890_1899	ufficiale dell'Antica Roma; solitamente appartenente all'ordine equestre
 De-Roberto-Federico_Processi-verbali_1890.txt	porto	2	it	custom_402	custom	industrial (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	narratore	2	it	http://www.wikidata.org/entity/Q755070	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	chi racconta la storia al pubblico
 De-Roberto-Federico_Processi-verbali_1890.txt	ferraiolo	2	it	http://www.wikidata.org/entity/Q2291159	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	artigiano che lavora con il ferro
 De-Roberto-Federico_Processi-verbali_1890.txt	carrettiere	7	it	http://www.wikidata.org/entity/Q1473046	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	cavaliere	8	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	atleta che pratica lo sport dell'equitazione
 De-Roberto-Federico_Processi-verbali_1890.txt	nobile	1	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	De Roberto Federico	Processi verbali	m	1890	1890_1899	titolo nobiliare italiano
-De-Roberto-Federico_Processi-verbali_1890.txt	farmacia	2	it	custom_650	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	farmacia	2	it	http://www.wikidata.org/entity/Q13107184	wikidata	shop (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	negozio in cui vengono venduti farmaci
 De-Roberto-Federico_Processi-verbali_1890.txt	speziale	4	it	http://www.wikidata.org/entity/Q1131236	wikidata	historical profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	giardiniere	1	it	http://www.wikidata.org/entity/Q758780	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	persona che si prende cura dei giardini per hobby o per professione
+De-Roberto-Federico_Processi-verbali_1890.txt	ospedale	6	it	custom_681	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	guardia	20	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	alloggio	1	it	custom_167	custom	civil building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	comandante	2	it	http://www.wikidata.org/entity/Q849424	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
@@ -80,9 +82,9 @@ De-Roberto-Federico_Processi-verbali_1890.txt	arrotino	3	it	http://www.sapere.it
 De-Roberto-Federico_Processi-verbali_1890.txt	contadino	3	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	contadino: sm. e agg. [sec. XIV; da contado].
 De-Roberto-Federico_Processi-verbali_1890.txt	imprenditore	2	it	http://www.wikidata.org/entity/Q131524	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	colui che detenendo fattori produttivi; sotto forma di imprese e investimenti; contribuisce a sviluppare prodotti; mercati o mezzi di produzione stimolando la creazione di nuova ricchezza e valore sotto forma di beni e servizi utili alla collettività
 De-Roberto-Federico_Processi-verbali_1890.txt	manovale	5	it	http://www.sapere.it/enciclopedia/manovale.html	sapere	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	manovale: sm. [sec. XIII; variante ant. e popolare di manuale]. Operaio che esegue lavori per i quali basta la sola forza delle braccia e non è necessaria alcuna preparazione tecnica (trasporto; pulizia e simili). In particolare; l'aiutante del muratore che gli prepara...
-De-Roberto-Federico_Processi-verbali_1890.txt	fabbrica	1	it	custom_346	custom	industrial (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	fabbrica	1	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	luogo di produzione o elaborazione di beni materiali
 De-Roberto-Federico_Processi-verbali_1890.txt	muratore	1	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	persona specializzata nella costruzione di opere in muratura
-De-Roberto-Federico_Processi-verbali_1890.txt	tempio	2	it	custom_552	custom	religious building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	tempio	2	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	struttura architettonica utilizzata come luogo di culto
 De-Roberto-Federico_Processi-verbali_1890.txt	banca	3	it	custom_42	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	barone	17	it	http://www.wikidata.org/entity/Q165503	wikidata	honorary title	De Roberto Federico	Processi verbali	m	1890	1890_1899	titolo nobiliare
 De-Roberto-Federico_Processi-verbali_1890.txt	palazzo	2	it	custom_265	custom	civil building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
@@ -114,6 +116,7 @@ De-Roberto-Federico_Processi-verbali_1890.txt	impiegato	1	it	http://www.wikidata
 De-Roberto-Federico_Processi-verbali_1890.txt	commesso	1	it	http://www.wikidata.org/entity/Q5803091	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	deposito	3	it	custom_646	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	direttore	4	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
+De-Roberto-Federico_Processi-verbali_1890.txt	industria	1	it	custom_358	custom	industrial (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	amministratore	1	it	http://www.wikidata.org/entity/Q1231906	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	pegno	4	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	attività di credito con la garanzia di un bene in custodia
 De-Roberto-Federico_Processi-verbali_1890.txt	forte	1	it	http://www.wikidata.org/entity/Q1785071	wikidata	fortification (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	costruzione militare destinata alla guerra difensiva
@@ -124,8 +127,8 @@ De-Roberto-Federico_Processi-verbali_1890.txt	bottega	4	it	custom_48	custom	comm
 De-Roberto-Federico_Processi-verbali_1890.txt	deputato	1	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	membro di una assemblea legislativa
 De-Roberto-Federico_Processi-verbali_1890.txt	orologiaio	1	it	http://www.wikidata.org/entity/Q2700922	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	sarto	1	it	http://www.wikidata.org/entity/Q242468	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	professione di chi confeziona; ripara o modifica abiti
-De-Roberto-Federico_Processi-verbali_1890.txt	pescivendolo	1	it	custom_134	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	pescivendolo	1	it	http://www.wikidata.org/entity/Q550594	wikidata	profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	persona che prepara e vende il pesce
 De-Roberto-Federico_Processi-verbali_1890.txt	tribunale	1	it	custom_735	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
 De-Roberto-Federico_Processi-verbali_1890.txt	acquaiolo	1	it	http://www.wikidata.org/entity/Q965417	wikidata	historical profession	De Roberto Federico	Processi verbali	m	1890	1890_1899	persona che raccoglie e trasporta acqua a piedi o tramite carretti o animali
-De-Roberto-Federico_Processi-verbali_1890.txt	chiosco	1	it	custom_72	custom	commercial building (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	
+De-Roberto-Federico_Processi-verbali_1890.txt	chiosco	1	it	http://www.wikidata.org/entity/Q693369	wikidata	facility (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	piccolo edificio
 De-Roberto-Federico_Processi-verbali_1890.txt	ospedale militare	1	it	custom_682	custom	public (place)	De Roberto Federico	Processi verbali	m	1890	1890_1899	

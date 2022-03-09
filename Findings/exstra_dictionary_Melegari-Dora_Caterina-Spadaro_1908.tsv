@@ -2,11 +2,12 @@ File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Dec
 Melegari-Dora_Caterina-Spadaro_1908.txt	impresa	4	it	custom_97	custom	commercial building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	signore	255	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	Titolo di nobiltà italiana
 Melegari-Dora_Caterina-Spadaro_1908.txt	maggiore	2	it	http://www.wikidata.org/entity/Q983927	wikidata	honorary title	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	grado militare utilizzato in molte forze armate
+Melegari-Dora_Caterina-Spadaro_1908.txt	industria	3	it	custom_358	custom	industrial (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	tenore	4	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	appartamento	7	it	custom_169	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	stazione	6	it	custom_723	custom	public (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	casa	79	it	custom_184	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	studio	6	it	custom_728	custom	public (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	studio	6	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	basso	3	it	custom_175	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	modello	1	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	professione
 Melegari-Dora_Caterina-Spadaro_1908.txt	pittore	1	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
@@ -15,11 +16,11 @@ Melegari-Dora_Caterina-Spadaro_1908.txt	stanza	8	it	http://www.wikidata.org/enti
 Melegari-Dora_Caterina-Spadaro_1908.txt	amministratore	1	it	http://www.wikidata.org/entity/Q1231906	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	conte	3	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo della nobiltà esistente nei paesi europei
 Melegari-Dora_Caterina-Spadaro_1908.txt	domestico	6	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
-Melegari-Dora_Caterina-Spadaro_1908.txt	teatro	20	it	custom_733	custom	public (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	teatro	20	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	luogo in cui avvengono rappresentazioni teatrali
 Melegari-Dora_Caterina-Spadaro_1908.txt	ufficio	4	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	stanza in cui delle persone svolgono degli impieghi
 Melegari-Dora_Caterina-Spadaro_1908.txt	convento	8	it	custom_508	custom	religious building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	scuola	2	it	custom_717	custom	public (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	negozio	3	it	custom_108	custom	commercial building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	negozio	3	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	luogo in cui si vendono merci o servizi
 Melegari-Dora_Caterina-Spadaro_1908.txt	banca	2	it	custom_42	custom	commercial building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	vasaio	1	it	http://www.wikidata.org/entity/Q3400050	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	artigiano specializzato nella creazione di vasi
 Melegari-Dora_Caterina-Spadaro_1908.txt	segretario	1	it	http://www.wikidata.org/entity/Q80687	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	impiegato che svolge vari tipi di mansioni
@@ -51,23 +52,25 @@ Melegari-Dora_Caterina-Spadaro_1908.txt	edificio	1	it	http://www.wikidata.org/en
 Melegari-Dora_Caterina-Spadaro_1908.txt	rifugio	2	it	custom_589	custom	rural building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	centro	3	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	tipo di installazione
 Melegari-Dora_Caterina-Spadaro_1908.txt	portico	2	it	custom_705	custom	public (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	chiesa	4	it	custom_470	custom	religious building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	chiesa	4	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	edificio religioso cristiano
 Melegari-Dora_Caterina-Spadaro_1908.txt	tenda	1	it	custom_286	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	stella	4	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	artista del mondo dello spettacolo che gode di molta popolarità
 Melegari-Dora_Caterina-Spadaro_1908.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	sacrestano	1	it	http://www.wikidata.org/entity/Q1365552	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	pasticciere	1	it	http://www.wikidata.org/entity/Q1191511	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	custode	1	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
+Melegari-Dora_Caterina-Spadaro_1908.txt	caffè	1	it	custom_50	custom	commercial building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	maestra	3	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	abitazione	1	it	custom_164	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	albergo	3	it	custom_32	custom	commercial building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	medico	4	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Melegari-Dora_Caterina-Spadaro_1908.txt	direttore	1	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 Melegari-Dora_Caterina-Spadaro_1908.txt	guardia	1	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	responsabile	1	it	http://www.wikidata.org/entity/Q3933467	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	cappella	3	it	custom_458	custom	religious building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	cappella	3	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	luogo destinato al culto religioso e legato a una struttura più grande
 Melegari-Dora_Caterina-Spadaro_1908.txt	villa	4	it	custom_296	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	podere	1	it	custom_585	custom	rural building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
-Melegari-Dora_Caterina-Spadaro_1908.txt	giardino	4	it	custom_660	custom	public (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
+Melegari-Dora_Caterina-Spadaro_1908.txt	giardino	4	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	terrazza	10	it	custom_288	custom	civil building (place)	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	ufficiale	2	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	
 Melegari-Dora_Caterina-Spadaro_1908.txt	compagno	2	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Melegari Dora	Caterina Spadaro	f	1908	1900_1909	titolo onorifico in uso in molti ordinamenti

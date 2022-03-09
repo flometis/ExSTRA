@@ -1,8 +1,8 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 Deledda-Grazia_Canne-al-vento_1913.txt	basso	5	it	custom_175	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	signore	31	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Deledda Grazia	Canne al vento	f	1913	1910_1920	Titolo di nobiltà italiana
-Deledda-Grazia_Canne-al-vento_1913.txt	chiesa	51	it	custom_470	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
-Deledda-Grazia_Canne-al-vento_1913.txt	castello	8	it	custom_232	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	chiesa	51	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	edificio religioso cristiano
+Deledda-Grazia_Canne-al-vento_1913.txt	castello	8	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	complesso architettonico fortificato tipico del Medioevo
 Deledda-Grazia_Canne-al-vento_1913.txt	casa	143	it	custom_184	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	custode	1	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
 Deledda-Grazia_Canne-al-vento_1913.txt	capanna	47	it	custom_561	custom	rural building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
@@ -18,19 +18,20 @@ Deledda-Grazia_Canne-al-vento_1913.txt	barone	5	it	http://www.wikidata.org/entit
 Deledda-Grazia_Canne-al-vento_1913.txt	bottega	4	it	custom_48	custom	commercial building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	negoziante	3	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
 Deledda-Grazia_Canne-al-vento_1913.txt	ufficio	1	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	stanza in cui delle persone svolgono degli impieghi
-Deledda-Grazia_Canne-al-vento_1913.txt	tempio	5	it	custom_552	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	tempio	5	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	struttura architettonica utilizzata come luogo di culto
 Deledda-Grazia_Canne-al-vento_1913.txt	rudere	4	it	custom_277	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	campanile	3	it	custom_456	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	casupola	2	it	custom_233	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	catapecchia	2	it	custom_234	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	centro	3	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	tipo di installazione
-Deledda-Grazia_Canne-al-vento_1913.txt	cimitero	14	it	custom_504	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	cimitero	14	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	luogo di sepoltura dei defunti
 Deledda-Grazia_Canne-al-vento_1913.txt	basilica	4	it	custom_449	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	torre	4	it	custom_290	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	porto	9	it	custom_402	custom	industrial (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	guerriero	1	it	http://www.wikidata.org/entity/Q1250916	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	altare	7	it	custom_445	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	pilota	1	it	http://www.wikidata.org/entity/Q475604	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	caffè	9	it	custom_50	custom	commercial building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	alloggio	2	it	custom_167	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	profeta	1	it	http://www.wikidata.org/entity/Q42857	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	persona che sostiene di parlare per conto di divinità
 Deledda-Grazia_Canne-al-vento_1913.txt	tenda	2	it	custom_286	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
@@ -47,7 +48,7 @@ Deledda-Grazia_Canne-al-vento_1913.txt	amministratore	2	it	http://www.wikidata.o
 Deledda-Grazia_Canne-al-vento_1913.txt	cantina	1	it	custom_317	custom	industrial (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	piazza	1	it	custom_700	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	stamberga	1	it	custom_283	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
-Deledda-Grazia_Canne-al-vento_1913.txt	santuario	3	it	custom_543	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	santuario	3	it	http://www.wikidata.org/entity/Q697295	wikidata	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	luogo sacro dedicato a una specifica divinità
 Deledda-Grazia_Canne-al-vento_1913.txt	cavaliere	2	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	atleta che pratica lo sport dell'equitazione
 Deledda-Grazia_Canne-al-vento_1913.txt	cella	1	it	custom_467	custom	religious building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	palazzo	4	it	custom_265	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
@@ -69,16 +70,18 @@ Deledda-Grazia_Canne-al-vento_1913.txt	esattore	1	it	http://www.wikidata.org/ent
 Deledda-Grazia_Canne-al-vento_1913.txt	maestro	1	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	principessa	1	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	Deledda Grazia	Canne al vento	f	1913	1910_1920	titolo nobiliare
 Deledda-Grazia_Canne-al-vento_1913.txt	cocchiere	1	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	ospedale	1	it	custom_681	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	pescatore	1	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	persona addetta alla cattura di pesci
 Deledda-Grazia_Canne-al-vento_1913.txt	giudice	1	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Deledda Grazia	Canne al vento	f	1913	1910_1920	sovrano in lingua volgare sarda
 Deledda-Grazia_Canne-al-vento_1913.txt	boia	2	it	http://www.wikidata.org/entity/Q207651	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	persona che ha il compito di eseguire le sentenze di condanna alla pena di morte
 Deledda-Grazia_Canne-al-vento_1913.txt	prigione	3	it	custom_707	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	guardiano	5	it	http://www.sapere.it/enciclopedia/guardiano.html	sapere	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	guardiano: agg. e sm. (f. -a) [sec. XIV: da guardia].
-Deledda-Grazia_Canne-al-vento_1913.txt	carcere	4	it	custom_619	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	carcere	4	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	luogo di detenzione
 Deledda-Grazia_Canne-al-vento_1913.txt	filatore	1	it	http://www.sapere.it/enciclopedia/filat%C3%B3re.html	sapere	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	filatóre: sm. (f. -trice; pop. -tora) [sec. XIV; da filare (verbo)].
 Deledda-Grazia_Canne-al-vento_1913.txt	maestra	2	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	abitazione	1	it	custom_164	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	immobile	1	it	custom_252	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
-Deledda-Grazia_Canne-al-vento_1913.txt	teatro	2	it	custom_733	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	teatro	2	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	luogo in cui avvengono rappresentazioni teatrali
 Deledda-Grazia_Canne-al-vento_1913.txt	bettoliere	1	it	http://www.sapere.it/enciclopedia/bettoli%C3%A8re.html	sapere	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	bettolière: sm. (f. -a) [sec. XVII; da bettola1]. Chi gestisce una bettola; taverniere.
 Deledda-Grazia_Canne-al-vento_1913.txt	usciere	2	it	http://www.wikidata.org/entity/Q2664461	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	persona che accoglie chi entra in un edificio residenziale; albergo o ufficio
 Deledda-Grazia_Canne-al-vento_1913.txt	falsario	1	it	http://www.wikidata.org/entity/Q3738757	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	colui che conia monete; banconote o documenti senza permesso o che comunque copia materiale che per legge non si può copiare
@@ -92,13 +95,13 @@ Deledda-Grazia_Canne-al-vento_1913.txt	contadino	2	it	http://www.sapere.it/encic
 Deledda-Grazia_Canne-al-vento_1913.txt	pensione	1	it	custom_132	custom	commercial building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	medico	1	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Deledda-Grazia_Canne-al-vento_1913.txt	mensa	1	it	custom_674	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
-Deledda-Grazia_Canne-al-vento_1913.txt	ovile	1	it	custom_583	custom	rural building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	ovile	1	it	http://www.wikidata.org/entity/Q858177	wikidata	venue (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	soldato	2	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	Deledda Grazia	Canne al vento	f	1913	1910_1920	persona che si è arruolata nelle forze armate di un paese sovrano
 Deledda-Grazia_Canne-al-vento_1913.txt	carabiniere	2	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	militare
 Deledda-Grazia_Canne-al-vento_1913.txt	caserma	3	it	custom_10	custom	military (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	dame	1	it	http://www.wikidata.org/entity/Q901407	wikidata	honorary title	Deledda Grazia	Canne al vento	f	1913	1910_1920	equivalente femminile di cavaliere
-Deledda-Grazia_Canne-al-vento_1913.txt	baracca	1	it	custom_173	custom	civil building (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
-Deledda-Grazia_Canne-al-vento_1913.txt	giardino	1	it	custom_660	custom	public (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
+Deledda-Grazia_Canne-al-vento_1913.txt	baracca	1	it	http://www.wikidata.org/entity/Q6502413	wikidata	house (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	piccolo riparo o abitazione
+Deledda-Grazia_Canne-al-vento_1913.txt	giardino	1	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	intermediario	1	it	http://www.wikidata.org/entity/Q1666223	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	
 Deledda-Grazia_Canne-al-vento_1913.txt	interprete	1	it	http://www.wikidata.org/entity/Q11085831	wikidata	profession	Deledda Grazia	Canne al vento	f	1913	1910_1920	persona che traduce oralmente da una lingua di partenza verso una lingua d'arrivo
 Deledda-Grazia_Canne-al-vento_1913.txt	vescovo	1	it	http://www.wikidata.org/entity/Q29182	wikidata	ecclesiastical occupation	Deledda Grazia	Canne al vento	f	1913	1910_1920	responsabile di una diocesi (non necessariamente cattolico)

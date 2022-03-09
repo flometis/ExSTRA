@@ -1,9 +1,9 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	monastero	1	it	custom_525	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	monastero	1	it	http://www.wikidata.org/entity/Q44613	wikidata	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	edificio adibito ad abitazione e luogo di lavoro per monaci e suore
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	torre	35	it	custom_290	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	castello	51	it	custom_232	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	castello	51	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	complesso architettonico fortificato tipico del Medioevo
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	palazzo	2	it	custom_265	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	tempio	14	it	custom_552	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	tempio	14	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	struttura architettonica utilizzata come luogo di culto
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	signore	63	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	Titolo di nobiltà italiana
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	capanna	2	it	custom_561	custom	rural building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	paggio	10	it	http://www.wikidata.org/entity/Q855855	wikidata	historical profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
@@ -11,7 +11,7 @@ Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	cavaliere	71	it	http://www.wik
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	fossato	3	it	http://www.wikidata.org/entity/Q88480	wikidata	fortification (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	elemento di architettura militare difensiva
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	araldo	4	it	http://www.wikidata.org/entity/Q696819	wikidata	historical profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	ufficiale addetto a rendere pubblici gli atti e le disposizioni delle autorità civili e religiose
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	centro	3	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	tipo di installazione
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	valletto	12	it	custom_295	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	valletto	12	it	http://www.wikidata.org/entity/Q13472752	wikidata	historical profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	forte	2	it	http://www.wikidata.org/entity/Q1785071	wikidata	fortification (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	costruzione militare destinata alla guerra difensiva
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	giullare	2	it	http://www.wikidata.org/entity/Q215548	wikidata	historical profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	artista medioevale
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	maggiordomo	2	it	http://www.wikidata.org/entity/Q833899	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	responsabile della servitù in una corte o casa signorile
@@ -25,11 +25,12 @@ Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	ufficio	3	it	http://www.wikida
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	conte	12	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	titolo della nobiltà esistente nei paesi europei
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	trovatore	12	it	http://www.wikidata.org/entity/Q186370	wikidata	historical profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	compositore ed esecutore di poesia lirica occitana nel Medioevo
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	nobile	3	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	titolo nobiliare italiano
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	studio	1	it	custom_728	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	studio	1	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	poeta	3	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	scrittore di poesie
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	maschera	1	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	figura professionale in ambito teatrale
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	precettore	2	it	http://www.wikidata.org/entity/Q609016	wikidata	honorary title	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	sepolcro	7	it	custom_549	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	industria	1	it	custom_358	custom	industrial (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	stanza	19	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	ambiente interno di un edificio; ad uso abitazione o ufficio
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	dimora	5	it	custom_245	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	re	4	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	titolo nobiliare maschile
@@ -50,7 +51,7 @@ Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	tutore	1	it	http://www.wikidat
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	tugurio	1	it	custom_294	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	pegno	3	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	attività di credito con la garanzia di un bene in custodia
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	altare	4	it	custom_445	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	cappella	2	it	custom_458	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	cappella	2	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	luogo destinato al culto religioso e legato a una struttura più grande
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	basilica	1	it	custom_449	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	cantore	1	it	http://www.wikidata.org/entity/Q330679	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	cantore di musica sacra o profana
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	soldato	14	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	persona che si è arruolata nelle forze armate di un paese sovrano
@@ -70,7 +71,7 @@ Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	fiera	1	it	custom_651	custom	p
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	sito	3	it	http://www.wikidata.org/entity/Q17350442	wikidata	facility (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	luogo dove si svolge un'attività
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	immobile	3	it	custom_252	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	portico	1	it	custom_705	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	giardino	6	it	custom_660	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	giardino	6	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	padiglione	2	it	custom_687	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	do	2	it	http://www.wikidata.org/entity/Q66567485	wikidata	nobiliary particle	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	messo	1	it	http://www.sapere.it/enciclopedia/m%C3%A9sso%C2%B2.html	sapere	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	mésso²: sm. [sec. XIV; latino missus; inviato; pp. di mittĕre; mandare].
@@ -80,11 +81,11 @@ Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	appartamento	1	it	custom_169	c
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	costruzione	3	it	custom_241	custom	civil building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	pescatore	1	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	persona addetta alla cattura di pesci
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	maestro	2	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	ovile	1	it	custom_583	custom	rural building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	ovile	1	it	http://www.wikidata.org/entity/Q858177	wikidata	venue (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	profeta	2	it	http://www.wikidata.org/entity/Q42857	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	persona che sostiene di parlare per conto di divinità
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	teatro	1	it	custom_733	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	teatro	1	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	luogo in cui avvengono rappresentazioni teatrali
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	cittadella	1	it	http://www.wikidata.org/entity/Q88291	wikidata	fortification (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	moschea	7	it	custom_526	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	moschea	7	it	http://www.wikidata.org/entity/Q32815	wikidata	facility (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	luogo di preghiera per i fedeli dell'Islam
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	garzone	3	it	http://www.sapere.it/enciclopedia/garz%C3%B3ne.html	sapere	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	garzóne: sm. (f. -a) [sec. XIII; francese
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	serva	1	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	sèrva: sf. [sec. XIV; f. di servo].
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	colf	1	it	http://www.sapere.it/enciclopedia/c%C3%B2lf.html	sapere	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	còlf: abbreviazione di uso corrente per “collaboratore/collaboratrice familiare”; cioè persona di servizio; spesso a tempo pieno. La legge regola i rapporti tra il/la lavoratore/trice e il datore di lavoro definendo le linee generali (collocamento; periodo di prova;...
@@ -99,10 +100,10 @@ Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	arciere	2	it	http://www.wikida
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	balestriere	1	it	http://www.wikidata.org/entity/Q2859615	wikidata	historical profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	persona munita di balestra
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	accampamento	1	it	custom_557	custom	rural building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	capitano	1	it	http://www.wikidata.org/entity/Q5036510	wikidata	military rank	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	grado militare della Royal Marines e della British Army
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	chiesa	3	it	custom_470	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	chiesa	3	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	edificio religioso cristiano
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	clero	1	it	http://www.wikidata.org/entity/Q177826	wikidata	profession	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	macello	1	it	custom_670	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
-Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	parco	1	it	custom_694	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
+Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	parco	1	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	area protetta o per ricreazione
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	catacomba	1	it	custom_464	custom	religious building (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	mensa	5	it	custom_674	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	
 Gualtieri-Lorenzo_La-Biscia-Dei-Visconti_1858.txt	sede	1	it	custom_719	custom	public (place)	Gualtieri Lorenzo	La biscia dei Visconti	m	1858	1850_1859	

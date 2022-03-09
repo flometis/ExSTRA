@@ -1,5 +1,6 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 Verga-Giovanni_Tigre-reale_1875.txt	albergo	20	it	custom_32	custom	commercial building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	caffè	3	it	custom_50	custom	commercial building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	stazione	14	it	custom_723	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	conte	8	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Verga Giovanni	Tigre Reale	m	1875	1870_1879	titolo della nobiltà esistente nei paesi europei
 Verga-Giovanni_Tigre-reale_1875.txt	scuola	2	it	custom_717	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
@@ -8,7 +9,7 @@ Verga-Giovanni_Tigre-reale_1875.txt	eccellenza	2	it	http://www.wikidata.org/enti
 Verga-Giovanni_Tigre-reale_1875.txt	diplomatico	2	it	http://www.wikidata.org/entity/Q193391	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	funzionario dello Stato
 Verga-Giovanni_Tigre-reale_1875.txt	poeta	2	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	scrittore di poesie
 Verga-Giovanni_Tigre-reale_1875.txt	signore	51	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Verga Giovanni	Tigre Reale	m	1875	1870_1879	Titolo di nobiltà italiana
-Verga-Giovanni_Tigre-reale_1875.txt	chiesa	4	it	custom_470	custom	religious building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	chiesa	4	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	edificio religioso cristiano
 Verga-Giovanni_Tigre-reale_1875.txt	negoziante	1	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
 Verga-Giovanni_Tigre-reale_1875.txt	postiglione	1	it	http://www.wikidata.org/entity/Q596033	wikidata	historical profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	contadino	4	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	contadino: sm. e agg. [sec. XIV; da contado].
@@ -17,23 +18,25 @@ Verga-Giovanni_Tigre-reale_1875.txt	visconte	3	it	http://www.wikidata.org/entity
 Verga-Giovanni_Tigre-reale_1875.txt	corte	11	it	custom_240	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	capo	39	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	posizione all'interno di una organizzazione
 Verga-Giovanni_Tigre-reale_1875.txt	circo	1	it	custom_74	custom	commercial building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
-Verga-Giovanni_Tigre-reale_1875.txt	teatro	8	it	custom_733	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	teatro	8	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	luogo in cui avvengono rappresentazioni teatrali
 Verga-Giovanni_Tigre-reale_1875.txt	medico	22	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Verga-Giovanni_Tigre-reale_1875.txt	casa	26	it	custom_184	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	messo	1	it	http://www.sapere.it/enciclopedia/m%C3%A9sso%C2%B2.html	sapere	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	mésso²: sm. [sec. XIV; latino missus; inviato; pp. di mittĕre; mandare].
 Verga-Giovanni_Tigre-reale_1875.txt	ballerino	2	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	persona che pratica l'arte del balletto
 Verga-Giovanni_Tigre-reale_1875.txt	salone	1	it	custom_714	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
-Verga-Giovanni_Tigre-reale_1875.txt	giardino	14	it	custom_660	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	giardino	14	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	tenda	7	it	custom_286	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	dimora	3	it	custom_245	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	stanza	9	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	ambiente interno di un edificio; ad uso abitazione o ufficio
 Verga-Giovanni_Tigre-reale_1875.txt	domestico	10	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
+Verga-Giovanni_Tigre-reale_1875.txt	industria	1	it	custom_358	custom	industrial (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	commesso	1	it	http://www.wikidata.org/entity/Q5803091	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	campanile	1	it	custom_456	custom	religious building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	torre	1	it	custom_290	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	palazzo	1	it	custom_265	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	villa	1	it	custom_296	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	musa	1	it	http://www.wikidata.org/entity/Q1954172	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	abitazione	1	it	custom_164	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	museo	2	it	custom_677	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	palcoscenico	1	it	http://www.wikidata.org/entity/Q194428	wikidata	workplace (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	parte del teatro
 Verga-Giovanni_Tigre-reale_1875.txt	maschera	1	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	figura professionale in ambito teatrale
@@ -54,7 +57,7 @@ Verga-Giovanni_Tigre-reale_1875.txt	collegio	3	it	custom_637	custom	public (plac
 Verga-Giovanni_Tigre-reale_1875.txt	tenente	2	it	http://www.wikidata.org/entity/Q8059446	wikidata	military rank	Verga Giovanni	Tigre Reale	m	1875	1870_1879	gradi militare greco
 Verga-Giovanni_Tigre-reale_1875.txt	contrammiraglio	2	it	http://www.wikidata.org/entity/Q2408844	wikidata	military rank	Verga Giovanni	Tigre Reale	m	1875	1870_1879	grado militare della marina olandese
 Verga-Giovanni_Tigre-reale_1875.txt	ufficiale	3	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
-Verga-Giovanni_Tigre-reale_1875.txt	castello	3	it	custom_232	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	castello	3	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	complesso architettonico fortificato tipico del Medioevo
 Verga-Giovanni_Tigre-reale_1875.txt	alunno	1	it	http://www.wikidata.org/entity/Q48942	wikidata	military rank	Verga Giovanni	Tigre Reale	m	1875	1870_1879	persona che studia in una scuola
 Verga-Giovanni_Tigre-reale_1875.txt	podere	1	it	custom_585	custom	rural building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	appartamento	1	it	custom_169	custom	civil building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
@@ -62,7 +65,7 @@ Verga-Giovanni_Tigre-reale_1875.txt	impiegato	2	it	http://www.wikidata.org/entit
 Verga-Giovanni_Tigre-reale_1875.txt	gallo	1	it	http://www.wikidata.org/entity/Q1492584	wikidata	historical profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	sacerdote eunuco della dea Cibele
 Verga-Giovanni_Tigre-reale_1875.txt	pescatore	1	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	persona addetta alla cattura di pesci
 Verga-Giovanni_Tigre-reale_1875.txt	chirurgo	1	it	http://www.sapere.it/enciclopedia/chirurgo.html	sapere	profession	Verga Giovanni	Tigre Reale	m	1875	1870_1879	chirurgo: sm. (pl. -gi o -ghi) [sec. XV; dal greco
-Verga-Giovanni_Tigre-reale_1875.txt	studio	1	it	custom_728	custom	public (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
+Verga-Giovanni_Tigre-reale_1875.txt	studio	1	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	chiesuola	2	it	custom_501	custom	religious building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	tappezzeria	1	it	custom_158	custom	commercial building (place)	Verga Giovanni	Tigre Reale	m	1875	1870_1879	
 Verga-Giovanni_Tigre-reale_1875.txt	membro	1	it	http://www.wikidata.org/entity/Q59820617	wikidata	honorary title	Verga Giovanni	Tigre Reale	m	1875	1870_1879	titolo onorifico in uso in molti ordinamenti

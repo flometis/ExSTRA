@@ -1,5 +1,5 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
-Serao-Matidle_Cuore-infermo_1881.txt	giardino	13	it	custom_660	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	giardino	13	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	porto	2	it	custom_402	custom	industrial (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	marinaio	2	it	http://www.wikidata.org/entity/Q707995	wikidata	military rank	Serao Matilde	Cuore inferno	f	1881	1880_1889	membro dell'equipaggio di una nave
 Serao-Matidle_Cuore-infermo_1881.txt	pescatore	1	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	persona addetta alla cattura di pesci
@@ -7,7 +7,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	caserma	1	it	custom_10	custom	military (pla
 Serao-Matidle_Cuore-infermo_1881.txt	villa	33	it	custom_296	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	casa	116	it	custom_184	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	edificio	4	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	costruzione edilizia realizzata dall'uomo
-Serao-Matidle_Cuore-infermo_1881.txt	teatro	27	it	custom_733	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	teatro	27	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	luogo in cui avvengono rappresentazioni teatrali
 Serao-Matidle_Cuore-infermo_1881.txt	scolaro	1	it	http://www.wikidata.org/entity/Q2248623	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	capo	121	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	posizione all'interno di una organizzazione
 Serao-Matidle_Cuore-infermo_1881.txt	collegio	3	it	custom_637	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
@@ -17,7 +17,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	signore	112	it	http://www.wikidata.org/enti
 Serao-Matidle_Cuore-infermo_1881.txt	duca	43	it	http://www.wikidata.org/entity/Q3715809	wikidata	noble rank	Serao Matilde	Cuore inferno	f	1881	1880_1889	figura del sistema sociale longobardo
 Serao-Matidle_Cuore-infermo_1881.txt	stanza	33	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	ambiente interno di un edificio; ad uso abitazione o ufficio
 Serao-Matidle_Cuore-infermo_1881.txt	guida	3	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	libreria	2	it	custom_102	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	libreria	2	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	negozio di vendita di libri
 Serao-Matidle_Cuore-infermo_1881.txt	poeta	7	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	scrittore di poesie
 Serao-Matidle_Cuore-infermo_1881.txt	scrittore	1	it	http://www.wikidata.org/entity/Q36180	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	chiunque crei un lavoro scritto
 Serao-Matidle_Cuore-infermo_1881.txt	prigione	1	it	custom_707	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
@@ -25,7 +25,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	sarta	3	it	http://www.sapere.it/enciclopedi
 Serao-Matidle_Cuore-infermo_1881.txt	maestra	2	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	maggiordomo	6	it	http://www.wikidata.org/entity/Q833899	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	responsabile della servitù in una corte o casa signorile
 Serao-Matidle_Cuore-infermo_1881.txt	salone	41	it	custom_714	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	cappella	5	it	custom_458	custom	religious building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	cappella	5	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	luogo destinato al culto religioso e legato a una struttura più grande
 Serao-Matidle_Cuore-infermo_1881.txt	appartamento	15	it	custom_169	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	principessa	17	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	Serao Matilde	Cuore inferno	f	1881	1880_1889	titolo nobiliare
 Serao-Matidle_Cuore-infermo_1881.txt	nobile	1	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Serao Matilde	Cuore inferno	f	1881	1880_1889	titolo nobiliare italiano
@@ -39,12 +39,12 @@ Serao-Matidle_Cuore-infermo_1881.txt	corte	10	it	custom_240	custom	civil buildin
 Serao-Matidle_Cuore-infermo_1881.txt	vescovo	1	it	http://www.wikidata.org/entity/Q29182	wikidata	ecclesiastical occupation	Serao Matilde	Cuore inferno	f	1881	1880_1889	responsabile di una diocesi (non necessariamente cattolico)
 Serao-Matidle_Cuore-infermo_1881.txt	comune	1	it	custom_639	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	famiglio	1	it	http://www.sapere.it/enciclopedia/fam%C3%ACglio.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	famìglio: sm. [sec. XIV; da famiglia].
-Serao-Matidle_Cuore-infermo_1881.txt	residenza	1	it	custom_272	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	fabbrica	5	it	custom_346	custom	industrial (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	residenza	1	it	http://www.wikidata.org/entity/Q7743	wikidata	house (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	luogo in cui la persona ha la dimora abituale
+Serao-Matidle_Cuore-infermo_1881.txt	fabbrica	5	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	luogo di produzione o elaborazione di beni materiali
 Serao-Matidle_Cuore-infermo_1881.txt	cavaliere	9	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	atleta che pratica lo sport dell'equitazione
 Serao-Matidle_Cuore-infermo_1881.txt	attore	6	it	http://www.wikidata.org/entity/Q33999	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	persona che recita in commedie o opere drammatiche al cinema; alla televisione; al teatro o alla radio
 Serao-Matidle_Cuore-infermo_1881.txt	albergo	10	it	custom_32	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	negozio	1	it	custom_108	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	negozio	1	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	luogo in cui si vendono merci o servizi
 Serao-Matidle_Cuore-infermo_1881.txt	palazzo	25	it	custom_265	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	portico	1	it	custom_705	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	ufficio	3	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	stanza in cui delle persone svolgono degli impieghi
@@ -53,7 +53,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	casolare	1	it	custom_570	custom	rural build
 Serao-Matidle_Cuore-infermo_1881.txt	deputato	3	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	membro di una assemblea legislativa
 Serao-Matidle_Cuore-infermo_1881.txt	impiegato	6	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Serao-Matidle_Cuore-infermo_1881.txt	tappezzeria	2	it	custom_158	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	chiesa	27	it	custom_470	custom	religious building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	chiesa	27	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	edificio religioso cristiano
 Serao-Matidle_Cuore-infermo_1881.txt	cocchiere	14	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	museo	1	it	custom_677	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	venditore	2	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	lavoro
@@ -69,7 +69,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	usciere	1	it	http://www.wikidata.org/entity
 Serao-Matidle_Cuore-infermo_1881.txt	oratore	1	it	http://www.wikidata.org/entity/Q12859263	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	critico	1	it	http://www.wikidata.org/entity/Q6430706	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	predicatore	1	it	http://www.wikidata.org/entity/Q432386	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	castello	3	it	custom_232	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	castello	3	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	complesso architettonico fortificato tipico del Medioevo
 Serao-Matidle_Cuore-infermo_1881.txt	portinaio	2	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	lavoratore adibito alla cura e custodia di un edificio residenziale
 Serao-Matidle_Cuore-infermo_1881.txt	procuratore	1	it	http://www.wikidata.org/entity/Q3922473	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	soggetto che in base ad un rapporto continuativo ha il potere di compiere per l'imprenditore gli atti pertinenti all'esercizio dell'impresa pur non essendo preposti ad esso
 Serao-Matidle_Cuore-infermo_1881.txt	eccellenza	13	it	http://www.wikidata.org/entity/Q1067610	wikidata	honorary title	Serao Matilde	Cuore inferno	f	1881	1880_1889	
@@ -86,11 +86,13 @@ Serao-Matidle_Cuore-infermo_1881.txt	piazza	5	it	custom_700	custom	public (place
 Serao-Matidle_Cuore-infermo_1881.txt	falegname	1	it	http://www.sapere.it/enciclopedia/falegname.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	falegname: sm. [sec. XIV; impt. di fare+legname]. Artigiano che lavora il legno; specialmente fabbricando o riparando mobili.
 Serao-Matidle_Cuore-infermo_1881.txt	tappezziere	3	it	http://www.wikidata.org/entity/Q23754740	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	persona che produce o ripara imbottiture e rivestimenti di mobili
 Serao-Matidle_Cuore-infermo_1881.txt	pittore	1	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
-Serao-Matidle_Cuore-infermo_1881.txt	studio	4	it	custom_728	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	studio	4	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	servetta	1	it	http://www.sapere.it/enciclopedia/serv%C3%A9tta.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	servétta: sf. [sec. XVII; dim. di serva].
 Serao-Matidle_Cuore-infermo_1881.txt	domestico	1	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 Serao-Matidle_Cuore-infermo_1881.txt	garzone	2	it	http://www.sapere.it/enciclopedia/garz%C3%B3ne.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	garzóne: sm. (f. -a) [sec. XIII; francese
 Serao-Matidle_Cuore-infermo_1881.txt	cortile	6	it	custom_644	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	industria	2	it	custom_358	custom	industrial (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	caffè	4	it	custom_50	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	casino	1	it	custom_229	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	tenda	3	it	custom_286	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	attrazione	5	it	http://www.wikidata.org/entity/Q1144661	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	tipo di apparecchiatura
@@ -99,7 +101,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	farmacista	1	it	http://www.sapere.it/encicl
 Serao-Matidle_Cuore-infermo_1881.txt	torre	3	it	custom_290	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	mandarino	1	it	http://www.wikidata.org/entity/Q1126165	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	antico funzionario di Paesi asiatici
 Serao-Matidle_Cuore-infermo_1881.txt	custode	6	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
-Serao-Matidle_Cuore-infermo_1881.txt	parco	34	it	custom_694	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	parco	34	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	area protetta o per ricreazione
 Serao-Matidle_Cuore-infermo_1881.txt	fattoria	1	it	custom_574	custom	rural building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	villetta	1	it	custom_299	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	rifugio	2	it	custom_589	custom	rural building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
@@ -119,7 +121,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	armatore	1	it	http://www.wikidata.org/entit
 Serao-Matidle_Cuore-infermo_1881.txt	stabilimento	1	it	custom_425	custom	industrial (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	contadino	2	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	contadino: sm. e agg. [sec. XIV; da contado].
 Serao-Matidle_Cuore-infermo_1881.txt	basso	1	it	custom_175	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	fioraio	2	it	custom_89	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	fioraio	2	it	http://www.sapere.it/enciclopedia/fior%C3%A0io.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	fioràio: sm. (f. -a) [sec. XVII; da fiore]. Venditore di fiori.
 Serao-Matidle_Cuore-infermo_1881.txt	profumeria	2	it	custom_137	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	guardia	1	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	imperatore	1	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Serao Matilde	Cuore inferno	f	1881	1880_1889	tipo di monarca
@@ -127,7 +129,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	ballerina	1	it	http://www.wikidata.org/enti
 Serao-Matidle_Cuore-infermo_1881.txt	ring	1	it	http://www.wikidata.org/entity/Q2290113	wikidata	venue (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	centro	5	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	tipo di installazione
 Serao-Matidle_Cuore-infermo_1881.txt	lettore	1	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	posizione accademica di rango inferiore al professore
-Serao-Matidle_Cuore-infermo_1881.txt	carcere	1	it	custom_619	custom	public (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	carcere	1	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	luogo di detenzione
 Serao-Matidle_Cuore-infermo_1881.txt	marrone	1	it	http://www.sapere.it/enciclopedia/marr%C3%B3ne%C2%B2.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	marróne²: sm. ant. [sec. XVI; dal francese ant. mar(r)on; forse dal nome dei Marrones; ant. popolo delle Alpi].
 Serao-Matidle_Cuore-infermo_1881.txt	impresario	1	it	http://www.wikidata.org/entity/Q2961975	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	persona responsabile per la gestione di un'azienda o di una sua parte
 Serao-Matidle_Cuore-infermo_1881.txt	giornalista	1	it	http://www.wikidata.org/entity/Q1930187	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	persona che si occupa di scoprire; analizzare; descrivere e scegliere notizie
@@ -141,7 +143,7 @@ Serao-Matidle_Cuore-infermo_1881.txt	scuola	1	it	custom_717	custom	public (place
 Serao-Matidle_Cuore-infermo_1881.txt	psicologo	1	it	http://www.wikidata.org/entity/Q212980	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	professionista sanitario che studia; diagnostica e tratta i processi mentali; comportamentali; emotivi e relazionali; sia sani che patologici
 Serao-Matidle_Cuore-infermo_1881.txt	gioielliere	1	it	http://www.wikidata.org/entity/Q336221	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	commerciante che si occupa della vendita di oggetti in oro; argento; pietre preziose
 Serao-Matidle_Cuore-infermo_1881.txt	emporio	1	it	custom_85	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	magazzino	1	it	custom_378	custom	industrial (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	magazzino	1	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	maschera	2	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	figura professionale in ambito teatrale
 Serao-Matidle_Cuore-infermo_1881.txt	doganiere	1	it	http://www.wikidata.org/entity/Q247797	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	professione
 Serao-Matidle_Cuore-infermo_1881.txt	staffiere	1	it	http://www.sapere.it/enciclopedia/staffi%C3%A8re.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	staffière: sm. [sec. XVI; da staffa]. Il servo che in passato seguiva alla staffa il cavaliere; palafreniere. Per estensione; servitore di casa signorile.
@@ -155,9 +157,8 @@ Serao-Matidle_Cuore-infermo_1881.txt	campanile	2	it	custom_456	custom	religious 
 Serao-Matidle_Cuore-infermo_1881.txt	terrazza	1	it	custom_288	custom	civil building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	guardiano	2	it	http://www.sapere.it/enciclopedia/guardiano.html	sapere	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	guardiano: agg. e sm. (f. -a) [sec. XIV: da guardia].
 Serao-Matidle_Cuore-infermo_1881.txt	camposanto	1	it	custom_457	custom	religious building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	grande magazzino	1	it	custom_95	custom	commercial building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	casa colonica	1	it	custom_564	custom	rural building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
+Serao-Matidle_Cuore-infermo_1881.txt	grande magazzino	1	it	http://www.wikidata.org/entity/Q216107	wikidata	shop (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	pompa funebre	1	it	http://www.wikidata.org/entity/Q316490	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	azienda che si occupa della vendita di beni e servizi funebri
 Serao-Matidle_Cuore-infermo_1881.txt	ufficiale di cavalleria	1	it	http://www.wikidata.org/entity/Q38218963	wikidata	profession	Serao Matilde	Cuore inferno	f	1881	1880_1889	
 Serao-Matidle_Cuore-infermo_1881.txt	di il	1	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	casa colonica	1	it	custom_564	custom	rural building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	
-Serao-Matidle_Cuore-infermo_1881.txt	casa rustica	1	it	custom_567	custom	rural building (place)	Serao Matilde	Cuore inferno	f	1881	1880_1889	

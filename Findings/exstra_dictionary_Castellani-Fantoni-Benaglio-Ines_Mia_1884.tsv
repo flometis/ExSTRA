@@ -6,8 +6,8 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	signore	133	it	http://www.wikidata
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	conservatore	1	it	http://www.wikidata.org/entity/Q7241052	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	principessa	1	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	titolo nobiliare
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	salone	3	it	custom_714	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	studio	6	it	custom_728	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	giardino	21	it	custom_660	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	studio	6	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	giardino	21	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	villa	38	it	custom_296	custom	civil building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	fabbricato	2	it	custom_347	custom	industrial (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	contadino	7	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	contadino: sm. e agg. [sec. XIV; da contado].
@@ -20,7 +20,7 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	medico	13	it	http://www.sapere.it/
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cavallante	5	it	http://www.sapere.it/enciclopedia/cavallante.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	cavallante: sm. [ppr. del verbo ant. cavallare; montare a cavallo].
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	scuola	1	it	custom_717	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	compagno	16	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	titolo onorifico in uso in molti ordinamenti
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	ovile	1	it	custom_583	custom	rural building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	ovile	1	it	http://www.wikidata.org/entity/Q858177	wikidata	venue (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	giardiniere	1	it	http://www.wikidata.org/entity/Q758780	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	persona che si prende cura dei giardini per hobby o per professione
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	portinaio	3	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	lavoratore adibito alla cura e custodia di un edificio residenziale
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	alloggio	2	it	custom_167	custom	civil building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
@@ -36,13 +36,13 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	casone	1	it	custom_230	custom	civi
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	collegio	3	it	custom_637	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	convento	15	it	custom_508	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	regina	3	it	http://www.wikidata.org/entity/Q16511993	wikidata	noble rank	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	monarca di genere femminile
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	chiesa	5	it	custom_470	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	chiesa	5	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	edificio religioso cristiano
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	giardiniera	3	it	http://www.sapere.it/enciclopedia/giardini%C3%A8ra.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	giardinièra: sf. e agg. [sec. XVII; da giardiniere].
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	portico	4	it	custom_705	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	agente	11	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	barone	7	it	http://www.wikidata.org/entity/Q165503	wikidata	honorary title	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	titolo nobiliare
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	duca	3	it	http://www.wikidata.org/entity/Q3715809	wikidata	noble rank	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	figura del sistema sociale longobardo
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	teatro	3	it	custom_733	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	teatro	3	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	luogo in cui avvengono rappresentazioni teatrali
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	palazzo	2	it	custom_265	custom	civil building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	marchese	1	it	http://www.wikidata.org/entity/Q209726	wikidata	noble rank	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	titolo nobiliare
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	falegname	1	it	http://www.sapere.it/enciclopedia/falegname.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	falegname: sm. [sec. XIV; impt. di fare+legname]. Artigiano che lavora il legno; specialmente fabbricando o riparando mobili.
@@ -54,7 +54,7 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	banchiere	1	it	http://www.wikidata
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	precettore	1	it	http://www.wikidata.org/entity/Q609016	wikidata	honorary title	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	maestra	2	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	appartamento	5	it	custom_169	custom	civil building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cottage	1	it	custom_572	custom	rural building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cottage	1	it	http://www.wikidata.org/entity/Q5783996	wikidata	house (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	abitazione tipica dei paesi anglosassoni
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	impresa	3	it	custom_97	custom	commercial building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	tutore	1	it	http://www.wikidata.org/entity/Q901222	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	insegnante che da' lezioni private
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	stazione	11	it	custom_723	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
@@ -68,7 +68,7 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	casolare	1	it	custom_570	custom	ru
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	sito	4	it	http://www.wikidata.org/entity/Q17350442	wikidata	facility (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	luogo dove si svolge un'attività
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cavallerizzo	1	it	http://www.sapere.it/enciclopedia/cavallerizzo.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	cavallerizzo: sm. (f. -a) [sec. XVI; dallo spagnolo caballerizo; da caballo; cavallo].
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	allevatore	1	it	http://www.wikidata.org/entity/Q1368409	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	professione
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cascina	7	it	custom_569	custom	rural building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cascina	7	it	http://www.wikidata.org/entity/Q1169748	wikidata	rural building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	struttura agricola tipica della Pianura Padana
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	altare	1	it	custom_445	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	saggio	1	it	http://www.wikidata.org/entity/Q2624172	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	arbitro	1	it	http://www.wikidata.org/entity/Q716711	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	responsabile del rispetto delle regole del Football Americano durante il gioco
@@ -79,12 +79,13 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	generale	1	it	http://www.wikidata.
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	sarta	2	it	http://www.sapere.it/enciclopedia/sarta.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	sarta: sf. [sec. XV; f. di sarto]. Donna che; in proprio o come lavoratrice dipendente; taglia e confeziona abiti; specialmente femminili.
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	rifugio	1	it	custom_589	custom	rural building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	mandarino	2	it	http://www.wikidata.org/entity/Q1126165	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	antico funzionario di Paesi asiatici
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	santuario	2	it	custom_543	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	caffè	3	it	custom_50	custom	commercial building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	santuario	2	it	http://www.wikidata.org/entity/Q697295	wikidata	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	luogo sacro dedicato a una specifica divinità
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	guerriero	1	it	http://www.wikidata.org/entity/Q1250916	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	tappezzeria	1	it	custom_158	custom	commercial building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	comico	1	it	http://www.wikidata.org/entity/Q245068	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	artista professionale che racconta barzellette e compie atti divertenti
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	dottore	7	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	titolo accademico
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	tempio	1	it	custom_552	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	struttura architettonica utilizzata come luogo di culto
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	critico	1	it	http://www.wikidata.org/entity/Q6430706	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	guardiano	2	it	http://www.sapere.it/enciclopedia/guardiano.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	guardiano: agg. e sm. (f. -a) [sec. XIV: da guardia].
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	massaia	1	it	http://www.sapere.it/enciclopedia/mass%C3%A0ia.html	sapere	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	massàia: sf. [sec. XIV; f. di massaio].
@@ -98,8 +99,8 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	bugigattolo	1	it	custom_180	custom
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	giocatore	1	it	http://www.wikidata.org/entity/Q24114117	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	persona che gioca d'azzardo; professionalmente o ricreativamente
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	albergo	1	it	custom_32	custom	commercial building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	piazza	1	it	custom_700	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cimitero	9	it	custom_504	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
-Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cappella	1	it	custom_458	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cimitero	9	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	luogo di sepoltura dei defunti
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	luogo destinato al culto religioso e legato a una struttura più grande
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	comune	1	it	custom_639	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	centro	1	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	tipo di installazione
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	carrettiere	1	it	http://www.wikidata.org/entity/Q1473046	wikidata	profession	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
@@ -108,4 +109,5 @@ Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	profeta	1	it	http://www.wikidata.o
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	cortile	1	it	custom_644	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	prevosto	1	it	http://www.wikidata.org/entity/Q756215	wikidata	ecclesiastical occupation	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	titolo presbiterale e prelatizio
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	giudice	1	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	sovrano in lingua volgare sarda
+Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	chiesa anglicano	1	it	custom_475	custom	religious building (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	
 Castellani-Fantoni-Benaglio-Ines_Mia_1884.txt	palazzo di giustizia	1	it	custom_691	custom	public (place)	Castellani Fantoni Benaglio Ines	Mia	f	1884	1880_1889	

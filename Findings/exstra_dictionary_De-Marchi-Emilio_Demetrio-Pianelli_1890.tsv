@@ -16,7 +16,7 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cameriere	11	it	http://www.wikidata.
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	custode	4	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	portico	11	it	custom_705	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	ditta	4	it	custom_82	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	fabbrica	20	it	custom_346	custom	industrial (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	fabbrica	20	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo di produzione o elaborazione di beni materiali
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	albergo	3	it	custom_32	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	terrazza	3	it	custom_288	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	tenore	5	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -36,7 +36,8 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	riquadratura	1	it	http://www.wikidat
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	centro	5	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	tipo di installazione
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	attore	1	it	http://www.wikidata.org/entity/Q33999	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	persona che recita in commedie o opere drammatiche al cinema; alla televisione; al teatro o alla radio
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	sarta	9	it	http://www.sapere.it/enciclopedia/sarta.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	sarta: sf. [sec. XV; f. di sarto]. Donna che; in proprio o come lavoratrice dipendente; taglia e confeziona abiti; specialmente femminili.
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	studio	8	it	custom_728	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	caffè	23	it	custom_50	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	studio	8	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	giudice	6	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	sovrano in lingua volgare sarda
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	conte	11	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	titolo della nobiltà esistente nei paesi europei
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	capomastro	3	it	http://www.wikidata.org/entity/Q98714302	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -46,7 +47,7 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	compagno	8	it	http://www.wikidata.or
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	comune	3	it	custom_639	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cavaliere	74	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	atleta che pratica lo sport dell'equitazione
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	giardiniera	1	it	http://www.sapere.it/enciclopedia/giardini%C3%A8ra.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	giardinièra: sf. e agg. [sec. XVII; da giardiniere].
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	teatro	14	it	custom_733	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	teatro	14	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo in cui avvengono rappresentazioni teatrali
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	barone	4	it	http://www.wikidata.org/entity/Q165503	wikidata	honorary title	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	titolo nobiliare
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	porto	6	it	custom_402	custom	industrial (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	ragioniere	5	it	http://www.sapere.it/enciclopedia/ragioni%C3%A8re.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	ragionière: sm. [sec. XIV; da ragione; nel senso di calcolo; conto]. Chi ha conseguito l'apposito diploma dell'istituto tecnico commerciale. La professione di ragioniere è regolata dalla legge; che prevede l'istituzione di collegi dei ragionieri nelle città più importanti...
@@ -58,18 +59,19 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	fiera	3	it	custom_651	custom	public 
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	avvocato	25	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	professione svolta in ambito giuridico
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	anfiteatro	2	it	custom_601	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	campanile	11	it	custom_456	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	ospedale	12	it	custom_681	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	contadino	3	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	contadino: sm. e agg. [sec. XIV; da contado].
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	palazzo	3	it	custom_265	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	portinaio	14	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	lavoratore adibito alla cura e custodia di un edificio residenziale
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	canonico	3	it	http://www.wikidata.org/entity/Q1237385	wikidata	ecclesiastical occupation	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	pasticceria	1	it	custom_130	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	pasticceria	1	it	http://www.wikidata.org/entity/Q3574069	wikidata	shop (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	negozio per la vendita di dolciumi
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	corrispondente	2	it	http://www.wikidata.org/entity/Q3589290	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	autore di lettere
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	bottega	15	it	custom_48	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	filosofo	2	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	persona che si occupa di filosofia
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	pegno	1	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	attività di credito con la garanzia di un bene in custodia
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	prigione	5	it	custom_707	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	bazar	1	it	custom_611	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	oratorio	1	it	custom_528	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	oratorio	1	it	http://www.wikidata.org/entity/Q3884394	wikidata	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	edificio destinato alla pastorale giovanile della Chiesa cattolica
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	servitore	2	it	http://www.sapere.it/enciclopedia/servit%C3%B3re.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	servitóre: (anticamente
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	polveriera	1	it	custom_23	custom	military (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	circo	2	it	custom_74	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -83,21 +85,21 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	torre	2	it	custom_290	custom	civil b
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	lattivendolo	5	it	http://www.sapere.it/enciclopedia/lattiv%C3%A8ndolo.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	lattivèndolo: sm. popolare (f. -a) [sec. XIX; da latte+vendere; sul modello di erbivendolo]. Venditore di latte; lattaio.
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	pensione	5	it	custom_132	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	caserma	1	it	custom_10	custom	military (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	castello	3	it	custom_232	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	castello	3	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	complesso architettonico fortificato tipico del Medioevo
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	tenda	9	it	custom_286	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	parrocchia	2	it	custom_532	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	stazione	6	it	custom_723	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	bugigattolo	3	it	custom_180	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	chiesuola	1	it	custom_501	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	soffitta	5	it	custom_280	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	chiesa	24	it	custom_470	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	parrucchiere	1	it	custom_129	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	chiesa	24	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	edificio religioso cristiano
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	parrucchiere	1	it	http://www.wikidata.org/entity/Q55187	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	professione di chi si occupa di tagliare o acconciare i capelli
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	scuola	6	it	custom_717	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	lavorante	1	it	http://www.sapere.it/enciclopedia/lavorante.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	lavorante: sm. e f. [sec. XIV; ppr. di lavorare]. Chi esegue lavori manuali e specialmente chi presta la propria opera in posizione subordinata in laboratorio; ecc.: lavorante del parrucchiere;lavorante finito; che ha acquisito una notevole abilità nel suo mestiere.
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	guardia	14	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	macellaio	1	it	http://www.wikidata.org/entity/Q329737	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	artigiano addetto alla preparazione e vendita della carne
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	fabbro	2	it	http://www.wikidata.org/entity/Q1639825	wikidata	historical profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	professione
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cimitero	6	it	custom_504	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cimitero	6	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo di sepoltura dei defunti
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	camposanto	3	it	custom_457	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	balia	2	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	persona che accudisce un neonato provvedendo anche al suo allattamento
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	amministratore	1	it	http://www.wikidata.org/entity/Q1231906	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -105,17 +107,17 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	famiglio	1	it	http://www.sapere.it/e
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	dottore	12	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	titolo accademico
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	collegio	4	it	custom_637	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	stalla	4	it	custom_591	custom	rural building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cascina	5	it	custom_569	custom	rural building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cascina	5	it	http://www.wikidata.org/entity/Q1169748	wikidata	rural building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	struttura agricola tipica della Pianura Padana
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	caporale	1	it	http://www.wikidata.org/entity/Q23058159	wikidata	military rank	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	scrivano	1	it	http://www.sapere.it/enciclopedia/scriv%C3%A0no.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	scrivàno: sm. [sec. XIII; lat. tardo scriba-ānis; dal class. scriba-ae].
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	commesso	1	it	http://www.wikidata.org/entity/Q5803091	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	ufficiale	2	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	giardino	7	it	custom_660	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	giardino	7	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	becchino	1	it	http://www.sapere.it/enciclopedia/becchino.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	becchino: sm. [sec. XIV; da beccamorto]. Chi è addetto al seppellimento dei morti; necroforo: “Una maniera di beccamorti... che chiamar si facevano becchini” (Boccaccio).
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	sarto	3	it	http://www.wikidata.org/entity/Q242468	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	professione di chi confeziona; ripara o modifica abiti
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	esattore	1	it	http://www.wikidata.org/entity/Q1139055	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	professione
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	tappezzeria	5	it	custom_158	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	stamperia	2	it	custom_426	custom	industrial (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	stamperia	2	it	http://www.wikidata.org/entity/Q47003909	wikidata	factory (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	padiglione	2	it	custom_687	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	scolaro	1	it	http://www.wikidata.org/entity/Q2248623	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	regina	2	it	http://www.wikidata.org/entity/Q16511993	wikidata	noble rank	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	monarca di genere femminile
@@ -125,7 +127,7 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	profumeria	1	it	custom_137	custom	co
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	chirurgo	3	it	http://www.sapere.it/enciclopedia/chirurgo.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	chirurgo: sm. (pl. -gi o -ghi) [sec. XV; dal greco
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	pizzicagnolo	2	it	http://www.sapere.it/enciclopedia/pizzic%C3%A0gnolo.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	pizzicàgnolo: (romanesco pizzicaròlo); sm. (f. -a) [sec. XIII; da pizzicare; in quanto venditore di cibi che pizzicano]. Venditore di salumi; formaggi; ecc.; salumiere.
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	pasticciere	1	it	http://www.wikidata.org/entity/Q1191511	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	calzolaio	1	it	custom_52	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	calzolaio	1	it	http://www.wikidata.org/entity/Q152355	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	artigiano che realizza o ripara scarpe
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	farmacista	1	it	http://www.sapere.it/enciclopedia/farmacista.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	farmacista: sm. e f. (pl. m. -i) [sec. XVIII; da farmacia]. Laureato in farmacia autorizzato a vendere medicinali o a prepararne secondo le prescrizioni mediche.
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	serva	2	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	sèrva: sf. [sec. XIV; f. di servo].
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	ciabattino	4	it	http://www.sapere.it/enciclopedia/ciabattino.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	ciabattino: sm. [sec. XIV; da ciabatta]. Chi fabbrica ciabatte o scarpe; chi ripara e rappezza scarpe. Fig.; chi in genere esercita male e sciattamente il proprio mestiere.
@@ -161,12 +163,12 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	boia	1	it	http://www.wikidata.org/en
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cuoco	3	it	http://www.wikidata.org/entity/Q2276446	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	collaboratore domestico
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	massaia	1	it	http://www.sapere.it/enciclopedia/mass%C3%A0ia.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	massàia: sf. [sec. XIV; f. di massaio].
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	poeta	3	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	scrittore di poesie
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	tempio	2	it	custom_552	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	tempio	2	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	struttura architettonica utilizzata come luogo di culto
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	tabernacolo	4	it	custom_551	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	lettore	1	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	posizione accademica di rango inferiore al professore
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	altare	3	it	custom_445	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	capitano	3	it	http://www.wikidata.org/entity/Q5036510	wikidata	military rank	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	grado militare della Royal Marines e della British Army
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	negozio	2	it	custom_108	custom	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	negozio	2	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo in cui si vendono merci o servizi
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	edificio	4	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	costruzione edilizia realizzata dall'uomo
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	stella	4	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	artista del mondo dello spettacolo che gode di molta popolarità
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	portalettere	1	it	http://www.sapere.it/enciclopedia/portal%C3%A8ttere.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	portalèttere: sm. e f. inv. [sec. XVI; dall'impt. di portare+lettera]. Pubblico impiegato; dipendente dal Ministero delle Comunicazioni; che ha il compito di recapitare a domicilio le corrispondenze; epistolari e non epistolari (per esempio cartoline; pacchi; campioni senza...
@@ -178,8 +180,8 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	marinaio	1	it	http://www.wikidata.or
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	guardiano	2	it	http://www.sapere.it/enciclopedia/guardiano.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	guardiano: agg. e sm. (f. -a) [sec. XIV: da guardia].
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	oratore	2	it	http://www.wikidata.org/entity/Q12859263	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	gentiluomo	1	it	http://www.wikidata.org/entity/Q749212	wikidata	honorary title	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	qualifica e status attribuita a persone
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cappella	1	it	custom_458	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	baracca	1	it	custom_173	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo destinato al culto religioso e legato a una struttura più grande
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	baracca	1	it	http://www.wikidata.org/entity/Q6502413	wikidata	house (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	piccolo riparo o abitazione
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	spacciatore	1	it	http://www.wikidata.org/entity/Q3020602	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	abbazia	3	it	custom_444	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	convento	1	it	custom_508	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -195,7 +197,7 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	guida	1	it	http://www.wikidata.org/e
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	deposito	1	it	custom_646	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	domestico	1	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	condottiero	1	it	http://www.wikidata.org/entity/Q1402561	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	individuo che guida un esercito o un popolo
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	residenza	3	it	custom_272	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	residenza	3	it	http://www.wikidata.org/entity/Q7743	wikidata	house (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo in cui la persona ha la dimora abituale
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	abate	1	it	http://www.wikidata.org/entity/Q103163	wikidata	ecclesiastical occupation	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	titolo religioso dato al capo di un monastero
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	sito	2	it	http://www.wikidata.org/entity/Q17350442	wikidata	facility (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo dove si svolge un'attività
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	domicilio	2	it	custom_246	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -227,8 +229,8 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	muratore	1	it	http://www.wikidata.or
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	droghiere	1	it	http://www.wikidata.org/entity/Q7892860	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	manovale	1	it	http://www.sapere.it/enciclopedia/manovale.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	manovale: sm. [sec. XIII; variante ant. e popolare di manuale]. Operaio che esegue lavori per i quali basta la sola forza delle braccia e non è necessaria alcuna preparazione tecnica (trasporto; pulizia e simili). In particolare; l'aiutante del muratore che gli prepara...
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	fantesca	1	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	fantésca: sf. [sec. XIV; da fante sul modello del greco
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	magazzino	1	it	custom_378	custom	industrial (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
-De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	carcere	4	it	custom_619	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	magazzino	1	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	carcere	4	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	luogo di detenzione
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	palcoscenico	1	it	http://www.wikidata.org/entity/Q194428	wikidata	workplace (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	parte del teatro
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	romanziere	1	it	http://www.wikidata.org/entity/Q6625963	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	autore di romanzi e/o racconti
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	covo	1	it	custom_242	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
@@ -241,4 +243,6 @@ De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	fabbricato	1	it	custom_347	custom	in
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	reggia	1	it	custom_270	custom	civil building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	badia	2	it	custom_448	custom	religious building (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	campanaro	1	it	http://www.sapere.it/enciclopedia/campanaro.html	sapere	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	campanaro: (toscano
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	corte di appello	1	it	custom_643	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
+De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	giardino pubblico	3	it	custom_659	custom	public (place)	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	
 De-Marchi-Emilio_Demetrio-Pianelli_1890.txt	ufficiale di cavalleria	1	it	http://www.wikidata.org/entity/Q38218963	wikidata	profession	De Marchi Emilio	Demetrio Pianelli	m	1890	1890_1899	

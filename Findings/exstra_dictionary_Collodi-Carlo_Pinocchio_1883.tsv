@@ -10,13 +10,13 @@ Collodi-Carlo_Pinocchio_1883.txt	casa	95	it	custom_184	custom	civil building (pl
 Collodi-Carlo_Pinocchio_1883.txt	contadino	15	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	contadino: sm. e agg. [sec. XIV; da contado].
 Collodi-Carlo_Pinocchio_1883.txt	carabiniere	11	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	militare
 Collodi-Carlo_Pinocchio_1883.txt	prigione	9	it	custom_707	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
-Collodi-Carlo_Pinocchio_1883.txt	carcere	3	it	custom_619	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	carcere	3	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	luogo di detenzione
 Collodi-Carlo_Pinocchio_1883.txt	cacciatore	1	it	http://www.wikidata.org/entity/Q1714828	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	persona che caccia
 Collodi-Carlo_Pinocchio_1883.txt	scuola	59	it	custom_717	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	signore	25	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	Titolo di nobiltà italiana
 Collodi-Carlo_Pinocchio_1883.txt	libraio	1	it	http://www.wikidata.org/entity/Q998550	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	professione
-Collodi-Carlo_Pinocchio_1883.txt	teatro	8	it	custom_733	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
-Collodi-Carlo_Pinocchio_1883.txt	castello	1	it	custom_232	custom	civil building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	teatro	8	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	luogo in cui avvengono rappresentazioni teatrali
+Collodi-Carlo_Pinocchio_1883.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	complesso architettonico fortificato tipico del Medioevo
 Collodi-Carlo_Pinocchio_1883.txt	piazza	6	it	custom_700	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	rivenditore	1	it	http://www.sapere.it/enciclopedia/rivendit%C3%B3re.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	rivenditóre: sm. (f. -trice) [da rivendere]. Chi rivende oggetti o merci acquistate da altri; anche venditore al minuto.
 Collodi-Carlo_Pinocchio_1883.txt	burattinaio	17	it	http://www.wikidata.org/entity/Q2629392	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	artista teatrale
@@ -28,11 +28,12 @@ Collodi-Carlo_Pinocchio_1883.txt	commendatore	1	it	http://www.wikidata.org/entit
 Collodi-Carlo_Pinocchio_1883.txt	compagno	36	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	titolo onorifico in uso in molti ordinamenti
 Collodi-Carlo_Pinocchio_1883.txt	osteria	10	it	custom_123	custom	commercial building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	medico	11	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
+Collodi-Carlo_Pinocchio_1883.txt	caffè	2	it	custom_50	custom	commercial building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	vetturino	1	it	http://www.sapere.it/enciclopedia/vettur%C3%ACno.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	vetturìno: sm. [sec. XVI; da vettura].
 Collodi-Carlo_Pinocchio_1883.txt	rifugio	1	it	custom_589	custom	rural building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	palazzo	1	it	custom_265	custom	civil building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	cantina	1	it	custom_317	custom	industrial (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
-Collodi-Carlo_Pinocchio_1883.txt	libreria	1	it	custom_102	custom	commercial building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	libreria	1	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	negozio di vendita di libri
 Collodi-Carlo_Pinocchio_1883.txt	tribunale	1	it	custom_735	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	giudice	6	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	sovrano in lingua volgare sarda
 Collodi-Carlo_Pinocchio_1883.txt	carceriere	3	it	http://www.sapere.it/enciclopedia/carceri%C3%A8re.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	carcerière: sm. (f. -a) [sec. XVI; da carcere]. Chi custodisce i carcerati; chi presta servizio di custodia in un carcere. Fig.; chi sorveglia con estrema severità o comunque limita la libertà altrui: “si trovava ridotta alla vita noiosa di carceriera” (Manzoni).
@@ -43,9 +44,11 @@ Collodi-Carlo_Pinocchio_1883.txt	casotto	8	it	custom_231	custom	civil building (
 Collodi-Carlo_Pinocchio_1883.txt	cavallerizzo	1	it	http://www.sapere.it/enciclopedia/cavallerizzo.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	cavallerizzo: sm. (f. -a) [sec. XVI; dallo spagnolo caballerizo; da caballo; cavallo].
 Collodi-Carlo_Pinocchio_1883.txt	pescatore	19	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	persona addetta alla cattura di pesci
 Collodi-Carlo_Pinocchio_1883.txt	delfino	6	it	http://www.wikidata.org/entity/Q192883	wikidata	noble rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	soprannome e poi il titolo onorifico dei Signori del Delfinato; principe ereditario di Francia
+Collodi-Carlo_Pinocchio_1883.txt	casamento	2	it	custom_219	custom	civil building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	carbonaio	2	it	http://www.wikidata.org/entity/Q729340	wikidata	historical profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	professione
 Collodi-Carlo_Pinocchio_1883.txt	muratore	2	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	persona specializzata nella costruzione di opere in muratura
-Collodi-Carlo_Pinocchio_1883.txt	studio	2	it	custom_728	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	studio	2	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	ospedale	1	it	custom_681	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	buffone	1	it	http://www.wikidata.org/entity/Q15037346	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	termine col quale si indicava un giullare
 Collodi-Carlo_Pinocchio_1883.txt	capanna	7	it	custom_561	custom	rural building (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	legnaiolo	1	it	http://www.sapere.it/enciclopedia/legnai%C3%B2lo.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	legnaiòlo: (lett. legnaiuòlo); sm. [sec. XIV; da legna]. Lavoratore del legno; specialmente chi esegue lavori grossolani di falegnameria.
@@ -63,7 +66,7 @@ Collodi-Carlo_Pinocchio_1883.txt	garzone	2	it	http://www.sapere.it/enciclopedia/
 Collodi-Carlo_Pinocchio_1883.txt	ballerino	1	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	persona che pratica l'arte del balletto
 Collodi-Carlo_Pinocchio_1883.txt	balia	1	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	persona che accudisce un neonato provvedendo anche al suo allattamento
 Collodi-Carlo_Pinocchio_1883.txt	marinaio	1	it	http://www.wikidata.org/entity/Q707995	wikidata	military rank	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	membro dell'equipaggio di una nave
-Collodi-Carlo_Pinocchio_1883.txt	giardino	1	it	custom_660	custom	public (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
+Collodi-Carlo_Pinocchio_1883.txt	giardino	1	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	
 Collodi-Carlo_Pinocchio_1883.txt	sarto	1	it	http://www.wikidata.org/entity/Q242468	wikidata	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	professione di chi confeziona; ripara o modifica abiti
 Collodi-Carlo_Pinocchio_1883.txt	merciaio	1	it	http://www.sapere.it/enciclopedia/merci%C3%A0io.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	merciàio: sm. (f. -a) [sec. XIII; da merce]. Chi vende mercerie; chi gestisce una merceria.
 Collodi-Carlo_Pinocchio_1883.txt	ortolano	3	it	http://www.sapere.it/enciclopedia/ortolano.html	sapere	profession	Collodi Carlo	Le avventure di Pinocchio	m	1883	1880_1889	ortolano: sm. (f. -a) [sec. XIV; latino tardo hortulānus; da hortus; orto].

@@ -4,7 +4,7 @@ Serao-Matilde_La-mano-tagliata_1912.txt	stazione	15	it	custom_723	custom	public 
 Serao-Matilde_La-mano-tagliata_1912.txt	impiegato	2	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Serao-Matilde_La-mano-tagliata_1912.txt	stanza	91	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	ambiente interno di un edificio; ad uso abitazione o ufficio
 Serao-Matilde_La-mano-tagliata_1912.txt	ispettore	1	it	http://www.wikidata.org/entity/Q3803360	wikidata	military rank	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	teatro	5	it	custom_733	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	teatro	5	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	luogo in cui avvengono rappresentazioni teatrali
 Serao-Matilde_La-mano-tagliata_1912.txt	venditore	1	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	lavoro
 Serao-Matilde_La-mano-tagliata_1912.txt	ferroviere	2	it	http://www.wikidata.org/entity/Q7063944	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	lavoratore ferroviario
 Serao-Matilde_La-mano-tagliata_1912.txt	compagno	9	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Serao Matilde	La mano tagliata	f	1912	1910_1920	titolo onorifico in uso in molti ordinamenti
@@ -22,7 +22,7 @@ Serao-Matilde_La-mano-tagliata_1912.txt	eccellenza	10	it	http://www.wikidata.org
 Serao-Matilde_La-mano-tagliata_1912.txt	portiere	12	it	http://www.sapere.it/enciclopedia/porti%C3%A8re.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	portière: sm. (f. -a) [sec. XIV; dal francese portier].
 Serao-Matilde_La-mano-tagliata_1912.txt	salone	5	it	custom_714	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	tenda	7	it	custom_286	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	chiesa	22	it	custom_470	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	chiesa	22	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	edificio religioso cristiano
 Serao-Matilde_La-mano-tagliata_1912.txt	centro	3	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	tipo di installazione
 Serao-Matilde_La-mano-tagliata_1912.txt	club	1	it	custom_636	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	guardia	13	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	
@@ -45,12 +45,12 @@ Serao-Matilde_La-mano-tagliata_1912.txt	stamberga	1	it	custom_283	custom	civil b
 Serao-Matilde_La-mano-tagliata_1912.txt	rifugio	4	it	custom_589	custom	rural building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	re	5	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Serao Matilde	La mano tagliata	f	1912	1910_1920	titolo nobiliare maschile
 Serao-Matilde_La-mano-tagliata_1912.txt	imperatore	1	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Serao Matilde	La mano tagliata	f	1912	1910_1920	tipo di monarca
-Serao-Matilde_La-mano-tagliata_1912.txt	tempio	3	it	custom_552	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	cimitero	14	it	custom_504	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	tempio	3	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	struttura architettonica utilizzata come luogo di culto
+Serao-Matilde_La-mano-tagliata_1912.txt	cimitero	14	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	luogo di sepoltura dei defunti
 Serao-Matilde_La-mano-tagliata_1912.txt	nobile	2	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Serao Matilde	La mano tagliata	f	1912	1910_1920	titolo nobiliare italiano
 Serao-Matilde_La-mano-tagliata_1912.txt	spia	6	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
 Serao-Matilde_La-mano-tagliata_1912.txt	principe	2	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Serao Matilde	La mano tagliata	f	1912	1910_1920	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
-Serao-Matilde_La-mano-tagliata_1912.txt	castello	2	it	custom_232	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	castello	2	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	complesso architettonico fortificato tipico del Medioevo
 Serao-Matilde_La-mano-tagliata_1912.txt	guida	2	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	medico	57	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Serao-Matilde_La-mano-tagliata_1912.txt	chirurgo	3	it	http://www.sapere.it/enciclopedia/chirurgo.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	chirurgo: sm. (pl. -gi o -ghi) [sec. XV; dal greco
@@ -62,12 +62,12 @@ Serao-Matilde_La-mano-tagliata_1912.txt	scienziato	14	it	http://www.wikidata.org
 Serao-Matilde_La-mano-tagliata_1912.txt	chimico	1	it	http://www.wikidata.org/entity/Q593644	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	scienziato che studia la chimica
 Serao-Matilde_La-mano-tagliata_1912.txt	anatomista	2	it	http://www.wikidata.org/entity/Q10872101	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	studioso di anatomia
 Serao-Matilde_La-mano-tagliata_1912.txt	insegnante	1	it	http://www.sapere.it/enciclopedia/insegnante.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	insegnante: sm. e f. [sec. XIV; ppr. di insegnare]. Chi insegna; in particolare; chi esercita l'insegnamento come professione privatamente o nei vari ordini di scuole: insegnante elementare; insegnante di disegno. Anche agg.; specialmente nella loc.: corpo insegnante;...
-Serao-Matilde_La-mano-tagliata_1912.txt	studio	16	it	custom_728	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	studio	16	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	villa	13	it	custom_296	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	caseggiato	1	it	custom_222	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	giardino	14	it	custom_660	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	laboratorio	8	it	custom_373	custom	industrial (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	parco	2	it	custom_694	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	giardino	14	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	laboratorio	8	it	http://www.wikidata.org/entity/Q66736694	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	un edificio o un locale attrezzato e dedicato allo studio di un determinato argomento; non necessariamente scientifico
+Serao-Matilde_La-mano-tagliata_1912.txt	parco	2	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	area protetta o per ricreazione
 Serao-Matilde_La-mano-tagliata_1912.txt	cortile	2	it	custom_644	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	cocchiere	18	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	asilo	1	it	custom_605	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
@@ -77,12 +77,14 @@ Serao-Matilde_La-mano-tagliata_1912.txt	banca	3	it	custom_42	custom	commercial b
 Serao-Matilde_La-mano-tagliata_1912.txt	trattoria	1	it	custom_161	custom	commercial building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	giardiniera	1	it	http://www.sapere.it/enciclopedia/giardini%C3%A8ra.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	giardinièra: sf. e agg. [sec. XVII; da giardiniere].
 Serao-Matilde_La-mano-tagliata_1912.txt	fiera	1	it	custom_651	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	caffè	1	it	custom_50	custom	commercial building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	filosofo	1	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	persona che si occupa di filosofia
 Serao-Matilde_La-mano-tagliata_1912.txt	maschera	5	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	figura professionale in ambito teatrale
 Serao-Matilde_La-mano-tagliata_1912.txt	palazzo	7	it	custom_265	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	foro	1	it	custom_654	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	portinaio	22	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	lavoratore adibito alla cura e custodia di un edificio residenziale
-Serao-Matilde_La-mano-tagliata_1912.txt	sinagoga	5	it	custom_550	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	abitazione	2	it	custom_164	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	sinagoga	5	it	http://www.wikidata.org/entity/Q34627	wikidata	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	luogo di culto della religione ebraica
 Serao-Matilde_La-mano-tagliata_1912.txt	rabbino	2	it	http://www.wikidata.org/entity/Q133485	wikidata	honorary title	Serao Matilde	La mano tagliata	f	1912	1910_1920	maestro e guida spirituale di una comunità ebraica
 Serao-Matilde_La-mano-tagliata_1912.txt	do	1	it	http://www.wikidata.org/entity/Q66567485	wikidata	nobiliary particle	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	lumaio	1	it	http://www.sapere.it/enciclopedia/lum%C3%A0io.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	lumàio: sm. [sec. XIX; da lume]. Chi fabbrica; ripara o vende lumi. Meno comune; chi accende i lumi.
@@ -96,14 +98,14 @@ Serao-Matilde_La-mano-tagliata_1912.txt	tipografo	1	it	http://www.wikidata.org/e
 Serao-Matilde_La-mano-tagliata_1912.txt	porto	6	it	custom_402	custom	industrial (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	guardaportone	1	it	http://www.sapere.it/enciclopedia/guardaport%C3%B3ne.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	guardaportóne: sm. [sec. XVIII; impt. di guardare+portone]. Portiere di palazzi nobiliari; di teatri di lusso o di palazzi in cui hanno sede uffici pubblici; vestito in livrea e talvolta con mazza munita di un grosso pomo.
 Serao-Matilde_La-mano-tagliata_1912.txt	staffiere	1	it	http://www.sapere.it/enciclopedia/staffi%C3%A8re.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	staffière: sm. [sec. XVI; da staffa]. Il servo che in passato seguiva alla staffa il cavaliere; palafreniere. Per estensione; servitore di casa signorile.
-Serao-Matilde_La-mano-tagliata_1912.txt	libreria	4	it	custom_102	custom	commercial building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	libreria	4	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	negozio di vendita di libri
 Serao-Matilde_La-mano-tagliata_1912.txt	rocca	1	it	custom_275	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	maggiordomo	11	it	http://www.wikidata.org/entity/Q833899	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	responsabile della servitù in una corte o casa signorile
 Serao-Matilde_La-mano-tagliata_1912.txt	convento	28	it	custom_508	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	poliziotto	3	it	http://www.sapere.it/enciclopedia/polizi%C3%B2tto.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	poliziòtto: sm. [sec. XIX; da polizia]. Agente di polizia: un gruppo di poliziotti; talora con valore spregiativo: maniere da poliziotto. Anche chi svolge indagini poliziesche: poliziotto privato; poliziotto dilettante. Con funzione di agg. inv.: cane poliziotto;...
-Serao-Matilde_La-mano-tagliata_1912.txt	carcere	13	it	custom_619	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	carcere	13	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	luogo di detenzione
 Serao-Matilde_La-mano-tagliata_1912.txt	cella	14	it	custom_467	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	monastero	20	it	custom_525	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	monastero	20	it	http://www.wikidata.org/entity/Q44613	wikidata	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	edificio adibito ad abitazione e luogo di lavoro per monaci e suore
 Serao-Matilde_La-mano-tagliata_1912.txt	costruzione	1	it	custom_241	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	chiostro	9	it	custom_502	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	vicario	13	it	http://www.wikidata.org/entity/Q193364	wikidata	ecclesiastical occupation	Serao Matilde	La mano tagliata	f	1912	1910_1920	
@@ -113,13 +115,13 @@ Serao-Matilde_La-mano-tagliata_1912.txt	altare	2	it	custom_445	custom	religious 
 Serao-Matilde_La-mano-tagliata_1912.txt	domestico	4	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 Serao-Matilde_La-mano-tagliata_1912.txt	refettorio	1	it	custom_534	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	dimora	6	it	custom_245	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	cappella	1	it	custom_458	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	luogo destinato al culto religioso e legato a una struttura più grande
 Serao-Matilde_La-mano-tagliata_1912.txt	sepolcro	1	it	custom_549	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	giudice	2	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Serao Matilde	La mano tagliata	f	1912	1910_1920	sovrano in lingua volgare sarda
 Serao-Matilde_La-mano-tagliata_1912.txt	famiglio	1	it	http://www.sapere.it/enciclopedia/fam%C3%ACglio.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	famìglio: sm. [sec. XIV; da famiglia].
 Serao-Matilde_La-mano-tagliata_1912.txt	agente	32	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	carabiniere	2	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	militare
-Serao-Matilde_La-mano-tagliata_1912.txt	farmacia	1	it	custom_650	custom	public (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	farmacia	1	it	http://www.wikidata.org/entity/Q13107184	wikidata	shop (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	negozio in cui vengono venduti farmaci
 Serao-Matilde_La-mano-tagliata_1912.txt	maggiore	1	it	http://www.wikidata.org/entity/Q983927	wikidata	honorary title	Serao Matilde	La mano tagliata	f	1912	1910_1920	grado militare utilizzato in molte forze armate
 Serao-Matilde_La-mano-tagliata_1912.txt	corte	3	it	custom_240	custom	civil building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	avvocato	6	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	professione svolta in ambito giuridico
@@ -146,7 +148,7 @@ Serao-Matilde_La-mano-tagliata_1912.txt	clero	1	it	http://www.wikidata.org/entit
 Serao-Matilde_La-mano-tagliata_1912.txt	camposanto	3	it	custom_457	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	cavaliere	1	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	atleta che pratica lo sport dell'equitazione
 Serao-Matilde_La-mano-tagliata_1912.txt	cenobio	1	it	custom_468	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
-Serao-Matilde_La-mano-tagliata_1912.txt	cottage	2	it	custom_572	custom	rural building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	cottage	2	it	http://www.wikidata.org/entity/Q5783996	wikidata	house (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	abitazione tipica dei paesi anglosassoni
 Serao-Matilde_La-mano-tagliata_1912.txt	marinaio	1	it	http://www.wikidata.org/entity/Q707995	wikidata	military rank	Serao Matilde	La mano tagliata	f	1912	1910_1920	membro dell'equipaggio di una nave
 Serao-Matilde_La-mano-tagliata_1912.txt	membro	4	it	http://www.wikidata.org/entity/Q59820617	wikidata	honorary title	Serao Matilde	La mano tagliata	f	1912	1910_1920	titolo onorifico in uso in molti ordinamenti
 Serao-Matilde_La-mano-tagliata_1912.txt	ufficio	2	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	stanza in cui delle persone svolgono degli impieghi
@@ -160,10 +162,10 @@ Serao-Matilde_La-mano-tagliata_1912.txt	calcolatore	1	it	http://www.wikidata.org
 Serao-Matilde_La-mano-tagliata_1912.txt	miniera	1	it	http://www.wikidata.org/entity/Q820477	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	luogo di estrazione di minerali
 Serao-Matilde_La-mano-tagliata_1912.txt	becchino	1	it	http://www.sapere.it/enciclopedia/becchino.html	sapere	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	becchino: sm. [sec. XIV; da beccamorto]. Chi è addetto al seppellimento dei morti; necroforo: “Una maniera di beccamorti... che chiamar si facevano becchini” (Boccaccio).
 Serao-Matilde_La-mano-tagliata_1912.txt	assistente	1	it	http://www.wikidata.org/entity/Q20008154	wikidata	military rank	Serao Matilde	La mano tagliata	f	1912	1910_1920	
+Serao-Matilde_La-mano-tagliata_1912.txt	convento di clausura	1	it	custom_509	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	stabilimento industriale	1	it	http://www.wikidata.org/entity/Q557685	wikidata	facility (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	facchino di albergo	1	it	http://www.wikidata.org/entity/Q2043489	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	persona che accoglie gli ospiti di un albergo e li aiuta a trasportare i bagagli
 Serao-Matilde_La-mano-tagliata_1912.txt	professore di filosofia	1	it	http://www.wikidata.org/entity/Q26973007	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	agente di polizia	19	it	http://www.wikidata.org/entity/Q384593	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	membro delle forze deputate alla pubblica sicurezza e alla garanzia del rispetto della legge
 Serao-Matilde_La-mano-tagliata_1912.txt	grande maestro	1	it	http://www.wikidata.org/entity/Q622601	wikidata	honorary title	Serao Matilde	La mano tagliata	f	1912	1910_1920	
 Serao-Matilde_La-mano-tagliata_1912.txt	venditore ambulante	1	it	http://www.wikidata.org/entity/Q8067100	wikidata	profession	Serao Matilde	La mano tagliata	f	1912	1910_1920	commerciante che non esercita la propria professione in un luogo stabile
-Serao-Matilde_La-mano-tagliata_1912.txt	convento di clausura	1	it	custom_509	custom	religious building (place)	Serao Matilde	La mano tagliata	f	1912	1910_1920	

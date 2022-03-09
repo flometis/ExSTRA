@@ -2,12 +2,12 @@ File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Dec
 Carcano-Giulio_Damiano_1850.txt	dottore	10	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Carcano Giulio	Damiano	m	1850	1850_1859	titolo accademico
 Carcano-Giulio_Damiano_1850.txt	antiquario	1	it	http://www.wikidata.org/entity/Q5697103	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	stella	9	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	artista del mondo dello spettacolo che gode di molta popolarità
-Carcano-Giulio_Damiano_1850.txt	chiesa	25	it	custom_470	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	chiesa	25	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	edificio religioso cristiano
 Carcano-Giulio_Damiano_1850.txt	portico	7	it	custom_705	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	tempio	8	it	custom_552	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	tempio	8	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	struttura architettonica utilizzata come luogo di culto
 Carcano-Giulio_Damiano_1850.txt	dimora	7	it	custom_245	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	signore	401	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	Titolo di nobiltà italiana
-Carcano-Giulio_Damiano_1850.txt	teatro	5	it	custom_733	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	teatro	5	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo in cui avvengono rappresentazioni teatrali
 Carcano-Giulio_Damiano_1850.txt	capo	125	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	posizione all'interno di una organizzazione
 Carcano-Giulio_Damiano_1850.txt	casa	255	it	custom_184	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	bottega	24	it	custom_48	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
@@ -23,7 +23,7 @@ Carcano-Giulio_Damiano_1850.txt	caserma	1	it	custom_10	custom	military (place)	C
 Carcano-Giulio_Damiano_1850.txt	spa	1	it	custom_721	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	medico	11	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Carcano-Giulio_Damiano_1850.txt	membro	6	it	http://www.wikidata.org/entity/Q59820617	wikidata	honorary title	Carcano Giulio	Damiano	m	1850	1850_1859	titolo onorifico in uso in molti ordinamenti
-Carcano-Giulio_Damiano_1850.txt	officina	8	it	custom_387	custom	industrial (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	officina	8	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo di lavoro
 Carcano-Giulio_Damiano_1850.txt	capanna	1	it	custom_561	custom	rural building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	guardia	13	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	catapecchia	2	it	custom_234	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
@@ -39,21 +39,23 @@ Carcano-Giulio_Damiano_1850.txt	tenente	4	it	http://www.wikidata.org/entity/Q805
 Carcano-Giulio_Damiano_1850.txt	camerotto	5	it	http://www.sapere.it/enciclopedia/camer%C3%B2tto.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	cameròtto: sm. [sec. XIX; dal veneziano camaroto; derivato da camera]. Sulle navi mercantili; chi è addetto al servizio di camera del capitano e degli ufficiali.
 Carcano-Giulio_Damiano_1850.txt	bugigattolo	3	it	custom_180	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	asilo	6	it	custom_605	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	industria	2	it	custom_358	custom	industrial (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	fondaco	8	it	custom_652	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	poeta	5	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	scrittore di poesie
 Carcano-Giulio_Damiano_1850.txt	filosofo	3	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona che si occupa di filosofia
-Carcano-Giulio_Damiano_1850.txt	cimitero	4	it	custom_504	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	cimitero	4	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo di sepoltura dei defunti
 Carcano-Giulio_Damiano_1850.txt	tribunale	5	it	custom_735	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	giudice	6	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	sovrano in lingua volgare sarda
 Carcano-Giulio_Damiano_1850.txt	casamatta	2	it	custom_09	custom	military (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	cavaliere	29	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	atleta che pratica lo sport dell'equitazione
+Carcano-Giulio_Damiano_1850.txt	ospedale	17	it	custom_681	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	militare	3	it	http://www.wikidata.org/entity/Q47064	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	membro delle forze armate
 Carcano-Giulio_Damiano_1850.txt	pensione	6	it	custom_132	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	speziale	1	it	http://www.wikidata.org/entity/Q1131236	wikidata	historical profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	generale	3	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Carcano Giulio	Damiano	m	1850	1850_1859	militare appartenente alla più elevata categoria degli ufficiali
 Carcano-Giulio_Damiano_1850.txt	centro	6	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Carcano Giulio	Damiano	m	1850	1850_1859	tipo di installazione
-Carcano-Giulio_Damiano_1850.txt	studio	41	it	custom_728	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	negozio	10	it	custom_108	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	studio	41	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	negozio	10	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo in cui si vendono merci o servizi
 Carcano-Giulio_Damiano_1850.txt	negoziante	18	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
 Carcano-Giulio_Damiano_1850.txt	trincea	2	it	custom_28	custom	military (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	fattorino	1	it	http://www.sapere.it/enciclopedia/fattorino.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	fattorino: sm. [sec. XV; da fattore]. Chi fa servizi di poco conto in un ufficio; in una bottega; in un'azienda; fattorino del telegrafo; chi è addetto al recapito dei telegrammi a domicilio.
@@ -62,6 +64,8 @@ Carcano-Giulio_Damiano_1850.txt	corrispondente	1	it	http://www.wikidata.org/enti
 Carcano-Giulio_Damiano_1850.txt	mercato	4	it	http://www.wikidata.org/entity/Q330284	wikidata	venue (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo in cui le persone si riuniscono regolarmente per l'acquisto e la vendita di provviste; bestiame e altri beni
 Carcano-Giulio_Damiano_1850.txt	reggia	1	it	custom_270	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	rigattiere	1	it	http://www.sapere.it/enciclopedia/rigatti%C3%A8re.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	rigattière: sm. [sec. XIV; dal francese
+Carcano-Giulio_Damiano_1850.txt	abitazione	5	it	custom_164	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	casamento	1	it	custom_219	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	mercante	9	it	http://www.wikidata.org/entity/Q215536	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona che si occupa di acquistare e rivendere (ad un prezzo maggiore) un determinato bene o prodotto
 Carcano-Giulio_Damiano_1850.txt	arbitro	1	it	http://www.wikidata.org/entity/Q716711	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	responsabile del rispetto delle regole del Football Americano durante il gioco
 Carcano-Giulio_Damiano_1850.txt	scuola	26	it	custom_717	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
@@ -71,17 +75,18 @@ Carcano-Giulio_Damiano_1850.txt	alunno	3	it	http://www.wikidata.org/entity/Q4894
 Carcano-Giulio_Damiano_1850.txt	agente	1	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	maestro	27	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	biblioteca	2	it	http://www.wikidata.org/entity/Q7075	wikidata	facility (place)	Carcano Giulio	Damiano	m	1850	1850_1859	istituzione culturale finalizzata alla raccolta organizzata di libri e risorse informative
+Carcano-Giulio_Damiano_1850.txt	caffè	16	it	custom_50	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	ballerino	5	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona che pratica l'arte del balletto
-Carcano-Giulio_Damiano_1850.txt	pescheria	1	it	custom_133	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	pescheria	1	it	http://www.wikidata.org/entity/Q3393867	wikidata	workplace (place)	Carcano Giulio	Damiano	m	1850	1850_1859	negozio specializzato nella vendita di pesce e derivati
 Carcano-Giulio_Damiano_1850.txt	seminario	3	it	http://www.wikidata.org/entity/Q233324	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	istituto per l'insegnamento superiore della teologia
 Carcano-Giulio_Damiano_1850.txt	palazzo	24	it	custom_265	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	servitore	15	it	http://www.sapere.it/enciclopedia/servit%C3%B3re.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	servitóre: (anticamente
 Carcano-Giulio_Damiano_1850.txt	cameriere	6	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	personale di servizio in luoghi di ristorazione o case prevate
 Carcano-Giulio_Damiano_1850.txt	appartamento	15	it	custom_169	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	tenda	3	it	custom_286	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	chiosco	1	it	custom_72	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	chiosco	1	it	http://www.wikidata.org/entity/Q693369	wikidata	facility (place)	Carcano Giulio	Damiano	m	1850	1850_1859	piccolo edificio
 Carcano-Giulio_Damiano_1850.txt	sultano	1	it	http://www.wikidata.org/entity/Q43292	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	titolo nobiliare sovrano
-Carcano-Giulio_Damiano_1850.txt	parrucchiere	6	it	custom_129	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	parrucchiere	6	it	http://www.wikidata.org/entity/Q55187	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	professione di chi si occupa di tagliare o acconciare i capelli
 Carcano-Giulio_Damiano_1850.txt	acconciatore	1	it	http://www.sapere.it/enciclopedia/acconciat%C3%B3re.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	acconciatóre: sm. (f. -trice) [sec. XVIII; da acconciare]. Chi acconcia i capelli; parrucchiere.
 Carcano-Giulio_Damiano_1850.txt	ragioniere	2	it	http://www.sapere.it/enciclopedia/ragioni%C3%A8re.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	ragionière: sm. [sec. XIV; da ragione; nel senso di calcolo; conto]. Chi ha conseguito l'apposito diploma dell'istituto tecnico commerciale. La professione di ragioniere è regolata dalla legge; che prevede l'istituzione di collegi dei ragionieri nelle città più importanti...
 Carcano-Giulio_Damiano_1850.txt	cocchiere	1	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
@@ -89,7 +94,7 @@ Carcano-Giulio_Damiano_1850.txt	palafreniere	1	it	http://www.wikidata.org/entity
 Carcano-Giulio_Damiano_1850.txt	corte	3	it	custom_240	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	canonico	1	it	http://www.wikidata.org/entity/Q1237385	wikidata	ecclesiastical occupation	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	principe	2	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Carcano Giulio	Damiano	m	1850	1850_1859	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
-Carcano-Giulio_Damiano_1850.txt	castello	1	it	custom_232	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Carcano Giulio	Damiano	m	1850	1850_1859	complesso architettonico fortificato tipico del Medioevo
 Carcano-Giulio_Damiano_1850.txt	consorte	2	it	http://www.wikidata.org/entity/Q5784340	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	coniuge del monarca
 Carcano-Giulio_Damiano_1850.txt	contessa	27	it	http://www.wikidata.org/entity/Q5177051	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	segretario	15	it	http://www.wikidata.org/entity/Q80687	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	impiegato che svolge vari tipi di mansioni
@@ -105,7 +110,7 @@ Carcano-Giulio_Damiano_1850.txt	abate	44	it	http://www.wikidata.org/entity/Q1031
 Carcano-Giulio_Damiano_1850.txt	visconte	1	it	http://www.wikidata.org/entity/Q185902	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	titolo nobiliare
 Carcano-Giulio_Damiano_1850.txt	sagrestia	5	it	custom_540	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	canonica	6	it	http://www.wikidata.org/entity/Q607241	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	edificio destinato a residenza del clero cattolico di un centro abitato
-Carcano-Giulio_Damiano_1850.txt	libreria	3	it	custom_102	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	libreria	3	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Carcano Giulio	Damiano	m	1850	1850_1859	negozio di vendita di libri
 Carcano-Giulio_Damiano_1850.txt	modello	6	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	professione
 Carcano-Giulio_Damiano_1850.txt	artigiano	10	it	http://www.wikidata.org/entity/Q1294787	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	politico	1	it	http://www.wikidata.org/entity/Q82955	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona impegnata negli affari politici o che mantiene o è candidato per una posizione nel governo
@@ -113,18 +118,18 @@ Carcano-Giulio_Damiano_1850.txt	cantina	3	it	custom_317	custom	industrial (place
 Carcano-Giulio_Damiano_1850.txt	tana	2	it	custom_285	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	osteria	17	it	custom_123	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	deposito	4	it	custom_646	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	pasticceria	1	it	custom_130	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	pasticceria	1	it	http://www.wikidata.org/entity/Q3574069	wikidata	shop (place)	Carcano Giulio	Damiano	m	1850	1850_1859	negozio per la vendita di dolciumi
 Carcano-Giulio_Damiano_1850.txt	cucitore	1	it	http://www.sapere.it/enciclopedia/cucit%C3%B3re.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	cucitóre: sm. (f. -trice; pop. -tora) [sec. XIV; da cucire]. Chi per mestiere esegue lavori di cucito in vari settori artigianali o dell'industria (sartoria; calzoleria; pelletteria; legatoria; ecc.); cucitrice di bianco; in bianco; biancherista.
 Carcano-Giulio_Damiano_1850.txt	scolaro	1	it	http://www.wikidata.org/entity/Q2248623	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	magazzino	1	it	custom_378	custom	industrial (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	magazzino	1	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	imbiancatore	1	it	http://www.sapere.it/enciclopedia/imbiancat%C3%B3re.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	imbiancatóre: sm. (f. -trice; pop. -tóra) [sec. XIV; da imbiancare]. Operaio addetto al candeggio dei tessuti o a operazioni di imbianchimento; non comune; imbianchino.
 Carcano-Giulio_Damiano_1850.txt	tappezzeria	1	it	custom_158	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	re	3	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Carcano Giulio	Damiano	m	1850	1850_1859	titolo nobiliare maschile
-Carcano-Giulio_Damiano_1850.txt	giardino	9	it	custom_660	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	giardino	9	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	maestra	5	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	bottegaio	1	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
 Carcano-Giulio_Damiano_1850.txt	spia	9	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
-Carcano-Giulio_Damiano_1850.txt	cappella	2	it	custom_458	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	cappella	2	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo destinato al culto religioso e legato a una struttura più grande
 Carcano-Giulio_Damiano_1850.txt	chimico	1	it	http://www.wikidata.org/entity/Q593644	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	scienziato che studia la chimica
 Carcano-Giulio_Damiano_1850.txt	banchiere	1	it	http://www.wikidata.org/entity/Q806798	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	proprietario o dirigente di una banca
 Carcano-Giulio_Damiano_1850.txt	conquistatore	1	it	http://www.wikidata.org/entity/Q3683504	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	conquistatore
@@ -134,7 +139,7 @@ Carcano-Giulio_Damiano_1850.txt	barone	1	it	http://www.wikidata.org/entity/Q1655
 Carcano-Giulio_Damiano_1850.txt	impresario	1	it	http://www.wikidata.org/entity/Q2961975	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona responsabile per la gestione di un'azienda o di una sua parte
 Carcano-Giulio_Damiano_1850.txt	ballerina	1	it	http://www.wikidata.org/entity/Q4070300	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	manovale	1	it	http://www.sapere.it/enciclopedia/manovale.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	manovale: sm. [sec. XIII; variante ant. e popolare di manuale]. Operaio che esegue lavori per i quali basta la sola forza delle braccia e non è necessaria alcuna preparazione tecnica (trasporto; pulizia e simili). In particolare; l'aiutante del muratore che gli prepara...
-Carcano-Giulio_Damiano_1850.txt	fabbrica	7	it	custom_346	custom	industrial (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	fabbrica	7	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo di produzione o elaborazione di beni materiali
 Carcano-Giulio_Damiano_1850.txt	campanile	4	it	custom_456	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	scudiero	1	it	http://www.wikidata.org/entity/Q579516	wikidata	historical profession	Carcano Giulio	Damiano	m	1850	1850_1859	giovane portatore d'armi al servizio di un signore
 Carcano-Giulio_Damiano_1850.txt	casolare	2	it	custom_570	custom	rural building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
@@ -153,7 +158,7 @@ Carcano-Giulio_Damiano_1850.txt	commesso	2	it	http://www.wikidata.org/entity/Q58
 Carcano-Giulio_Damiano_1850.txt	basso	7	it	custom_175	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	contadino	3	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	contadino: sm. e agg. [sec. XIV; da contado].
 Carcano-Giulio_Damiano_1850.txt	deputato	1	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	membro di una assemblea legislativa
-Carcano-Giulio_Damiano_1850.txt	carcere	10	it	custom_619	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	carcere	10	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo di detenzione
 Carcano-Giulio_Damiano_1850.txt	ospizio	2	it	custom_686	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	fisico	1	it	http://www.wikidata.org/entity/Q169470	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	scienziato che si occupa di fisica
 Carcano-Giulio_Damiano_1850.txt	venditore	1	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	lavoro
@@ -185,8 +190,8 @@ Carcano-Giulio_Damiano_1850.txt	committente	1	it	http://www.wikidata.org/entity/
 Carcano-Giulio_Damiano_1850.txt	fantesca	2	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	fantésca: sf. [sec. XIV; da fante sul modello del greco
 Carcano-Giulio_Damiano_1850.txt	serva	1	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	sèrva: sf. [sec. XIV; f. di servo].
 Carcano-Giulio_Damiano_1850.txt	refettorio	3	it	custom_534	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	casale	2	it	custom_568	custom	rural building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
-Carcano-Giulio_Damiano_1850.txt	cascina	2	it	custom_569	custom	rural building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	casale	2	it	http://www.wikidata.org/entity/Q3661417	wikidata	rural building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	gruppo di case rustiche
+Carcano-Giulio_Damiano_1850.txt	cascina	2	it	http://www.wikidata.org/entity/Q1169748	wikidata	rural building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	struttura agricola tipica della Pianura Padana
 Carcano-Giulio_Damiano_1850.txt	chiesuola	1	it	custom_501	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	impresa	3	it	custom_97	custom	commercial building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	letterato	1	it	http://www.wikidata.org/entity/Q6673651	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	chi lavora in letteratura
@@ -195,7 +200,7 @@ Carcano-Giulio_Damiano_1850.txt	guardaportone	1	it	http://www.sapere.it/enciclop
 Carcano-Giulio_Damiano_1850.txt	lavorante	1	it	http://www.sapere.it/enciclopedia/lavorante.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	lavorante: sm. e f. [sec. XIV; ppr. di lavorare]. Chi esegue lavori manuali e specialmente chi presta la propria opera in posizione subordinata in laboratorio; ecc.: lavorante del parrucchiere;lavorante finito; che ha acquisito una notevole abilità nel suo mestiere.
 Carcano-Giulio_Damiano_1850.txt	tugurio	2	it	custom_294	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	pegno	1	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	Carcano Giulio	Damiano	m	1850	1850_1859	attività di credito con la garanzia di un bene in custodia
-Carcano-Giulio_Damiano_1850.txt	monastero	1	it	custom_525	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	monastero	1	it	http://www.wikidata.org/entity/Q44613	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	edificio adibito ad abitazione e luogo di lavoro per monaci e suore
 Carcano-Giulio_Damiano_1850.txt	responsabile	1	it	http://www.wikidata.org/entity/Q3933467	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	nobile	2	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Carcano Giulio	Damiano	m	1850	1850_1859	titolo nobiliare italiano
 Carcano-Giulio_Damiano_1850.txt	mura	2	it	http://www.wikidata.org/entity/Q57346	wikidata	fortification (place)	Carcano Giulio	Damiano	m	1850	1850_1859	fortificazione difensiva
@@ -207,7 +212,7 @@ Carcano-Giulio_Damiano_1850.txt	edificio	3	it	http://www.wikidata.org/entity/Q41
 Carcano-Giulio_Damiano_1850.txt	oratore	1	it	http://www.wikidata.org/entity/Q12859263	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	fiera	1	it	custom_651	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	cacciatore	1	it	http://www.wikidata.org/entity/Q1714828	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona che caccia
-Carcano-Giulio_Damiano_1850.txt	santuario	1	it	custom_543	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	santuario	1	it	http://www.wikidata.org/entity/Q697295	wikidata	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	luogo sacro dedicato a una specifica divinità
 Carcano-Giulio_Damiano_1850.txt	fabbricato	1	it	custom_347	custom	industrial (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	balia	2	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	persona che accudisce un neonato provvedendo anche al suo allattamento
 Carcano-Giulio_Damiano_1850.txt	inserviente	1	it	http://www.sapere.it/enciclopedia/inservi%C3%A8nte.html	sapere	profession	Carcano Giulio	Damiano	m	1850	1850_1859	inserviènte: sm. e f. [sec. XVIII; dal latino inservíens-entis; ppr. di inservīre; servire].
@@ -224,6 +229,8 @@ Carcano-Giulio_Damiano_1850.txt	vetturino	1	it	http://www.sapere.it/enciclopedia
 Carcano-Giulio_Damiano_1850.txt	torre	3	it	custom_290	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	domicilio	1	it	custom_246	custom	civil building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	porto	1	it	custom_402	custom	industrial (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	casa di signore	5	it	custom_460	custom	religious building (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
+Carcano-Giulio_Damiano_1850.txt	casa di popolo	1	it	custom_622	custom	public (place)	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	ministro di stato	1	it	http://www.wikidata.org/entity/Q1569680	wikidata	honorary title	Carcano Giulio	Damiano	m	1850	1850_1859	
 Carcano-Giulio_Damiano_1850.txt	guardia campestre	1	it	http://www.wikidata.org/entity/Q472666	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	funzionario territoriale avente la funzione di proteggere il demanio rurale
 Carcano-Giulio_Damiano_1850.txt	agente di cambio	1	it	http://www.wikidata.org/entity/Q961407	wikidata	profession	Carcano Giulio	Damiano	m	1850	1850_1859	intermediario finanziario

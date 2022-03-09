@@ -1,7 +1,7 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
-Deledda-Grazia_La-via-del-male_1896.txt	chiesa	37	it	custom_470	custom	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	chiesa	37	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	edificio religioso cristiano
 Deledda-Grazia_La-via-del-male_1896.txt	casa	107	it	custom_184	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
-Deledda-Grazia_La-via-del-male_1896.txt	cimitero	1	it	custom_504	custom	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Deledda Grazia	La via del male	f	1896	1890_1899	luogo di sepoltura dei defunti
 Deledda-Grazia_La-via-del-male_1896.txt	bettoliere	22	it	http://www.sapere.it/enciclopedia/bettoli%C3%A8re.html	sapere	profession	Deledda Grazia	La via del male	f	1896	1890_1899	bettolière: sm. (f. -a) [sec. XVII; da bettola1]. Chi gestisce una bettola; taverniere.
 Deledda-Grazia_La-via-del-male_1896.txt	re	5	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Deledda Grazia	La via del male	f	1896	1890_1899	titolo nobiliare maschile
 Deledda-Grazia_La-via-del-male_1896.txt	negoziante	5	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
@@ -23,11 +23,12 @@ Deledda-Grazia_La-via-del-male_1896.txt	contadino	28	it	http://www.sapere.it/enc
 Deledda-Grazia_La-via-del-male_1896.txt	cantore	5	it	http://www.wikidata.org/entity/Q330679	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	cantore di musica sacra o profana
 Deledda-Grazia_La-via-del-male_1896.txt	stella	16	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	artista del mondo dello spettacolo che gode di molta popolarità
 Deledda-Grazia_La-via-del-male_1896.txt	piazza	2	it	custom_700	custom	public (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	caffè	15	it	custom_50	custom	commercial building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	cantina	1	it	custom_317	custom	industrial (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	avvocato	9	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	professione svolta in ambito giuridico
 Deledda-Grazia_La-via-del-male_1896.txt	pegno	2	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	Deledda Grazia	La via del male	f	1896	1890_1899	attività di credito con la garanzia di un bene in custodia
 Deledda-Grazia_La-via-del-male_1896.txt	signore	10	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Deledda Grazia	La via del male	f	1896	1890_1899	Titolo di nobiltà italiana
-Deledda-Grazia_La-via-del-male_1896.txt	tempio	4	it	custom_552	custom	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	tempio	4	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	struttura architettonica utilizzata come luogo di culto
 Deledda-Grazia_La-via-del-male_1896.txt	basso	2	it	custom_175	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	mandriano	1	it	http://www.wikidata.org/entity/Q12059906	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	persona che si occupa di custodire il bestiame
 Deledda-Grazia_La-via-del-male_1896.txt	tenore	2	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	
@@ -36,15 +37,15 @@ Deledda-Grazia_La-via-del-male_1896.txt	pastore	53	it	http://www.wikidata.org/en
 Deledda-Grazia_La-via-del-male_1896.txt	immobile	2	it	custom_252	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	gallo	3	it	http://www.wikidata.org/entity/Q1492584	wikidata	historical profession	Deledda Grazia	La via del male	f	1896	1890_1899	sacerdote eunuco della dea Cibele
 Deledda-Grazia_La-via-del-male_1896.txt	corte	2	it	custom_240	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
-Deledda-Grazia_La-via-del-male_1896.txt	ovile	27	it	custom_583	custom	rural building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	ovile	27	it	http://www.wikidata.org/entity/Q858177	wikidata	venue (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	cattedrale	2	it	custom_465	custom	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	maschera	4	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	figura professionale in ambito teatrale
-Deledda-Grazia_La-via-del-male_1896.txt	negozio	1	it	custom_108	custom	commercial building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	negozio	1	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Deledda Grazia	La via del male	f	1896	1890_1899	luogo in cui si vendono merci o servizi
 Deledda-Grazia_La-via-del-male_1896.txt	barbetta	1	it	http://www.wikidata.org/entity/Q81697	wikidata	fortification (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	osteria	2	it	custom_123	custom	commercial building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	fisico	1	it	http://www.wikidata.org/entity/Q169470	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	scienziato che si occupa di fisica
 Deledda-Grazia_La-via-del-male_1896.txt	mietitore	5	it	http://www.sapere.it/enciclopedia/mietit%C3%B3re.html	sapere	profession	Deledda Grazia	La via del male	f	1896	1890_1899	mietitóre: sm. e agg. (f. -trice) [sec. XIV; da mietere]. Chi miete; contadino addetto alla mietitura. Fig.; chi uccide; che distrugge: guerra mietitrice di giovani vite umane.
-Deledda-Grazia_La-via-del-male_1896.txt	santuario	4	it	custom_543	custom	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	santuario	4	it	http://www.wikidata.org/entity/Q697295	wikidata	religious building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	luogo sacro dedicato a una specifica divinità
 Deledda-Grazia_La-via-del-male_1896.txt	cavaliere	7	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	atleta che pratica lo sport dell'equitazione
 Deledda-Grazia_La-via-del-male_1896.txt	hidalgo	1	it	http://www.wikidata.org/entity/Q379053	wikidata	noble rank	Deledda Grazia	La via del male	f	1896	1890_1899	nobiluomo di Spagna e Portogallo; privo di titolo ereditario
 Deledda-Grazia_La-via-del-male_1896.txt	venditore	3	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	lavoro
@@ -56,7 +57,7 @@ Deledda-Grazia_La-via-del-male_1896.txt	calcolatore	2	it	http://www.wikidata.org
 Deledda-Grazia_La-via-del-male_1896.txt	spia	1	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
 Deledda-Grazia_La-via-del-male_1896.txt	carabiniere	4	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	militare
 Deledda-Grazia_La-via-del-male_1896.txt	giudice	13	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Deledda Grazia	La via del male	f	1896	1890_1899	sovrano in lingua volgare sarda
-Deledda-Grazia_La-via-del-male_1896.txt	carcere	15	it	custom_619	custom	public (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	carcere	15	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Deledda Grazia	La via del male	f	1896	1890_1899	luogo di detenzione
 Deledda-Grazia_La-via-del-male_1896.txt	prigione	1	it	custom_707	custom	public (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	stanza	5	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Deledda Grazia	La via del male	f	1896	1890_1899	ambiente interno di un edificio; ad uso abitazione o ufficio
 Deledda-Grazia_La-via-del-male_1896.txt	costruzione	2	it	custom_241	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
@@ -66,6 +67,7 @@ Deledda-Grazia_La-via-del-male_1896.txt	ballerino	2	it	http://www.wikidata.org/e
 Deledda-Grazia_La-via-del-male_1896.txt	fantesca	1	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	Deledda Grazia	La via del male	f	1896	1890_1899	fantésca: sf. [sec. XIV; da fante sul modello del greco
 Deledda-Grazia_La-via-del-male_1896.txt	banca	1	it	custom_42	custom	commercial building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	fortezza	1	it	custom_13	custom	military (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
+Deledda-Grazia_La-via-del-male_1896.txt	abitazione	2	it	custom_164	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	tenda	1	it	custom_286	custom	civil building (place)	Deledda Grazia	La via del male	f	1896	1890_1899	
 Deledda-Grazia_La-via-del-male_1896.txt	prefica	3	it	http://www.wikidata.org/entity/Q1246370	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	nel mondo antico; donna pagata per piangere ai funerali
 Deledda-Grazia_La-via-del-male_1896.txt	balia	2	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	Deledda Grazia	La via del male	f	1896	1890_1899	persona che accudisce un neonato provvedendo anche al suo allattamento

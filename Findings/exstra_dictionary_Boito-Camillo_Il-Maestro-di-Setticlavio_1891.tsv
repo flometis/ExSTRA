@@ -2,7 +2,7 @@ File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Dec
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	maestro	75	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	cantore	12	it	http://www.wikidata.org/entity/Q330679	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	cantore di musica sacra o profana
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	piazza	10	it	custom_700	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	cappella	28	it	custom_458	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	cappella	28	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	luogo destinato al culto religioso e legato a una struttura più grande
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	tenore	24	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	ufficio	1	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	stanza in cui delle persone svolgono degli impieghi
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	basso	13	it	custom_175	custom	civil building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
@@ -12,11 +12,11 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	conservatore	2	it	http://www.wi
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	campanile	3	it	custom_456	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	stanza	10	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	ambiente interno di un edificio; ad uso abitazione o ufficio
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	sagrestia	2	it	custom_540	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	teatro	7	it	custom_733	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	chiesa	36	it	custom_470	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	teatro	7	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	luogo in cui avvengono rappresentazioni teatrali
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	chiesa	36	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	edificio religioso cristiano
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	agente	1	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	palcoscenico	1	it	http://www.wikidata.org/entity/Q194428	wikidata	workplace (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	parte del teatro
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	negozio	2	it	custom_108	custom	commercial building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	negozio	2	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	luogo in cui si vendono merci o servizi
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	gondoliere	8	it	http://www.wikidata.org/entity/Q1537035	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	lavandaia	2	it	http://www.wikidata.org/entity/Q16624872	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	compagno	7	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	titolo onorifico in uso in molti ordinamenti
@@ -29,20 +29,20 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	antiquario	7	it	http://www.wiki
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	impiegato	2	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	deposito	2	it	custom_646	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	centro	3	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	tipo di installazione
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	barbiere	1	it	custom_44	custom	commercial building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	barbiere	1	it	http://www.wikidata.org/entity/Q107198	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	persona che si occupa di tagliare; acconciare; accorciare e sistemare i peli del volto maschili
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	osteria	5	it	custom_123	custom	commercial building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	stiratore	1	it	http://www.sapere.it/enciclopedia/stirat%C3%B3re.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	stiratóre: sm. (f. -trice; pop. -tóra) [sec. XVII; da stirare]. Persona addetta alle operazioni di stiramento.
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	carcere	1	it	custom_619	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	carcere	1	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	luogo di detenzione
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	sarto	2	it	http://www.wikidata.org/entity/Q242468	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	professione di chi confeziona; ripara o modifica abiti
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	parrucchiere	2	it	custom_129	custom	commercial building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	parrucchiere	2	it	http://www.wikidata.org/entity/Q55187	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	professione di chi si occupa di tagliare o acconciare i capelli
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	supplente	1	it	http://www.wikidata.org/entity/Q3301537	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	conquistatore	1	it	http://www.wikidata.org/entity/Q3683504	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	conquistatore
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	signore	16	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	Titolo di nobiltà italiana
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	serva	7	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	sèrva: sf. [sec. XIV; f. di servo].
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	studio	7	it	custom_728	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	studio	7	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	altare	5	it	custom_445	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	confessionale	1	it	custom_506	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	chiosco	3	it	custom_72	custom	commercial building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	chiosco	3	it	http://www.wikidata.org/entity/Q693369	wikidata	facility (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	piccolo edificio
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	sarta	1	it	http://www.sapere.it/enciclopedia/sarta.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	sarta: sf. [sec. XV; f. di sarto]. Donna che; in proprio o come lavoratrice dipendente; taglia e confeziona abiti; specialmente femminili.
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	scuola	19	it	custom_717	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	stella	5	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	artista del mondo dello spettacolo che gode di molta popolarità
@@ -52,6 +52,7 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	friggitore	1	it	http://www.sape
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	capo	18	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	posizione all'interno di una organizzazione
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	arbitro	2	it	http://www.wikidata.org/entity/Q716711	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	responsabile del rispetto delle regole del Football Americano durante il gioco
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	direttore	6	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	caffè	6	it	custom_50	custom	commercial building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	tipografia	1	it	custom_434	custom	industrial (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	negoziante	3	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	bottegaio	1	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
@@ -62,8 +63,8 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	venditore	1	it	http://www.wikid
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	bugigattolo	1	it	custom_180	custom	civil building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	tipografo	1	it	http://www.wikidata.org/entity/Q4108101	wikidata	historical profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	arsenale	1	it	custom_03	custom	military (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	tempio	5	it	custom_552	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	baracca	2	it	custom_173	custom	civil building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	tempio	5	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	struttura architettonica utilizzata come luogo di culto
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	baracca	2	it	http://www.wikidata.org/entity/Q6502413	wikidata	house (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	piccolo riparo o abitazione
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	impresario	2	it	http://www.wikidata.org/entity/Q2961975	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	persona responsabile per la gestione di un'azienda o di una sua parte
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	principe	1	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	fortezza	1	it	custom_13	custom	military (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
@@ -71,7 +72,7 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	fantesca	1	it	http://www.sapere
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	palazzo	7	it	custom_265	custom	civil building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	tenda	2	it	custom_286	custom	civil building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	rivenditore	1	it	http://www.sapere.it/enciclopedia/rivendit%C3%B3re.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	rivenditóre: sm. (f. -trice) [da rivendere]. Chi rivende oggetti o merci acquistate da altri; anche venditore al minuto.
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	giardino	6	it	custom_660	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	giardino	6	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	chitarrista	2	it	http://www.sapere.it/enciclopedia/chitarrista.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	chitarrista: sm. e f. (pl. m. -i) [sec. XVI; da chitarra]. Chi suona la chitarra; specialmente per professione.
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	convento	1	it	custom_508	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	prigione	2	it	custom_707	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
@@ -94,6 +95,7 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	giudice	1	it	http://www.wikidat
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	caffettiere	1	it	http://www.sapere.it/enciclopedia/caffetti%C3%A8re.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	caffettière: sm. (f. -a) [sec. XVIII; da caffè]. Proprietario o gestore di un caffè pubblico.
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	pompiere	1	it	http://www.sapere.it/enciclopedia/pompi%C3%A8re.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	pompière: sm. [sec. XIX; dal francese
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	muratore	1	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	persona specializzata nella costruzione di opere in muratura
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	ospedale	1	it	custom_681	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	manicomio	2	it	custom_672	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	augusto	1	it	http://www.wikidata.org/entity/Q211804	wikidata	noble rank	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	titolo attribuito agli imperatori romani
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	servitore	2	it	http://www.sapere.it/enciclopedia/servit%C3%B3re.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	servitóre: (anticamente
@@ -130,7 +132,7 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	garzone	1	it	http://www.sapere.
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	comico	1	it	http://www.wikidata.org/entity/Q245068	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	artista professionale che racconta barzellette e compie atti divertenti
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	marinaio	1	it	http://www.wikidata.org/entity/Q707995	wikidata	military rank	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	membro dell'equipaggio di una nave
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	filosofo	2	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	persona che si occupa di filosofia
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	fabbrica	1	it	custom_346	custom	industrial (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	fabbrica	1	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	luogo di produzione o elaborazione di beni materiali
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	figurista	1	it	http://www.sapere.it/enciclopedia/figurista.html	sapere	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	figurista: sm. (pl. -i) [sec. XVIII; da figura]. Chi disegna; dipinge o scolpisce figure.
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	casupola	1	it	custom_233	custom	civil building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	ballerino	1	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	persona che pratica l'arte del balletto
@@ -144,7 +146,7 @@ Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	messo	1	it	http://www.sapere.it
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	mercante	1	it	http://www.wikidata.org/entity/Q215536	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	persona che si occupa di acquistare e rivendere (ad un prezzo maggiore) un determinato bene o prodotto
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	arena	1	it	custom_604	custom	public (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	mimo	1	it	http://www.wikidata.org/entity/Q674067	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	esecutore della rappresentazione mimica
-Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	palafitta	1	it	custom_584	custom	rural building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
+Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	palafitta	1	it	http://www.wikidata.org/entity/Q33565	wikidata	house (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	costruzioni in legno su pali a fiumi; nei laghi; nei laghi; nelle paludi o in mare
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	regina	2	it	http://www.wikidata.org/entity/Q16511993	wikidata	noble rank	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	monarca di genere femminile
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	cattedrale	1	it	custom_465	custom	religious building (place)	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	
 Boito-Camillo_Il-Maestro-di-Setticlavio_1891.txt	cameriere	1	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Boito Camillo	Il maestro di Setticlavio	m	1891	1890_1899	personale di servizio in luoghi di ristorazione o case prevate

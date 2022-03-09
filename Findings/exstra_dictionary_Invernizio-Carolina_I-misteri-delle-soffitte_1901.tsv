@@ -5,13 +5,14 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	portico	4	it	custom_705	cu
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fiera	1	it	custom_651	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	maschera	10	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	figura professionale in ambito teatrale
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	principessa	2	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	titolo nobiliare
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	chiesa	19	it	custom_470	custom	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	chiesa	19	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	edificio religioso cristiano
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	signore	396	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	Titolo di nobiltà italiana
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	teatro	8	it	custom_733	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	teatro	8	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	luogo in cui avvengono rappresentazioni teatrali
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	casa	154	it	custom_184	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	soffitta	49	it	custom_280	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	palazzina	9	it	custom_264	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	principe	3	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	casamento	15	it	custom_219	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	compagno	17	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	titolo onorifico in uso in molti ordinamenti
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	stanza	55	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	ambiente interno di un edificio; ad uso abitazione o ufficio
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	guardia	12	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
@@ -21,8 +22,10 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	convento	5	it	custom_508	c
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	pensione	6	it	custom_132	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	negoziante	3	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ospedale	4	it	custom_681	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	banca	9	it	custom_42	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	falegname	9	it	http://www.sapere.it/enciclopedia/falegname.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	falegname: sm. [sec. XIV; impt. di fare+legname]. Artigiano che lavora il legno; specialmente fabbricando o riparando mobili.
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	caffè	6	it	custom_50	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	portinaio	7	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	lavoratore adibito alla cura e custodia di un edificio residenziale
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	appartamento	32	it	custom_169	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	capo	58	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	posizione all'interno di una organizzazione
@@ -34,7 +37,7 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	cavaliere	20	it	http://www
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	cancelliere	4	it	http://www.wikidata.org/entity/Q5070767	wikidata	ecclesiastical occupation	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	titolo ecclesiastico
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	agente	7	it	http://www.wikidata.org/entity/Q835173	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ingegnere	1	it	http://www.wikidata.org/entity/Q81096	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	professionista qualificato in ingegneria
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	studio	10	it	custom_728	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	studio	10	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	albergo	17	it	custom_32	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	conte	670	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	titolo della nobiltà esistente nei paesi europei
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	contessa	165	it	http://www.wikidata.org/entity/Q5177051	wikidata	noble rank	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
@@ -51,16 +54,17 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	responsabile	1	it	http://w
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	vetturino	2	it	http://www.sapere.it/enciclopedia/vettur%C3%ACno.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	vetturìno: sm. [sec. XVI; da vettura].
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	questura	3	it	custom_710	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	porto	4	it	custom_402	custom	industrial (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	negozio	10	it	custom_108	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	negozio	10	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	luogo in cui si vendono merci o servizi
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	tenore	1	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	abitazione	2	it	custom_164	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	alloggio	7	it	custom_167	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	cocchiere	7	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	collegio	7	it	custom_637	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	commessa	5	it	http://www.sapere.it/enciclopedia/comm%C3%A9ssa.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	comméssa: sf. [sec. XIV; da commettere].
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	magazzino	18	it	custom_378	custom	industrial (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	magazzino	18	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fabbricato	1	it	custom_347	custom	industrial (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	casetta	1	it	custom_226	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	giardino	13	it	custom_660	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	giardino	13	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	corte	6	it	custom_240	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	commesso	16	it	http://www.wikidata.org/entity/Q5803091	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	camposanto	2	it	custom_457	custom	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
@@ -77,18 +81,18 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	villetta	1	it	custom_299	c
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	trattoria	4	it	custom_161	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	terrazza	4	it	custom_288	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ristorante	1	it	custom_141	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	chiosco	1	it	custom_72	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	chiosco	1	it	http://www.wikidata.org/entity/Q693369	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	piccolo edificio
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	miniera	1	it	http://www.wikidata.org/entity/Q820477	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	luogo di estrazione di minerali
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	banchiere	5	it	http://www.wikidata.org/entity/Q806798	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	proprietario o dirigente di una banca
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	domestico	24	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	re	1	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	titolo nobiliare maschile
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	castello	1	it	custom_232	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	carcere	7	it	custom_619	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	complesso architettonico fortificato tipico del Medioevo
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	carcere	7	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	luogo di detenzione
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	cella	1	it	custom_467	custom	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	confetteria	1	it	custom_77	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ballerina	3	it	http://www.wikidata.org/entity/Q4070300	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	comparsa	3	it	http://www.wikidata.org/entity/Q658371	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	pasticceria	1	it	custom_130	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	pasticceria	1	it	http://www.wikidata.org/entity/Q3574069	wikidata	shop (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	negozio per la vendita di dolciumi
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	spia	2	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	impiegato	6	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	tribunale	1	it	custom_735	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
@@ -96,13 +100,13 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	salone	6	it	custom_714	cus
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	centro	1	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	tipo di installazione
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ufficiale	3	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	letterato	1	it	http://www.wikidata.org/entity/Q6673651	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	chi lavora in letteratura
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	tempio	1	it	custom_552	custom	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	struttura architettonica utilizzata come luogo di culto
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	giardiniera	4	it	http://www.sapere.it/enciclopedia/giardini%C3%A8ra.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	giardinièra: sf. e agg. [sec. XVII; da giardiniere].
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fantesca	2	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	fantésca: sf. [sec. XIV; da fante sul modello del greco
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	deposito	1	it	custom_646	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	padiglione	10	it	custom_687	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	balia	3	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	persona che accudisce un neonato provvedendo anche al suo allattamento
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	cimitero	1	it	custom_504	custom	religious building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	luogo di sepoltura dei defunti
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fisico	1	it	http://www.wikidata.org/entity/Q169470	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	scienziato che si occupa di fisica
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	precettore	1	it	http://www.wikidata.org/entity/Q609016	wikidata	honorary title	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	direttore	4	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
@@ -117,18 +121,18 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	servitore	2	it	http://www.
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	rappresentante	1	it	http://www.wikidata.org/entity/Q994779	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	bottegaio	1	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	impresa	3	it	custom_97	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	parco	18	it	custom_694	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	parco	18	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	area protetta o per ricreazione
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	giardiniere	5	it	http://www.wikidata.org/entity/Q758780	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	persona che si prende cura dei giardini per hobby o per professione
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	dispensiere	1	it	http://www.wikidata.org/entity/Q109928817	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	persona ha la cura e la sorveglianza della dispensa
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	contadino	1	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	contadino: sm. e agg. [sec. XIV; da contado].
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	servetta	1	it	http://www.sapere.it/enciclopedia/serv%C3%A9tta.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	servétta: sf. [sec. XVII; dim. di serva].
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fittavolo	1	it	http://www.wikidata.org/entity/Q3746198	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	amministratore	2	it	http://www.wikidata.org/entity/Q1231906	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	prefetto	1	it	custom_706	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	prefetto	1	it	http://www.wikidata.org/entity/Q5183538	wikidata	military rank	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	ufficiale dell'Antica Roma; solitamente appartenente all'ordine equestre
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	carabiniere	1	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	militare
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	tappezziere	2	it	http://www.wikidata.org/entity/Q23754740	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	persona che produce o ripara imbottiture e rivestimenti di mobili
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	sonatore	6	it	http://www.sapere.it/enciclopedia/sonat%C3%B3re.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	sonatóre: vedi
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fioraio	1	it	custom_89	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	fioraio	1	it	http://www.sapere.it/enciclopedia/fior%C3%A0io.html	sapere	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	fioràio: sm. (f. -a) [sec. XVII; da fiore]. Venditore di fiori.
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	mulino	1	it	custom_582	custom	rural building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	venditore	1	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	lavoro
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	segretario	1	it	http://www.wikidata.org/entity/Q80687	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	impiegato che svolge vari tipi di mansioni
@@ -136,8 +140,8 @@ Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	trattore	1	it	http://www.s
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	immobile	1	it	custom_252	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	tenda	2	it	custom_286	custom	civil building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	modello	1	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	professione
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	grande magazzino	1	it	custom_95	custom	commercial building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ufficiale di cavalleria	1	it	http://www.wikidata.org/entity/Q38218963	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
-Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	venditore ambulante	1	it	http://www.wikidata.org/entity/Q8067100	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	commerciante che non esercita la propria professione in un luogo stabile
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	casa di campagna	1	it	custom_565	custom	rural building (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
 Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	casa di salute	1	it	custom_629	custom	public (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	grande magazzino	1	it	http://www.wikidata.org/entity/Q216107	wikidata	shop (place)	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	ufficiale di cavalleria	1	it	http://www.wikidata.org/entity/Q38218963	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	
+Invernizio-Carolina_I-misteri-delle-soffitte_1901.txt	venditore ambulante	1	it	http://www.wikidata.org/entity/Q8067100	wikidata	profession	Invernizio Carolina	Il bacio di una morta	f	1901	1900_1909	commerciante che non esercita la propria professione in un luogo stabile

@@ -1,5 +1,5 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
-Tozzi-Federigo_Tre-croci_1920.txt	libreria	32	it	custom_102	custom	commercial building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	libreria	32	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	negozio di vendita di libri
 Tozzi-Federigo_Tre-croci_1920.txt	banca	13	it	custom_42	custom	commercial building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	bottega	29	it	custom_48	custom	commercial building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	cavaliere	25	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	atleta che pratica lo sport dell'equitazione
@@ -7,7 +7,7 @@ Tozzi-Federigo_Tre-croci_1920.txt	antiquario	2	it	http://www.wikidata.org/entity
 Tozzi-Federigo_Tre-croci_1920.txt	fattoria	1	it	custom_574	custom	rural building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	legatore	1	it	http://www.sapere.it/enciclopedia/legat%C3%B3re.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	legatóre: sm. (f. -trice) [sec. XVI; da legare1]. Addetto a operazioni di legatura; specialmente di libri.
 Tozzi-Federigo_Tre-croci_1920.txt	signore	33	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Tozzi Federigo	Tre croci	m	1920	1910_1920	Titolo di nobiltà italiana
-Tozzi-Federigo_Tre-croci_1920.txt	chiesa	16	it	custom_470	custom	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	chiesa	16	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	edificio religioso cristiano
 Tozzi-Federigo_Tre-croci_1920.txt	podere	1	it	custom_585	custom	rural building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	serva	1	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	sèrva: sf. [sec. XIV; f. di servo].
 Tozzi-Federigo_Tre-croci_1920.txt	casa	54	it	custom_184	custom	civil building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
@@ -24,7 +24,7 @@ Tozzi-Federigo_Tre-croci_1920.txt	villa	2	it	custom_296	custom	civil building (p
 Tozzi-Federigo_Tre-croci_1920.txt	trattoria	1	it	custom_161	custom	commercial building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	marmista	1	it	http://www.sapere.it/enciclopedia/marmista.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	marmista: sm. (pl. -i) [sec. XVIII; da marmo]. Operaio che lavora il marmo; chi esegue lavori d'artigianato in marmo.
 Tozzi-Federigo_Tre-croci_1920.txt	gentiluomo	1	it	http://www.wikidata.org/entity/Q749212	wikidata	honorary title	Tozzi Federigo	Tre croci	m	1920	1910_1920	qualifica e status attribuita a persone
-Tozzi-Federigo_Tre-croci_1920.txt	legatoria	3	it	custom_376	custom	industrial (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	legatoria	3	it	http://www.wikidata.org/entity/Q105686546	wikidata	shop (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	negozio specializzato nel rilegare libri e testi
 Tozzi-Federigo_Tre-croci_1920.txt	assessore	1	it	http://www.wikidata.org/entity/Q4657217	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	membro della giunta comunale
 Tozzi-Federigo_Tre-croci_1920.txt	capo	7	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	posizione all'interno di una organizzazione
 Tozzi-Federigo_Tre-croci_1920.txt	medico	5	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
@@ -32,22 +32,24 @@ Tozzi-Federigo_Tre-croci_1920.txt	mercato	1	it	http://www.wikidata.org/entity/Q3
 Tozzi-Federigo_Tre-croci_1920.txt	confessionale	1	it	custom_506	custom	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	pesciaiolo	1	it	http://www.sapere.it/enciclopedia/pesciai%C3%B2lo.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	pesciaiòlo: (lett. pesciaiuòlo); sm. [sec. XIV; da pesce]. Venditore di pesci; pescivendolo.
 Tozzi-Federigo_Tre-croci_1920.txt	trattore	1	it	http://www.sapere.it/enciclopedia/tratt%C3%B3re%C2%B2.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	trattóre²: sm. (f. -trice; popolare -tóra) [sec. XIX; dal francese
+Tozzi-Federigo_Tre-croci_1920.txt	caffè	1	it	custom_50	custom	commercial building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	cassiere	1	it	http://www.wikidata.org/entity/Q1735282	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	profesione
 Tozzi-Federigo_Tre-croci_1920.txt	direttore	3	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 Tozzi-Federigo_Tre-croci_1920.txt	scuola	5	it	custom_717	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	convitto	1	it	custom_238	custom	civil building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
-Tozzi-Federigo_Tre-croci_1920.txt	giardino	3	it	custom_660	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	giardino	3	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	caseggiato	1	it	custom_222	custom	civil building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
-Tozzi-Federigo_Tre-croci_1920.txt	cimitero	10	it	custom_504	custom	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	cimitero	10	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	luogo di sepoltura dei defunti
 Tozzi-Federigo_Tre-croci_1920.txt	campanile	1	it	custom_456	custom	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	portalettere	1	it	http://www.sapere.it/enciclopedia/portal%C3%A8ttere.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	portalèttere: sm. e f. inv. [sec. XVI; dall'impt. di portare+lettera]. Pubblico impiegato; dipendente dal Ministero delle Comunicazioni; che ha il compito di recapitare a domicilio le corrispondenze; epistolari e non epistolari (per esempio cartoline; pacchi; campioni senza...
 Tozzi-Federigo_Tre-croci_1920.txt	basso	2	it	custom_175	custom	civil building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
-Tozzi-Federigo_Tre-croci_1920.txt	cappella	5	it	custom_458	custom	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	cappella	5	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	luogo destinato al culto religioso e legato a una struttura più grande
 Tozzi-Federigo_Tre-croci_1920.txt	casotto	2	it	custom_231	custom	civil building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	gallo	1	it	http://www.wikidata.org/entity/Q1492584	wikidata	historical profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	sacerdote eunuco della dea Cibele
 Tozzi-Federigo_Tre-croci_1920.txt	ragioniere	1	it	http://www.sapere.it/enciclopedia/ragioni%C3%A8re.html	sapere	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	ragionière: sm. [sec. XIV; da ragione; nel senso di calcolo; conto]. Chi ha conseguito l'apposito diploma dell'istituto tecnico commerciale. La professione di ragioniere è regolata dalla legge; che prevede l'istituzione di collegi dei ragionieri nelle città più importanti...
-Tozzi-Federigo_Tre-croci_1920.txt	studio	1	it	custom_728	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	studio	1	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	museo	1	it	custom_677	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	industria	1	it	custom_358	custom	industrial (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	contessa	1	it	http://www.wikidata.org/entity/Q5177051	wikidata	noble rank	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	governante	2	it	http://www.wikidata.org/entity/Q2596569	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	canonico	2	it	http://www.wikidata.org/entity/Q1237385	wikidata	ecclesiastical occupation	Tozzi Federigo	Tre croci	m	1920	1910_1920	
@@ -56,7 +58,7 @@ Tozzi-Federigo_Tre-croci_1920.txt	conte	2	it	http://www.wikidata.org/entity/Q351
 Tozzi-Federigo_Tre-croci_1920.txt	ufficiale	1	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	dottore	1	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Tozzi Federigo	Tre croci	m	1920	1910_1920	titolo accademico
 Tozzi-Federigo_Tre-croci_1920.txt	tribunale	1	it	custom_735	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
-Tozzi-Federigo_Tre-croci_1920.txt	teatro	1	it	custom_733	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	teatro	1	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	luogo in cui avvengono rappresentazioni teatrali
 Tozzi-Federigo_Tre-croci_1920.txt	porto	1	it	custom_402	custom	industrial (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	prigione	1	it	custom_707	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	stanza	8	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	ambiente interno di un edificio; ad uso abitazione o ufficio
@@ -81,5 +83,5 @@ Tozzi-Federigo_Tre-croci_1920.txt	municipio	1	it	custom_676	custom	public (place
 Tozzi-Federigo_Tre-croci_1920.txt	guardia	1	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	ospizio	3	it	custom_686	custom	public (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
 Tozzi-Federigo_Tre-croci_1920.txt	refettorio	1	it	custom_534	custom	religious building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
-Tozzi-Federigo_Tre-croci_1920.txt	critico di arte	1	it	http://www.wikidata.org/entity/Q4164507	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	persona specializzata nella critica dell'arte
 Tozzi-Federigo_Tre-croci_1920.txt	casa di città	1	it	custom_201	custom	civil building (place)	Tozzi Federigo	Tre croci	m	1920	1910_1920	
+Tozzi-Federigo_Tre-croci_1920.txt	critico di arte	1	it	http://www.wikidata.org/entity/Q4164507	wikidata	profession	Tozzi Federigo	Tre croci	m	1920	1910_1920	persona specializzata nella critica dell'arte

@@ -25,12 +25,12 @@ Barbieri-Ulisse_Lucifero_1871.txt	sartore	2	it	http://www.sapere.it/enciclopedia
 Barbieri-Ulisse_Lucifero_1871.txt	edificio	3	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	costruzione edilizia realizzata dall'uomo
 Barbieri-Ulisse_Lucifero_1871.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
 Barbieri-Ulisse_Lucifero_1871.txt	guerriero	1	it	http://www.wikidata.org/entity/Q1250916	wikidata	profession	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
-Barbieri-Ulisse_Lucifero_1871.txt	ovile	1	it	custom_583	custom	rural building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
+Barbieri-Ulisse_Lucifero_1871.txt	ovile	1	it	http://www.wikidata.org/entity/Q858177	wikidata	venue (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
 Barbieri-Ulisse_Lucifero_1871.txt	re	4	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Barbieri Ulisse	Lucifero	m	1871	1870_1879	titolo nobiliare maschile
 Barbieri-Ulisse_Lucifero_1871.txt	giudice	2	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Barbieri Ulisse	Lucifero	m	1871	1870_1879	sovrano in lingua volgare sarda
 Barbieri-Ulisse_Lucifero_1871.txt	costruzione	1	it	custom_241	custom	civil building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
 Barbieri-Ulisse_Lucifero_1871.txt	compagno	2	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Barbieri Ulisse	Lucifero	m	1871	1870_1879	titolo onorifico in uso in molti ordinamenti
-Barbieri-Ulisse_Lucifero_1871.txt	carcere	5	it	custom_619	custom	public (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
+Barbieri-Ulisse_Lucifero_1871.txt	carcere	5	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	luogo di detenzione
 Barbieri-Ulisse_Lucifero_1871.txt	carceriere	1	it	http://www.sapere.it/enciclopedia/carceri%C3%A8re.html	sapere	profession	Barbieri Ulisse	Lucifero	m	1871	1870_1879	carcerière: sm. (f. -a) [sec. XVI; da carcere]. Chi custodisce i carcerati; chi presta servizio di custodia in un carcere. Fig.; chi sorveglia con estrema severità o comunque limita la libertà altrui: “si trovava ridotta alla vita noiosa di carceriera” (Manzoni).
 Barbieri-Ulisse_Lucifero_1871.txt	piazza	1	it	custom_700	custom	public (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
 Barbieri-Ulisse_Lucifero_1871.txt	postribolo	2	it	custom_136	custom	commercial building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
@@ -47,8 +47,9 @@ Barbieri-Ulisse_Lucifero_1871.txt	commessa	1	it	http://www.sapere.it/enciclopedi
 Barbieri-Ulisse_Lucifero_1871.txt	scuola	1	it	custom_717	custom	public (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
 Barbieri-Ulisse_Lucifero_1871.txt	prostituta	1	it	http://www.wikidata.org/entity/Q14915751	wikidata	profession	Barbieri Ulisse	Lucifero	m	1871	1870_1879	occupazione; persona che fa sesso per denaro
 Barbieri-Ulisse_Lucifero_1871.txt	rappresentante	1	it	http://www.wikidata.org/entity/Q994779	wikidata	profession	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
-Barbieri-Ulisse_Lucifero_1871.txt	chiesa	1	it	custom_470	custom	religious building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
-Barbieri-Ulisse_Lucifero_1871.txt	cimitero	1	it	custom_504	custom	religious building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
-Barbieri-Ulisse_Lucifero_1871.txt	magione	1	it	custom_255	custom	civil building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	
+Barbieri-Ulisse_Lucifero_1871.txt	chiesa	1	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	edificio religioso cristiano
+Barbieri-Ulisse_Lucifero_1871.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	luogo di sepoltura dei defunti
+Barbieri-Ulisse_Lucifero_1871.txt	magione	1	it	http://www.wikidata.org/entity/Q1802963	wikidata	house (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	dimora di grandi dimensioni
 Barbieri-Ulisse_Lucifero_1871.txt	signore	1	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Barbieri Ulisse	Lucifero	m	1871	1870_1879	Titolo di nobiltà italiana
 Barbieri-Ulisse_Lucifero_1871.txt	filosofo	1	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Barbieri Ulisse	Lucifero	m	1871	1870_1879	persona che si occupa di filosofia
+Barbieri-Ulisse_Lucifero_1871.txt	piazza di arma	1	it	custom_21	custom	military (place)	Barbieri Ulisse	Lucifero	m	1871	1870_1879	

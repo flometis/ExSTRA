@@ -1,22 +1,24 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 Neera_Una-passione_1903.txt	signore	83	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Neera	Un nido	f	1903	1900_1909	Titolo di nobiltà italiana
-Neera_Una-passione_1903.txt	negozio	7	it	custom_108	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	teatro	4	it	custom_733	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	negozio	7	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Neera	Un nido	f	1903	1900_1909	luogo in cui si vendono merci o servizi
+Neera_Una-passione_1903.txt	teatro	4	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Neera	Un nido	f	1903	1900_1909	luogo in cui avvengono rappresentazioni teatrali
 Neera_Una-passione_1903.txt	compagno	15	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Neera	Un nido	f	1903	1900_1909	titolo onorifico in uso in molti ordinamenti
 Neera_Una-passione_1903.txt	mura	1	it	http://www.wikidata.org/entity/Q57346	wikidata	fortification (place)	Neera	Un nido	f	1903	1900_1909	fortificazione difensiva
 Neera_Una-passione_1903.txt	stella	2	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Neera	Un nido	f	1903	1900_1909	artista del mondo dello spettacolo che gode di molta popolarità
 Neera_Una-passione_1903.txt	redazione	1	it	http://www.wikidata.org/entity/Q1446173	wikidata	workplace (place)	Neera	Un nido	f	1903	1900_1909	insieme dei giornalisti che lavorano per una testata giornalistica o un'emittente televisiva o radiofonica
 Neera_Una-passione_1903.txt	giornalista	46	it	http://www.wikidata.org/entity/Q1930187	wikidata	profession	Neera	Un nido	f	1903	1900_1909	persona che si occupa di scoprire; analizzare; descrivere e scegliere notizie
-Neera_Una-passione_1903.txt	tempio	8	it	custom_552	custom	religious building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	tempio	8	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Neera	Un nido	f	1903	1900_1909	struttura architettonica utilizzata come luogo di culto
 Neera_Una-passione_1903.txt	rifugio	1	it	custom_589	custom	rural building (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	studio	6	it	custom_728	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	studio	6	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	chiesuola	1	it	custom_501	custom	religious building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	casa	63	it	custom_184	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	palazzo	4	it	custom_265	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	seminario	1	it	http://www.wikidata.org/entity/Q233324	wikidata	religious building (place)	Neera	Un nido	f	1903	1900_1909	istituto per l'insegnamento superiore della teologia
 Neera_Una-passione_1903.txt	cortile	4	it	custom_644	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	capo	20	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Neera	Un nido	f	1903	1900_1909	posizione all'interno di una organizzazione
-Neera_Una-passione_1903.txt	giardino	30	it	custom_660	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	industria	2	it	custom_358	custom	industrial (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	abitazione	2	it	custom_164	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	giardino	30	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	moschettiere	1	it	http://www.wikidata.org/entity/Q721960	wikidata	historical profession	Neera	Un nido	f	1903	1900_1909	Soldato dotato di moschetto
 Neera_Una-passione_1903.txt	impresa	1	it	custom_97	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	regina	7	it	http://www.wikidata.org/entity/Q16511993	wikidata	noble rank	Neera	Un nido	f	1903	1900_1909	monarca di genere femminile
@@ -30,7 +32,7 @@ Neera_Una-passione_1903.txt	corte	5	it	custom_240	custom	civil building (place)	
 Neera_Una-passione_1903.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	domestico	3	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 Neera_Una-passione_1903.txt	albergo	2	it	custom_32	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	chiesa	12	it	custom_470	custom	religious building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	chiesa	12	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Neera	Un nido	f	1903	1900_1909	edificio religioso cristiano
 Neera_Una-passione_1903.txt	ufficiale	3	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	chirurgo	1	it	http://www.sapere.it/enciclopedia/chirurgo.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	chirurgo: sm. (pl. -gi o -ghi) [sec. XV; dal greco
 Neera_Una-passione_1903.txt	lettore	2	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Neera	Un nido	f	1903	1900_1909	posizione accademica di rango inferiore al professore
@@ -46,22 +48,23 @@ Neera_Una-passione_1903.txt	re	2	it	http://www.wikidata.org/entity/Q12097	wikida
 Neera_Una-passione_1903.txt	antiquario	1	it	http://www.wikidata.org/entity/Q5697103	wikidata	profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	maestro	17	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	scuola	12	it	custom_717	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	parco	1	it	custom_694	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	parco	1	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Neera	Un nido	f	1903	1900_1909	area protetta o per ricreazione
 Neera_Una-passione_1903.txt	medico	4	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Neera_Una-passione_1903.txt	imperatore	4	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Neera	Un nido	f	1903	1900_1909	tipo di monarca
 Neera_Una-passione_1903.txt	stalla	1	it	custom_591	custom	rural building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	portalettere	4	it	http://www.sapere.it/enciclopedia/portal%C3%A8ttere.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	portalèttere: sm. e f. inv. [sec. XVI; dall'impt. di portare+lettera]. Pubblico impiegato; dipendente dal Ministero delle Comunicazioni; che ha il compito di recapitare a domicilio le corrispondenze; epistolari e non epistolari (per esempio cartoline; pacchi; campioni senza...
 Neera_Una-passione_1903.txt	caseggiato	1	it	custom_222	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	fattoria	1	it	custom_574	custom	rural building (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	fabbrica	1	it	custom_346	custom	industrial (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	fabbrica	1	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Neera	Un nido	f	1903	1900_1909	luogo di produzione o elaborazione di beni materiali
 Neera_Una-passione_1903.txt	servetta	17	it	http://www.sapere.it/enciclopedia/serv%C3%A9tta.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	servétta: sf. [sec. XVII; dim. di serva].
 Neera_Una-passione_1903.txt	serva	1	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	sèrva: sf. [sec. XIV; f. di servo].
 Neera_Una-passione_1903.txt	stanza	1	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Neera	Un nido	f	1903	1900_1909	ambiente interno di un edificio; ad uso abitazione o ufficio
-Neera_Una-passione_1903.txt	libreria	3	it	custom_102	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	libreria	3	it	http://www.wikidata.org/entity/Q200764	wikidata	shop (place)	Neera	Un nido	f	1903	1900_1909	negozio di vendita di libri
 Neera_Una-passione_1903.txt	mensa	4	it	custom_674	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	ispettore	1	it	http://www.wikidata.org/entity/Q3803360	wikidata	military rank	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	arsenale	1	it	custom_03	custom	military (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	collegio	3	it	custom_637	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	ospedale	1	it	custom_681	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	membro	5	it	http://www.wikidata.org/entity/Q59820617	wikidata	honorary title	Neera	Un nido	f	1903	1900_1909	titolo onorifico in uso in molti ordinamenti
 Neera_Una-passione_1903.txt	caserma	2	it	custom_10	custom	military (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	torre	3	it	custom_290	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
@@ -73,18 +76,19 @@ Neera_Una-passione_1903.txt	gallo	1	it	http://www.wikidata.org/entity/Q1492584	w
 Neera_Una-passione_1903.txt	mimo	1	it	http://www.wikidata.org/entity/Q674067	wikidata	profession	Neera	Un nido	f	1903	1900_1909	esecutore della rappresentazione mimica
 Neera_Una-passione_1903.txt	direttore	3	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Neera	Un nido	f	1903	1900_1909	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 Neera_Una-passione_1903.txt	campanile	2	it	custom_456	custom	religious building (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	cappella	2	it	custom_458	custom	religious building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	cappella	2	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Neera	Un nido	f	1903	1900_1909	luogo destinato al culto religioso e legato a una struttura più grande
 Neera_Una-passione_1903.txt	generale	1	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Neera	Un nido	f	1903	1900_1909	militare appartenente alla più elevata categoria degli ufficiali
 Neera_Una-passione_1903.txt	stazione	18	it	custom_723	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	castello	1	it	custom_232	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Neera	Un nido	f	1903	1900_1909	complesso architettonico fortificato tipico del Medioevo
 Neera_Una-passione_1903.txt	trattoria	1	it	custom_161	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	tenda	4	it	custom_286	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	caffè	9	it	custom_50	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	filosofo	4	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Neera	Un nido	f	1903	1900_1909	persona che si occupa di filosofia
 Neera_Una-passione_1903.txt	contadino	2	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Neera	Un nido	f	1903	1900_1909	contadino: sm. e agg. [sec. XIV; da contado].
 Neera_Una-passione_1903.txt	piazza	4	it	custom_700	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	museo	1	it	custom_677	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	duca	1	it	http://www.wikidata.org/entity/Q3715809	wikidata	noble rank	Neera	Un nido	f	1903	1900_1909	figura del sistema sociale longobardo
-Neera_Una-passione_1903.txt	edicola	1	it	custom_84	custom	commercial building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	edicola	1	it	http://www.wikidata.org/entity/Q1528905	wikidata	shop (place)	Neera	Un nido	f	1903	1900_1909	chiosco per vendita di giornali
 Neera_Una-passione_1903.txt	duchessa	1	it	http://www.wikidata.org/entity/Q4593319	wikidata	noble rank	Neera	Un nido	f	1903	1900_1909	titolo nobiliare
 Neera_Una-passione_1903.txt	custode	13	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Neera	Un nido	f	1903	1900_1909	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
 Neera_Una-passione_1903.txt	centro	1	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Neera	Un nido	f	1903	1900_1909	tipo di installazione
@@ -110,7 +114,7 @@ Neera_Una-passione_1903.txt	comico	1	it	http://www.wikidata.org/entity/Q245068	w
 Neera_Una-passione_1903.txt	cocchiere	1	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	mercato	1	it	http://www.wikidata.org/entity/Q330284	wikidata	venue (place)	Neera	Un nido	f	1903	1900_1909	luogo in cui le persone si riuniscono regolarmente per l'acquisto e la vendita di provviste; bestiame e altri beni
 Neera_Una-passione_1903.txt	cameriere	3	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Neera	Un nido	f	1903	1900_1909	personale di servizio in luoghi di ristorazione o case prevate
-Neera_Una-passione_1903.txt	ovile	1	it	custom_583	custom	rural building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	ovile	1	it	http://www.wikidata.org/entity/Q858177	wikidata	venue (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	terrazza	1	it	custom_288	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	anfiteatro	2	it	custom_601	custom	public (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	fabbricato	2	it	custom_347	custom	industrial (place)	Neera	Un nido	f	1903	1900_1909	
@@ -139,8 +143,8 @@ Neera_Una-passione_1903.txt	architetto	1	it	http://www.wikidata.org/entity/Q4297
 Neera_Una-passione_1903.txt	tenore	1	it	http://www.wikidata.org/entity/Q98834046	wikidata	profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	bardo	1	it	http://www.wikidata.org/entity/Q215144	wikidata	historical profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	giustiziere	1	it	http://www.wikidata.org/entity/Q4621445	wikidata	profession	Neera	Un nido	f	1903	1900_1909	individuo che mette in atto una forma di giustizia personale
+Neera_Una-passione_1903.txt	casa signorile	1	it	custom_212	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	
+Neera_Una-passione_1903.txt	casa rustico	1	it	custom_567	custom	rural building (place)	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	ufficiale di cavalleria	2	it	http://www.wikidata.org/entity/Q38218963	wikidata	profession	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	grande maestro	1	it	http://www.wikidata.org/entity/Q622601	wikidata	honorary title	Neera	Un nido	f	1903	1900_1909	
 Neera_Una-passione_1903.txt	di il	1	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	forte 	1	it	custom_12	custom	military (place)	Neera	Un nido	f	1903	1900_1909	
-Neera_Una-passione_1903.txt	casa signorile	1	it	custom_212	custom	civil building (place)	Neera	Un nido	f	1903	1900_1909	

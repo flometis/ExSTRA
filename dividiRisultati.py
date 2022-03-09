@@ -3,7 +3,7 @@ import os.path
 import sys
 import platform
 
-tagDct = {"profession" : "professions.tsv", "nobiliary particle": None, "noble rank": "professions.tsv", "honorary title": None, "ecclesiastical occupation": "professions.tsv", "historical profession": "professions.tsv", "military rank": "professions.tsv", "human": None, "factory (place)": "places-industrial.tsv", "facility (place)": None, "workplace (place)": None, "shop (place)": "places-commercial.tsv", "commercial building (place)": "places-commercial.tsv", "house (place)": "places-civil.tsv", "rural building (place)": "places-rural.tsv", "fortification (place)": "places-military.tsv", "venue (place)": None, "religious building (place)": "places-religious.tsv", "industrial (place)": "places-industrial.tsv", "commercial building (place)": "places_commercial.tsv", "civil building (place)" : "places-civil.tsv", "public (place)": "places-public.tsv"}
+tagDct = {"profession" : "professions.tsv", "nobiliary particle": None, "noble rank": "professions.tsv", "honorary title": None, "ecclesiastical occupation": "professions.tsv", "historical profession": "professions.tsv", "military rank": "professions.tsv", "human": None, "factory (place)": "places-industrial.tsv", "facility (place)": None, "workplace (place)": None, "shop (place)": "places-commercial.tsv", "commercial building (place)": "places-commercial.tsv", "house (place)": "places-civil.tsv", "rural building (place)": "places-rural.tsv", "fortification (place)": "places-military.tsv", "venue (place)": None, "religious building (place)": "places-religious.tsv", "industrial (place)": "places-industrial.tsv", "commercial building (place)": "places-commercial.tsv", "civil building (place)" : "places-civil.tsv", "public (place)": "places-public.tsv"}
 
 findingsfile = os.path.abspath(os.path.dirname(sys.argv[0]))+"/Findings/exstra_dictionary_COMPLETE.tsv"
 text_file = open(findingsfile, "r", encoding='utf-8')
@@ -33,10 +33,10 @@ for line in findingsstr.split("\n"):
             filename = tagDct[k]
             break
     try:
-        with open(filename, "a") as file_object:
+        with open(filename, "a", encoding="utf8") as file_object:
             file_object.write(line + "\n")
         if filename != "professions.tsv":
-            with open("places.tsv", "a") as file_object:
+            with open("places.tsv", "a", encoding="utf8") as file_object:
                 file_object.write(line + "\n")
     except:
         pass

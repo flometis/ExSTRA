@@ -3,7 +3,7 @@ Deledda-Grazia_La-madre_1920.txt	serva	30	it	http://www.sapere.it/enciclopedia/s
 Deledda-Grazia_La-madre_1920.txt	parrocchia	19	it	custom_532	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	casa	80	it	custom_184	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	piazza	12	it	custom_700	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
-Deledda-Grazia_La-madre_1920.txt	chiesa	58	it	custom_470	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
+Deledda-Grazia_La-madre_1920.txt	chiesa	58	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	edificio religioso cristiano
 Deledda-Grazia_La-madre_1920.txt	casupola	2	it	custom_233	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	casetta	1	it	custom_226	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	pastore	8	it	http://www.wikidata.org/entity/Q81710	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	persona che guida e si prende cura di un gregge di pecore o altri animali
@@ -12,19 +12,21 @@ Deledda-Grazia_La-madre_1920.txt	fortezza	2	it	custom_13	custom	military (place)
 Deledda-Grazia_La-madre_1920.txt	covo	2	it	custom_242	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	salone	1	it	custom_714	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	cacciatore	11	it	http://www.wikidata.org/entity/Q1714828	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	persona che caccia
+Deledda-Grazia_La-madre_1920.txt	abitazione	1	it	custom_164	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	convento	2	it	custom_508	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	monsignore	1	it	http://www.wikidata.org/entity/Q854905	wikidata	noble rank	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	corte	1	it	custom_240	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	signore	7	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Deledda Grazia	La madre	f	1920	1910_1920	Titolo di nobiltà italiana
 Deledda-Grazia_La-madre_1920.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	stanza	30	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Deledda Grazia	La madre	f	1920	1910_1920	ambiente interno di un edificio; ad uso abitazione o ufficio
+Deledda-Grazia_La-madre_1920.txt	caffè	8	it	custom_50	custom	commercial building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	edificio	1	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	Deledda Grazia	La madre	f	1920	1910_1920	costruzione edilizia realizzata dall'uomo
 Deledda-Grazia_La-madre_1920.txt	campanile	5	it	custom_456	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	altare	21	it	custom_445	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
-Deledda-Grazia_La-madre_1920.txt	studio	1	it	custom_728	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
+Deledda-Grazia_La-madre_1920.txt	studio	1	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	contadino	4	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Deledda Grazia	La madre	f	1920	1910_1920	contadino: sm. e agg. [sec. XIV; da contado].
 Deledda-Grazia_La-madre_1920.txt	stella	1	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	artista del mondo dello spettacolo che gode di molta popolarità
-Deledda-Grazia_La-madre_1920.txt	residenza	1	it	custom_272	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
+Deledda-Grazia_La-madre_1920.txt	residenza	1	it	http://www.wikidata.org/entity/Q7743	wikidata	house (place)	Deledda Grazia	La madre	f	1920	1910_1920	luogo in cui la persona ha la dimora abituale
 Deledda-Grazia_La-madre_1920.txt	re	2	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Deledda Grazia	La madre	f	1920	1910_1920	titolo nobiliare maschile
 Deledda-Grazia_La-madre_1920.txt	aiutante	1	it	http://www.wikidata.org/entity/Q852661	wikidata	military rank	Deledda Grazia	La madre	f	1920	1910_1920	grado militare
 Deledda-Grazia_La-madre_1920.txt	mugnaio	2	it	http://www.wikidata.org/entity/Q694116	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	persona che macina grano o granaglie in un mulino per produrre farine
@@ -34,7 +36,7 @@ Deledda-Grazia_La-madre_1920.txt	seminario	7	it	http://www.wikidata.org/entity/Q
 Deledda-Grazia_La-madre_1920.txt	guardia	40	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	maschera	3	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	figura professionale in ambito teatrale
 Deledda-Grazia_La-madre_1920.txt	immobile	1	it	custom_252	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
-Deledda-Grazia_La-madre_1920.txt	carcere	2	it	custom_619	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
+Deledda-Grazia_La-madre_1920.txt	carcere	2	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Deledda Grazia	La madre	f	1920	1910_1920	luogo di detenzione
 Deledda-Grazia_La-madre_1920.txt	prigione	5	it	custom_707	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	legnaia	1	it	custom_579	custom	rural building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	stamberga	2	it	custom_283	custom	civil building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
@@ -45,7 +47,7 @@ Deledda-Grazia_La-madre_1920.txt	vescovo	3	it	http://www.wikidata.org/entity/Q29
 Deledda-Grazia_La-madre_1920.txt	sepolcro	2	it	custom_549	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	guerriero	1	it	http://www.wikidata.org/entity/Q1250916	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	sagrestia	8	it	custom_540	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
-Deledda-Grazia_La-madre_1920.txt	cimitero	1	it	custom_504	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
+Deledda-Grazia_La-madre_1920.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Deledda Grazia	La madre	f	1920	1910_1920	luogo di sepoltura dei defunti
 Deledda-Grazia_La-madre_1920.txt	osteria	3	it	custom_123	custom	commercial building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	mensa	5	it	custom_674	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	podere	1	it	custom_585	custom	rural building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
@@ -72,6 +74,6 @@ Deledda-Grazia_La-madre_1920.txt	pegno	1	it	http://www.wikidata.org/entity/Q1766
 Deledda-Grazia_La-madre_1920.txt	fiera	1	it	custom_651	custom	public (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	confessionale	1	it	custom_506	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
 Deledda-Grazia_La-madre_1920.txt	balia	1	it	http://www.wikidata.org/entity/Q472898	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	persona che accudisce un neonato provvedendo anche al suo allattamento
-Deledda-Grazia_La-madre_1920.txt	tempio	1	it	custom_552	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
-Deledda-Grazia_La-madre_1920.txt	guardia campestre	2	it	http://www.wikidata.org/entity/Q472666	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	funzionario territoriale avente la funzione di proteggere il demanio rurale
+Deledda-Grazia_La-madre_1920.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	struttura architettonica utilizzata come luogo di culto
 Deledda-Grazia_La-madre_1920.txt	casa parrocchiale	1	it	custom_462	custom	religious building (place)	Deledda Grazia	La madre	f	1920	1910_1920	
+Deledda-Grazia_La-madre_1920.txt	guardia campestre	2	it	http://www.wikidata.org/entity/Q472666	wikidata	profession	Deledda Grazia	La madre	f	1920	1910_1920	funzionario territoriale avente la funzione di proteggere il demanio rurale

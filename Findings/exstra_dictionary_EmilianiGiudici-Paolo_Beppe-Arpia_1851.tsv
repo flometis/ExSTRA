@@ -1,7 +1,7 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	guida	3	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	maestro	18	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	studio	16	it	custom_728	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	studio	16	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	scrittore	23	it	http://www.wikidata.org/entity/Q36180	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	chiunque crei un lavoro scritto
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	giudice	4	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	sovrano in lingua volgare sarda
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	editore	6	it	http://www.wikidata.org/entity/Q2516866	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che si occupa di pubblicare libri
@@ -38,35 +38,37 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	palazzo	31	it	custom_265	custom	civil
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	principe	20	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	commerciante	7	it	http://www.sapere.it/enciclopedia/commerciante.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	commerciante: agg. e sm. e f. [sec. XVIII; ppr. di commerciare]. Chi; per professione; esercita il commercio: commerciante all'ingrosso; grossista; commerciante al minuto; dettagliante.
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	zecca	4	it	http://www.wikidata.org/entity/Q464780	wikidata	factory (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo ove si coniano monete
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	negozio	31	it	custom_108	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	casamento	1	it	custom_219	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	negozio	31	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo in cui si vendono merci o servizi
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	collegio	5	it	custom_637	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	archeologo	1	it	http://www.wikidata.org/entity/Q3621491	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	professionista qualificato in una delle branche dell'archeologia
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	banchiere	13	it	http://www.wikidata.org/entity/Q806798	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	proprietario o dirigente di una banca
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	contadino	16	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	contadino: sm. e agg. [sec. XIV; da contado].
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	astrologo	1	it	http://www.wikidata.org/entity/Q155647	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che pratica l'astrologia
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	spia	4	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	chiesa	11	it	custom_470	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	chiesa	11	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	edificio religioso cristiano
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	pizzicagnolo	3	it	http://www.sapere.it/enciclopedia/pizzic%C3%A0gnolo.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	pizzicàgnolo: (romanesco pizzicaròlo); sm. (f. -a) [sec. XIII; da pizzicare; in quanto venditore di cibi che pizzicano]. Venditore di salumi; formaggi; ecc.; salumiere.
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	piazza	18	it	custom_700	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	parrucchiere	5	it	custom_129	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	parrucchiere	5	it	http://www.wikidata.org/entity/Q55187	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	professione di chi si occupa di tagliare o acconciare i capelli
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	dottore	14	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	titolo accademico
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	cancelliere	5	it	http://www.wikidata.org/entity/Q5070767	wikidata	ecclesiastical occupation	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	titolo ecclesiastico
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	canonico	5	it	http://www.wikidata.org/entity/Q1237385	wikidata	ecclesiastical occupation	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	tugurio	2	it	custom_294	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	tempio	8	it	custom_552	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	tempio	8	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	struttura architettonica utilizzata come luogo di culto
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	sguattero	1	it	http://www.sapere.it/enciclopedia/sgu%C3%A0ttero.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	sguàttero: sm. (f. -a.) [sec. XVI; dal longobardo
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	barbiere	1	it	custom_44	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	barbiere	1	it	http://www.wikidata.org/entity/Q107198	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che si occupa di tagliare; acconciare; accorciare e sistemare i peli del volto maschili
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	romanziere	3	it	http://www.wikidata.org/entity/Q6625963	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	autore di romanzi e/o racconti
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	economista	1	it	http://www.wikidata.org/entity/Q188094	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che studia l'economia
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	diplomatico	5	it	http://www.wikidata.org/entity/Q193391	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	funzionario dello Stato
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	campanile	3	it	custom_456	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	edificio	2	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	costruzione edilizia realizzata dall'uomo
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	cavaliere	30	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	atleta che pratica lo sport dell'equitazione
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	castello	6	it	custom_232	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	castello	6	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	complesso architettonico fortificato tipico del Medioevo
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	venditore	3	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	lavoro
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	bottegaio	3	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	avvocato	3	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	professione svolta in ambito giuridico
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	onorevole	1	it	http://www.wikidata.org/entity/Q2746176	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	prefisso onorifico
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	industria	7	it	custom_358	custom	industrial (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	medico	42	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	casino	2	it	custom_229	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	principessa	6	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	titolo nobiliare
@@ -82,7 +84,7 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	pascià	1	it	http://www.wikidata.org/
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	speziale	4	it	http://www.wikidata.org/entity/Q1131236	wikidata	historical profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	nobile	13	it	http://www.wikidata.org/entity/Q3877594	wikidata	nobiliary particle	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	titolo nobiliare italiano
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	imperatore	4	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	tipo di monarca
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	prefetto	1	it	custom_706	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	prefetto	1	it	http://www.wikidata.org/entity/Q5183538	wikidata	military rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	ufficiale dell'Antica Roma; solitamente appartenente all'ordine equestre
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	torre	4	it	custom_290	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	stella	7	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	artista del mondo dello spettacolo che gode di molta popolarità
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	arena	1	it	custom_604	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
@@ -93,7 +95,8 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	pilota	1	it	http://www.wikidata.org/e
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	boia	7	it	http://www.wikidata.org/entity/Q207651	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che ha il compito di eseguire le sentenze di condanna alla pena di morte
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	ciabattino	2	it	http://www.sapere.it/enciclopedia/ciabattino.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	ciabattino: sm. [sec. XIV; da ciabatta]. Chi fabbrica ciabatte o scarpe; chi ripara e rappezza scarpe. Fig.; chi in genere esercita male e sciattamente il proprio mestiere.
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	canile	1	it	custom_618	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	baracca	1	it	custom_173	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	caffè	5	it	custom_50	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	baracca	1	it	http://www.wikidata.org/entity/Q6502413	wikidata	house (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	piccolo riparo o abitazione
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	università	3	it	custom_737	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	animatore	2	it	http://www.wikidata.org/entity/Q3625363	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	attrazione	1	it	http://www.wikidata.org/entity/Q1144661	wikidata	facility (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	tipo di apparecchiatura
@@ -105,7 +108,7 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	vivaio	1	it	custom_740	custom	public 
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	villa	14	it	custom_296	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	postiglione	2	it	http://www.wikidata.org/entity/Q596033	wikidata	historical profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	caporale	1	it	http://www.wikidata.org/entity/Q23058159	wikidata	military rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	teatro	9	it	custom_733	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	teatro	9	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo in cui avvengono rappresentazioni teatrali
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	attore	3	it	http://www.wikidata.org/entity/Q33999	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che recita in commedie o opere drammatiche al cinema; alla televisione; al teatro o alla radio
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	guerriero	4	it	http://www.wikidata.org/entity/Q1250916	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	interprete	2	it	http://www.wikidata.org/entity/Q11085831	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che traduce oralmente da una lingua di partenza verso una lingua d'arrivo
@@ -116,8 +119,8 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	cameriere	8	it	http://www.wikidata.or
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	dame	2	it	http://www.wikidata.org/entity/Q901407	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	equivalente femminile di cavaliere
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	salone	5	it	custom_714	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	negoziante	3	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	fabbrica	2	it	custom_346	custom	industrial (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	giardino	9	it	custom_660	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	fabbrica	2	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo di produzione o elaborazione di beni materiali
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	giardino	9	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	appartamento	1	it	custom_169	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	maestra	3	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	duchessa	1	it	http://www.wikidata.org/entity/Q4593319	wikidata	noble rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	titolo nobiliare
@@ -138,7 +141,7 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	sepolcro	2	it	custom_549	custom	relig
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	pensione	3	it	custom_132	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	tana	1	it	custom_285	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	custode	2	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	santuario	4	it	custom_543	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	santuario	4	it	http://www.wikidata.org/entity/Q697295	wikidata	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo sacro dedicato a una specifica divinità
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	filosofo	4	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	persona che si occupa di filosofia
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	cantina	2	it	custom_317	custom	industrial (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	vinaio	1	it	http://www.sapere.it/enciclopedia/vin%C3%A0io.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	vinàio: sm. [sec. XIV; da vino]. Chi vende vino al minuto o all'ingrosso. Non comune; oste.
@@ -158,17 +161,18 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	impresario	1	it	http://www.wikidata.o
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	asilo	2	it	custom_605	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	capitano	4	it	http://www.wikidata.org/entity/Q5036510	wikidata	military rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	grado militare della Royal Marines e della British Army
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	predicatore	2	it	http://www.wikidata.org/entity/Q432386	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	carcere	6	it	custom_619	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	carcere	6	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo di detenzione
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	tabernacolo	1	it	custom_551	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	maschera	4	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	figura professionale in ambito teatrale
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	reggia	1	it	custom_270	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	portinaio	5	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	lavoratore adibito alla cura e custodia di un edificio residenziale
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	abitazione	2	it	custom_164	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	procaccia	1	it	http://www.sapere.it/enciclopedia/proc%C3%A0ccia.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	procàccia: sm. o f. inv. [sec. XVI; da procacciare]. Persona incaricata di fare commissioni o di portar lettere; pacchi o merci da un luogo all'altro.
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	falsario	6	it	http://www.wikidata.org/entity/Q3738757	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	colui che conia monete; banconote o documenti senza permesso o che comunque copia materiale che per legge non si può copiare
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	pegno	4	it	http://www.wikidata.org/entity/Q176637	wikidata	shop (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	attività di credito con la garanzia di un bene in custodia
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	osteria	1	it	custom_123	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	impiegato	3	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	calzolaio	7	it	custom_52	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	calzolaio	7	it	http://www.wikidata.org/entity/Q152355	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	artigiano che realizza o ripara scarpe
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	magnano	1	it	http://www.wikidata.org/entity/Q852718	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	genealogista	1	it	http://www.wikidata.org/entity/Q8963721	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	basso	3	it	custom_175	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
@@ -183,9 +187,10 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	serva	2	it	http://www.sapere.it/encic
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	ministra	2	it	http://www.sapere.it/enciclopedia/ministra.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	ministra: sf. lett. [sec. XIV; dal latino ministra; f. di minister; ministro]. Donna che svolge mansioni di assistenza o di amministrazione; per lo più in personificazioni allegoriche con i sensi fig. di ministro: l'equità; ministra della giustizia; la Grecia fu...
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	fortezza	3	it	custom_13	custom	military (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	scuola	2	it	custom_717	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	monastero	1	it	custom_525	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	monastero	1	it	http://www.wikidata.org/entity/Q44613	wikidata	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	edificio adibito ad abitazione e luogo di lavoro per monaci e suore
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	chiostro	1	it	custom_502	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	macchinista	1	it	http://www.sapere.it/enciclopedia/macchinista.html	sapere	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	macchinista: sm. e f. (pl. m. -i) [sec. XVIII; da macchina].
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	ospedale	1	it	custom_681	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	supplente	1	it	http://www.wikidata.org/entity/Q3301537	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	apprendista	1	it	http://www.wikidata.org/entity/Q253567	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	chimico	1	it	http://www.wikidata.org/entity/Q593644	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	scienziato che studia la chimica
@@ -219,9 +224,9 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	marinaio	1	it	http://www.wikidata.org
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	albergo	2	it	custom_32	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	commissariato	1	it	custom_638	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	tutore	1	it	http://www.wikidata.org/entity/Q901222	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	insegnante che da' lezioni private
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	stamperia	1	it	custom_426	custom	industrial (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	stamperia	1	it	http://www.wikidata.org/entity/Q47003909	wikidata	factory (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	do	2	it	http://www.wikidata.org/entity/Q66567485	wikidata	nobiliary particle	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	cappella	1	it	custom_458	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	luogo destinato al culto religioso e legato a una struttura più grande
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	gioielliere	1	it	http://www.wikidata.org/entity/Q336221	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	commerciante che si occupa della vendita di oggetti in oro; argento; pietre preziose
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	comune	1	it	custom_639	custom	public (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	banca	2	it	custom_42	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
@@ -232,6 +237,8 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	pompiere	1	it	http://www.sapere.it/en
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	arsenale	1	it	custom_03	custom	military (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	missionario	1	it	http://www.wikidata.org/entity/Q219477	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	colui che si impegna a diffondere una religione in aree in cui non è ancora diffusa
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	locanda	1	it	custom_103	custom	commercial building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	casa signorile	1	it	custom_212	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
+EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	casa di dio	1	it	custom_461	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	grande principe	1	it	http://www.wikidata.org/entity/Q1549319	wikidata	noble rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	Titolo nobiliare
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	ministro di stato	1	it	http://www.wikidata.org/entity/Q1569680	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	maestro di cerimonia	1	it	http://www.wikidata.org/entity/Q191578	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
@@ -240,6 +247,3 @@ EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	maresciallo di campo	1	it	http://www.
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	aiutante di campo	3	it	http://www.wikidata.org/entity/Q60983946	wikidata	military rank	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	Comandante di Plotone (Brigate Nere 1944)
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	grande maestro	1	it	http://www.wikidata.org/entity/Q622601	wikidata	honorary title	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
 EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	dama di compagnia	1	it	http://www.wikidata.org/entity/Q715222	wikidata	profession	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	forte 	1	it	custom_12	custom	military (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	casa signorile	1	it	custom_212	custom	civil building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	
-EmilianiGiudici-Paolo_Beppe-Arpia_1851.txt	casa di dio	1	it	custom_461	custom	religious building (place)	Emiliani Giudici Paolo	Beppe Arpia	m	1851	1850_1859	

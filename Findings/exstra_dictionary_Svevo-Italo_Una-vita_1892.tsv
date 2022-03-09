@@ -2,13 +2,14 @@ File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Dec
 Svevo-Italo_Una-vita_1892.txt	piazza	12	it	custom_700	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	casa	257	it	custom_184	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	bottega	9	it	custom_48	custom	commercial building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
-Svevo-Italo_Una-vita_1892.txt	fabbrica	5	it	custom_346	custom	industrial (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	casamento	1	it	custom_219	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	fabbrica	5	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Svevo Italo	Una vita	m	1892	1890_1899	luogo di produzione o elaborazione di beni materiali
 Svevo-Italo_Una-vita_1892.txt	stanza	171	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Svevo Italo	Una vita	m	1892	1890_1899	ambiente interno di un edificio; ad uso abitazione o ufficio
-Svevo-Italo_Una-vita_1892.txt	studio	43	it	custom_728	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	studio	43	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	compagno	5	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Svevo Italo	Una vita	m	1892	1890_1899	titolo onorifico in uso in molti ordinamenti
 Svevo-Italo_Una-vita_1892.txt	poeta	1	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	scrittore di poesie
 Svevo-Italo_Una-vita_1892.txt	basso	2	it	custom_175	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
-Svevo-Italo_Una-vita_1892.txt	chiesa	17	it	custom_470	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	chiesa	17	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	edificio religioso cristiano
 Svevo-Italo_Una-vita_1892.txt	signore	321	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Svevo Italo	Una vita	m	1892	1890_1899	Titolo di nobiltà italiana
 Svevo-Italo_Una-vita_1892.txt	impiegato	61	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Svevo-Italo_Una-vita_1892.txt	capo	55	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	posizione all'interno di una organizzazione
@@ -37,18 +38,20 @@ Svevo-Italo_Una-vita_1892.txt	biblioteca	32	it	http://www.wikidata.org/entity/Q7
 Svevo-Italo_Una-vita_1892.txt	ore	2	it	http://www.sapere.it/enciclopedia/%C3%B3re.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	óre: sm. (f. -trice) [da scoticare]. Chi scotica. In particolare; in agricoltura; specie di grossa lama che viene applicata davanti al vomere di un aratro per tagliare lo strato superficiale; la cotica del terreno.
 Svevo-Italo_Una-vita_1892.txt	avvocato	4	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	professione svolta in ambito giuridico
 Svevo-Italo_Una-vita_1892.txt	deputato	2	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	membro di una assemblea legislativa
-Svevo-Italo_Una-vita_1892.txt	calzolaio	1	it	custom_52	custom	commercial building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
-Svevo-Italo_Una-vita_1892.txt	teatro	9	it	custom_733	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	calzolaio	1	it	http://www.wikidata.org/entity/Q152355	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	artigiano che realizza o ripara scarpe
+Svevo-Italo_Una-vita_1892.txt	teatro	9	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Svevo Italo	Una vita	m	1892	1890_1899	luogo in cui avvengono rappresentazioni teatrali
 Svevo-Italo_Una-vita_1892.txt	corte	5	it	custom_240	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	diga	2	it	custom_342a	custom	industrial (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	stazione	17	it	custom_723	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	contadino	8	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	contadino: sm. e agg. [sec. XIV; da contado].
 Svevo-Italo_Una-vita_1892.txt	convento	1	it	custom_508	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	caffè	7	it	custom_50	custom	commercial building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	scienziato	2	it	http://www.wikidata.org/entity/Q901	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	persona che è esperta in un campo della scienza
 Svevo-Italo_Una-vita_1892.txt	commerciante	2	it	http://www.sapere.it/enciclopedia/commerciante.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	commerciante: agg. e sm. e f. [sec. XVIII; ppr. di commerciare]. Chi; per professione; esercita il commercio: commerciante all'ingrosso; grossista; commerciante al minuto; dettagliante.
 Svevo-Italo_Una-vita_1892.txt	direttore	6	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 Svevo-Italo_Una-vita_1892.txt	palazzo	2	it	custom_265	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	corrispondente	6	it	http://www.wikidata.org/entity/Q3589290	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	autore di lettere
+Svevo-Italo_Una-vita_1892.txt	abitazione	9	it	custom_164	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	alloggio	1	it	custom_167	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	rivenditore	2	it	http://www.sapere.it/enciclopedia/rivendit%C3%B3re.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	rivenditóre: sm. (f. -trice) [da rivendere]. Chi rivende oggetti o merci acquistate da altri; anche venditore al minuto.
 Svevo-Italo_Una-vita_1892.txt	negoziante	1	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
@@ -68,7 +71,7 @@ Svevo-Italo_Una-vita_1892.txt	aiutante	2	it	http://www.wikidata.org/entity/Q8526
 Svevo-Italo_Una-vita_1892.txt	soldato	2	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	Svevo Italo	Una vita	m	1892	1890_1899	persona che si è arruolata nelle forze armate di un paese sovrano
 Svevo-Italo_Una-vita_1892.txt	fienile	1	it	custom_575	custom	rural building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	caserma	1	it	custom_10	custom	military (place)	Svevo Italo	Una vita	m	1892	1890_1899	
-Svevo-Italo_Una-vita_1892.txt	tempio	1	it	custom_552	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	struttura architettonica utilizzata come luogo di culto
 Svevo-Italo_Una-vita_1892.txt	casetta	1	it	custom_226	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	cortile	2	it	custom_644	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	chiesuola	1	it	custom_501	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
@@ -112,13 +115,13 @@ Svevo-Italo_Una-vita_1892.txt	membro	6	it	http://www.wikidata.org/entity/Q598206
 Svevo-Italo_Una-vita_1892.txt	curatore	1	it	http://www.wikidata.org/entity/Q780596	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	museo	1	it	custom_677	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	casone	1	it	custom_230	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
-Svevo-Italo_Una-vita_1892.txt	cimitero	5	it	custom_504	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	cimitero	5	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Svevo Italo	Una vita	m	1892	1890_1899	luogo di sepoltura dei defunti
 Svevo-Italo_Una-vita_1892.txt	guardia	2	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	carrettiere	1	it	http://www.wikidata.org/entity/Q1473046	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	granaio	1	it	custom_576	custom	rural building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	cantina	1	it	custom_317	custom	industrial (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	farmacista	1	it	http://www.sapere.it/enciclopedia/farmacista.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	farmacista: sm. e f. (pl. m. -i) [sec. XVIII; da farmacia]. Laureato in farmacia autorizzato a vendere medicinali o a prepararne secondo le prescrizioni mediche.
-Svevo-Italo_Una-vita_1892.txt	cappella	1	it	custom_458	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	luogo destinato al culto religioso e legato a una struttura più grande
 Svevo-Italo_Una-vita_1892.txt	capostazione	2	it	http://www.wikidata.org/entity/Q2962020	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	contabile	1	it	http://www.wikidata.org/entity/Q326653	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	professionista esperto in contabilità
 Svevo-Italo_Una-vita_1892.txt	venditore	1	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	lavoro
@@ -128,11 +131,12 @@ Svevo-Italo_Una-vita_1892.txt	linguista	1	it	http://www.wikidata.org/entity/Q144
 Svevo-Italo_Una-vita_1892.txt	furiere	1	it	http://www.wikidata.org/entity/Q782110	wikidata	military rank	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	conte	1	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Svevo Italo	Una vita	m	1892	1890_1899	titolo della nobiltà esistente nei paesi europei
 Svevo-Italo_Una-vita_1892.txt	araldo	1	it	http://www.wikidata.org/entity/Q696819	wikidata	historical profession	Svevo Italo	Una vita	m	1892	1890_1899	ufficiale addetto a rendere pubblici gli atti e le disposizioni delle autorità civili e religiose
-Svevo-Italo_Una-vita_1892.txt	giardino	2	it	custom_660	custom	public (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	giardino	2	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	serva	1	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	sèrva: sf. [sec. XIV; f. di servo].
 Svevo-Italo_Una-vita_1892.txt	fabbricato	1	it	custom_347	custom	industrial (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	messo	1	it	http://www.sapere.it/enciclopedia/m%C3%A9sso%C2%B2.html	sapere	profession	Svevo Italo	Una vita	m	1892	1890_1899	mésso²: sm. [sec. XIV; latino missus; inviato; pp. di mittĕre; mandare].
 Svevo-Italo_Una-vita_1892.txt	predicatore	1	it	http://www.wikidata.org/entity/Q432386	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	casa di città	2	it	custom_201	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
+Svevo-Italo_Una-vita_1892.txt	casa di signore	1	it	custom_460	custom	religious building (place)	Svevo Italo	Una vita	m	1892	1890_1899	
 Svevo-Italo_Una-vita_1892.txt	medico condotto	1	it	http://www.wikidata.org/entity/Q3853787	wikidata	historical profession	Svevo Italo	Una vita	m	1892	1890_1899	medico che prestava assistenza sanitaria gratuita ai poveri; sostituito ai sensi della legge 23 dicembre 1978 n. 833 dal medico di famiglia
 Svevo-Italo_Una-vita_1892.txt	dama di compagnia	1	it	http://www.wikidata.org/entity/Q715222	wikidata	profession	Svevo Italo	Una vita	m	1892	1890_1899	
-Svevo-Italo_Una-vita_1892.txt	casa di città	2	it	custom_201	custom	civil building (place)	Svevo Italo	Una vita	m	1892	1890_1899	

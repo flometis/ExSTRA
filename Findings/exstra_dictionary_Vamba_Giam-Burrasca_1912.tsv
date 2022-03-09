@@ -5,11 +5,12 @@ Vamba_Giam-Burrasca_1912.txt	stanza	55	it	http://www.wikidata.org/entity/Q180516
 Vamba_Giam-Burrasca_1912.txt	signore	262	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Vamba	Giamburrasca	m	1912	1910_1920	Titolo di nobiltà italiana
 Vamba_Giam-Burrasca_1912.txt	tenda	5	it	custom_286	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	dottore	33	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Vamba	Giamburrasca	m	1912	1910_1920	titolo accademico
+Vamba_Giam-Burrasca_1912.txt	caffè	6	it	custom_50	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	cuoco	52	it	http://www.wikidata.org/entity/Q2276446	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	collaboratore domestico
-Vamba_Giam-Burrasca_1912.txt	negozio	17	it	custom_108	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
-Vamba_Giam-Burrasca_1912.txt	farmacia	2	it	custom_650	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	negozio	17	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Vamba	Giamburrasca	m	1912	1910_1920	luogo in cui si vendono merci o servizi
+Vamba_Giam-Burrasca_1912.txt	farmacia	2	it	http://www.wikidata.org/entity/Q13107184	wikidata	shop (place)	Vamba	Giamburrasca	m	1912	1910_1920	negozio in cui vengono venduti farmaci
 Vamba_Giam-Burrasca_1912.txt	avvocato	65	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	professione svolta in ambito giuridico
-Vamba_Giam-Burrasca_1912.txt	studio	19	it	custom_728	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	studio	19	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	capo	18	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	posizione all'interno di una organizzazione
 Vamba_Giam-Burrasca_1912.txt	sonatore	3	it	http://www.sapere.it/enciclopedia/sonat%C3%B3re.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	sonatóre: vedi
 Vamba_Giam-Burrasca_1912.txt	ballerino	3	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	persona che pratica l'arte del balletto
@@ -33,26 +34,26 @@ Vamba_Giam-Burrasca_1912.txt	bar	1	it	custom_43	custom	commercial building (plac
 Vamba_Giam-Burrasca_1912.txt	prigione	22	it	custom_707	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	badia	1	it	custom_448	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	soldato	5	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	Vamba	Giamburrasca	m	1912	1910_1920	persona che si è arruolata nelle forze armate di un paese sovrano
-Vamba_Giam-Burrasca_1912.txt	laboratorio	2	it	custom_373	custom	industrial (place)	Vamba	Giamburrasca	m	1912	1910_1920	
-Vamba_Giam-Burrasca_1912.txt	giardino	12	it	custom_660	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	laboratorio	2	it	http://www.wikidata.org/entity/Q66736694	wikidata	facility (place)	Vamba	Giamburrasca	m	1912	1910_1920	un edificio o un locale attrezzato e dedicato allo studio di un determinato argomento; non necessariamente scientifico
+Vamba_Giam-Burrasca_1912.txt	giardino	12	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	municipio	5	it	custom_676	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	scrittore	1	it	http://www.wikidata.org/entity/Q36180	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	chiunque crei un lavoro scritto
 Vamba_Giam-Burrasca_1912.txt	corsaro	2	it	http://www.wikidata.org/entity/Q201559	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	persone o navi autorizzate da un governo ad attaccare spedizioni straniere
 Vamba_Giam-Burrasca_1912.txt	stella	2	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	artista del mondo dello spettacolo che gode di molta popolarità
-Vamba_Giam-Burrasca_1912.txt	teatro	3	it	custom_733	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	teatro	3	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Vamba	Giamburrasca	m	1912	1910_1920	luogo in cui avvengono rappresentazioni teatrali
 Vamba_Giam-Burrasca_1912.txt	prestigiatore	2	it	http://www.wikidata.org/entity/Q15855449	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	artista che esegue giochi di destrezza di cui nasconde i meccanismi
 Vamba_Giam-Burrasca_1912.txt	deputato	3	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	membro di una assemblea legislativa
 Vamba_Giam-Burrasca_1912.txt	carabiniere	2	it	http://www.wikidata.org/entity/Q13386767	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	militare
 Vamba_Giam-Burrasca_1912.txt	fiaccheraio	1	it	http://www.sapere.it/enciclopedia/fiaccher%C3%A0io.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	fiaccheràio: sm. toscano [sec. XIX; da fiacchere]. Vetturino di fiacre.
 Vamba_Giam-Burrasca_1912.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	costruzione	1	it	custom_241	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
-Vamba_Giam-Burrasca_1912.txt	cappella	1	it	custom_458	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	luogo destinato al culto religioso e legato a una struttura più grande
 Vamba_Giam-Burrasca_1912.txt	fabbricato	1	it	custom_347	custom	industrial (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	banca	4	it	custom_42	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	guardiano	1	it	http://www.sapere.it/enciclopedia/guardiano.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	guardiano: agg. e sm. (f. -a) [sec. XIV: da guardia].
 Vamba_Giam-Burrasca_1912.txt	scuola	37	it	custom_717	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	medico	6	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
-Vamba_Giam-Burrasca_1912.txt	calzolaio	1	it	custom_52	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	calzolaio	1	it	http://www.wikidata.org/entity/Q152355	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	artigiano che realizza o ripara scarpe
 Vamba_Giam-Burrasca_1912.txt	generale	5	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Vamba	Giamburrasca	m	1912	1910_1920	militare appartenente alla più elevata categoria degli ufficiali
 Vamba_Giam-Burrasca_1912.txt	spia	8	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
 Vamba_Giam-Burrasca_1912.txt	palazzo	1	it	custom_265	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
@@ -65,7 +66,7 @@ Vamba_Giam-Burrasca_1912.txt	mulino	1	it	custom_582	custom	rural building (place
 Vamba_Giam-Burrasca_1912.txt	garzone	1	it	http://www.sapere.it/enciclopedia/garz%C3%B3ne.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	garzóne: sm. (f. -a) [sec. XIII; francese
 Vamba_Giam-Burrasca_1912.txt	pasticciere	6	it	http://www.wikidata.org/entity/Q1191511	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	vetturino	1	it	http://www.sapere.it/enciclopedia/vettur%C3%ACno.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	vetturìno: sm. [sec. XVI; da vettura].
-Vamba_Giam-Burrasca_1912.txt	chiesa	12	it	custom_470	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	chiesa	12	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	edificio religioso cristiano
 Vamba_Giam-Burrasca_1912.txt	altare	1	it	custom_445	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	bottega	16	it	custom_48	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	guardia	2	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
@@ -73,7 +74,8 @@ Vamba_Giam-Burrasca_1912.txt	salone	6	it	custom_714	custom	public (place)	Vamba	
 Vamba_Giam-Burrasca_1912.txt	muratore	5	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	persona specializzata nella costruzione di opere in muratura
 Vamba_Giam-Burrasca_1912.txt	commendatore	3	it	http://www.wikidata.org/entity/Q524980	wikidata	honorary title	Vamba	Giamburrasca	m	1912	1910_1920	grado onorifico
 Vamba_Giam-Burrasca_1912.txt	piazza	2	it	custom_700	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
-Vamba_Giam-Burrasca_1912.txt	fabbrica	2	it	custom_346	custom	industrial (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	ospedale	1	it	custom_681	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	fabbrica	2	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Vamba	Giamburrasca	m	1912	1910_1920	luogo di produzione o elaborazione di beni materiali
 Vamba_Giam-Burrasca_1912.txt	cavaliere	7	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	atleta che pratica lo sport dell'equitazione
 Vamba_Giam-Burrasca_1912.txt	anfiteatro	1	it	custom_601	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	cameriere	2	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	personale di servizio in luoghi di ristorazione o case prevate
@@ -85,7 +87,7 @@ Vamba_Giam-Burrasca_1912.txt	marchese	6	it	http://www.wikidata.org/entity/Q20972
 Vamba_Giam-Burrasca_1912.txt	inserviente	1	it	http://www.sapere.it/enciclopedia/inservi%C3%A8nte.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	inserviènte: sm. e f. [sec. XVIII; dal latino inservíens-entis; ppr. di inservīre; servire].
 Vamba_Giam-Burrasca_1912.txt	terrazza	4	it	custom_288	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	servitore	3	it	http://www.sapere.it/enciclopedia/servit%C3%B3re.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	servitóre: (anticamente
-Vamba_Giam-Burrasca_1912.txt	tempio	1	it	custom_552	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	struttura architettonica utilizzata come luogo di culto
 Vamba_Giam-Burrasca_1912.txt	collegio	57	it	custom_637	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	cortile	4	it	custom_644	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	basso	1	it	custom_175	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
@@ -102,7 +104,7 @@ Vamba_Giam-Burrasca_1912.txt	saggio	2	it	http://www.wikidata.org/entity/Q2624172
 Vamba_Giam-Burrasca_1912.txt	sguattero	15	it	http://www.sapere.it/enciclopedia/sgu%C3%A0ttero.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	sguàttero: sm. (f. -a.) [sec. XVI; dal longobardo
 Vamba_Giam-Burrasca_1912.txt	casalinga	9	it	http://www.sapere.it/enciclopedia/casalinga.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	casalinga:
 Vamba_Giam-Burrasca_1912.txt	dormitorio	7	it	custom_247	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
-Vamba_Giam-Burrasca_1912.txt	magazzino	2	it	custom_378	custom	industrial (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	magazzino	2	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	fisico	1	it	http://www.wikidata.org/entity/Q169470	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	scienziato che si occupa di fisica
 Vamba_Giam-Burrasca_1912.txt	impresa	2	it	custom_97	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	petroliere	1	it	http://www.sapere.it/enciclopedia/petroli%C3%A8re.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	petrolière: sm. [sec. XX; da petrolio; nel senso 2; dal francese
@@ -114,13 +116,13 @@ Vamba_Giam-Burrasca_1912.txt	catacomba	1	it	custom_464	custom	religious building
 Vamba_Giam-Burrasca_1912.txt	bottegaio	1	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
 Vamba_Giam-Burrasca_1912.txt	scolaro	1	it	http://www.wikidata.org/entity/Q2248623	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	pasticcere	1	it	http://www.wikidata.org/entity/Q6105867	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	colui che fa o vende dolciumi
-Vamba_Giam-Burrasca_1912.txt	pasticceria	3	it	custom_130	custom	commercial building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	pasticceria	3	it	http://www.wikidata.org/entity/Q3574069	wikidata	shop (place)	Vamba	Giamburrasca	m	1912	1910_1920	negozio per la vendita di dolciumi
 Vamba_Giam-Burrasca_1912.txt	sarta	1	it	http://www.sapere.it/enciclopedia/sarta.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	sarta: sf. [sec. XV; f. di sarto]. Donna che; in proprio o come lavoratrice dipendente; taglia e confeziona abiti; specialmente femminili.
 Vamba_Giam-Burrasca_1912.txt	inventore	2	it	http://www.wikidata.org/entity/Q205375	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	professione
 Vamba_Giam-Burrasca_1912.txt	manovale	1	it	http://www.sapere.it/enciclopedia/manovale.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	manovale: sm. [sec. XIII; variante ant. e popolare di manuale]. Operaio che esegue lavori per i quali basta la sola forza delle braccia e non è necessaria alcuna preparazione tecnica (trasporto; pulizia e simili). In particolare; l'aiutante del muratore che gli prepara...
 Vamba_Giam-Burrasca_1912.txt	imbianchino	1	it	http://www.wikidata.org/entity/Q288728	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	professione
 Vamba_Giam-Burrasca_1912.txt	riquadratura	1	it	http://www.wikidata.org/entity/Q2340797	wikidata	historical profession	Vamba	Giamburrasca	m	1912	1910_1920	
-Vamba_Giam-Burrasca_1912.txt	cimitero	1	it	custom_504	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Vamba	Giamburrasca	m	1912	1910_1920	luogo di sepoltura dei defunti
 Vamba_Giam-Burrasca_1912.txt	critico	1	it	http://www.wikidata.org/entity/Q6430706	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	poliziotto	1	it	http://www.sapere.it/enciclopedia/polizi%C3%B2tto.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	poliziòtto: sm. [sec. XIX; da polizia]. Agente di polizia: un gruppo di poliziotti; talora con valore spregiativo: maniere da poliziotto. Anche chi svolge indagini poliziesche: poliziotto privato; poliziotto dilettante. Con funzione di agg. inv.: cane poliziotto;...
 Vamba_Giam-Burrasca_1912.txt	becchino	1	it	http://www.sapere.it/enciclopedia/becchino.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	becchino: sm. [sec. XIV; da beccamorto]. Chi è addetto al seppellimento dei morti; necroforo: “Una maniera di beccamorti... che chiamar si facevano becchini” (Boccaccio).
@@ -128,6 +130,7 @@ Vamba_Giam-Burrasca_1912.txt	mercato	1	it	http://www.wikidata.org/entity/Q330284
 Vamba_Giam-Burrasca_1912.txt	tribuno	1	it	http://www.wikidata.org/entity/Q190401	wikidata	military rank	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	principe	1	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Vamba	Giamburrasca	m	1912	1910_1920	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
 Vamba_Giam-Burrasca_1912.txt	console	1	it	http://www.wikidata.org/entity/Q48804423	wikidata	military rank	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	abitazione	1	it	custom_164	custom	civil building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	comune	1	it	custom_639	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	commesso	1	it	http://www.wikidata.org/entity/Q5803091	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	negoziante	1	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
@@ -137,5 +140,6 @@ Vamba_Giam-Burrasca_1912.txt	centro	1	it	http://www.wikidata.org/entity/Q6877343
 Vamba_Giam-Burrasca_1912.txt	lettore	1	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	posizione accademica di rango inferiore al professore
 Vamba_Giam-Burrasca_1912.txt	professionista	1	it	http://www.sapere.it/enciclopedia/professionista.html	sapere	profession	Vamba	Giamburrasca	m	1912	1910_1920	professionista: sm. e f. (pl. m. -i) [sec. XIX; da professione].
 Vamba_Giam-Burrasca_1912.txt	usciere	1	it	http://www.wikidata.org/entity/Q2664461	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	persona che accoglie chi entra in un edificio residenziale; albergo o ufficio
-Vamba_Giam-Burrasca_1912.txt	esecutore testamentario	1	it	http://www.wikidata.org/entity/Q654437	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	casa di signore	2	it	custom_460	custom	religious building (place)	Vamba	Giamburrasca	m	1912	1910_1920	
 Vamba_Giam-Burrasca_1912.txt	casa di correzione	3	it	custom_624	custom	public (place)	Vamba	Giamburrasca	m	1912	1910_1920	
+Vamba_Giam-Burrasca_1912.txt	esecutore testamentario	1	it	http://www.wikidata.org/entity/Q654437	wikidata	profession	Vamba	Giamburrasca	m	1912	1910_1920	

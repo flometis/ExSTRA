@@ -10,14 +10,14 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	stanza	12	it	http://www.wikidata.org/entity
 Rovetta-Gerolamo_Casta-diva_1903.txt	diplomatico	2	it	http://www.wikidata.org/entity/Q193391	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	funzionario dello Stato
 Rovetta-Gerolamo_Casta-diva_1903.txt	stazione	3	it	custom_723	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	cocchiere	1	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	cappella	1	it	custom_458	custom	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	luogo destinato al culto religioso e legato a una struttura più grande
 Rovetta-Gerolamo_Casta-diva_1903.txt	villa	4	it	custom_296	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	vetturale	1	it	http://www.sapere.it/enciclopedia/vettur%C3%A0le.html	sapere	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	vetturàle: sm. [sec. XIII; da vettura]. Chi per mestiere trasporta merci con bestie da soma o carri; carrettiere.
 Rovetta-Gerolamo_Casta-diva_1903.txt	casolare	1	it	custom_570	custom	rural building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	centro	1	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	tipo di installazione
 Rovetta-Gerolamo_Casta-diva_1903.txt	locanda	3	it	custom_103	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	oratore	5	it	http://www.wikidata.org/entity/Q12859263	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	teatro	16	it	custom_733	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	teatro	16	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	luogo in cui avvengono rappresentazioni teatrali
 Rovetta-Gerolamo_Casta-diva_1903.txt	cameriere	3	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	personale di servizio in luoghi di ristorazione o case prevate
 Rovetta-Gerolamo_Casta-diva_1903.txt	pensione	2	it	custom_132	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	eccellenza	8	it	http://www.wikidata.org/entity/Q1067610	wikidata	honorary title	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
@@ -35,34 +35,36 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	capitano	2	it	http://www.wikidata.org/entit
 Rovetta-Gerolamo_Casta-diva_1903.txt	colonnello	1	it	http://www.wikidata.org/entity/Q3646855	wikidata	military rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	gradi militare di molti paesi slavofoni corrispondente a colonnello
 Rovetta-Gerolamo_Casta-diva_1903.txt	burattinaio	9	it	http://www.wikidata.org/entity/Q2629392	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	artista teatrale
 Rovetta-Gerolamo_Casta-diva_1903.txt	compagno	5	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	titolo onorifico in uso in molti ordinamenti
-Rovetta-Gerolamo_Casta-diva_1903.txt	baracca	7	it	custom_173	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	baracca	7	it	http://www.wikidata.org/entity/Q6502413	wikidata	house (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	piccolo riparo o abitazione
 Rovetta-Gerolamo_Casta-diva_1903.txt	sguattero	1	it	http://www.sapere.it/enciclopedia/sgu%C3%A0ttero.html	sapere	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	sguàttero: sm. (f. -a.) [sec. XVI; dal longobardo
 Rovetta-Gerolamo_Casta-diva_1903.txt	tenda	1	it	custom_286	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	capocomico	1	it	http://www.wikidata.org/entity/Q17994313	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	direttore artistico e legale di una compagnia teatrale
-Rovetta-Gerolamo_Casta-diva_1903.txt	giardino	7	it	custom_660	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	giardino	7	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	portiere	3	it	http://www.sapere.it/enciclopedia/porti%C3%A8re.html	sapere	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	portière: sm. (f. -a) [sec. XIV; dal francese portier].
 Rovetta-Gerolamo_Casta-diva_1903.txt	impiegato	1	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Rovetta-Gerolamo_Casta-diva_1903.txt	rudere	1	it	custom_277	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	castello	1	it	custom_232	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	cimitero	2	it	custom_504	custom	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	complesso architettonico fortificato tipico del Medioevo
+Rovetta-Gerolamo_Casta-diva_1903.txt	cimitero	2	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	luogo di sepoltura dei defunti
 Rovetta-Gerolamo_Casta-diva_1903.txt	ristorante	1	it	custom_141	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	deputato	2	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	membro di una assemblea legislativa
 Rovetta-Gerolamo_Casta-diva_1903.txt	veterinario	1	it	http://www.wikidata.org/entity/Q202883	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	professione
-Rovetta-Gerolamo_Casta-diva_1903.txt	studio	2	it	custom_728	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	studio	2	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	portinaio	4	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	lavoratore adibito alla cura e custodia di un edificio residenziale
 Rovetta-Gerolamo_Casta-diva_1903.txt	principessa	32	it	http://www.wikidata.org/entity/Q863048	wikidata	honorary title	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	titolo nobiliare
 Rovetta-Gerolamo_Casta-diva_1903.txt	industriale	2	it	http://www.wikidata.org/entity/Q6606110	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	proprietario o gestore di una fabbrica o industria manifatturiera
-Rovetta-Gerolamo_Casta-diva_1903.txt	fabbrica	1	it	custom_346	custom	industrial (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	fabbrica	1	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	luogo di produzione o elaborazione di beni materiali
 Rovetta-Gerolamo_Casta-diva_1903.txt	marchese	13	it	http://www.wikidata.org/entity/Q209726	wikidata	noble rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	titolo nobiliare
 Rovetta-Gerolamo_Casta-diva_1903.txt	banchiere	8	it	http://www.wikidata.org/entity/Q806798	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	proprietario o dirigente di una banca
 Rovetta-Gerolamo_Casta-diva_1903.txt	impresario	1	it	http://www.wikidata.org/entity/Q2961975	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona responsabile per la gestione di un'azienda o di una sua parte
-Rovetta-Gerolamo_Casta-diva_1903.txt	prefetto	2	it	custom_706	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	prefetto	2	it	http://www.wikidata.org/entity/Q5183538	wikidata	military rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	ufficiale dell'Antica Roma; solitamente appartenente all'ordine equestre
 Rovetta-Gerolamo_Casta-diva_1903.txt	giornalista	1	it	http://www.wikidata.org/entity/Q1930187	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona che si occupa di scoprire; analizzare; descrivere e scegliere notizie
 Rovetta-Gerolamo_Casta-diva_1903.txt	gentiluomo	7	it	http://www.wikidata.org/entity/Q749212	wikidata	honorary title	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	qualifica e status attribuita a persone
 Rovetta-Gerolamo_Casta-diva_1903.txt	questura	4	it	custom_710	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	maggiordomo	22	it	http://www.wikidata.org/entity/Q833899	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	responsabile della servitù in una corte o casa signorile
+Rovetta-Gerolamo_Casta-diva_1903.txt	casamento	1	it	custom_219	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	sartoria	2	it	custom_149	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	ballerina	4	it	http://www.wikidata.org/entity/Q4070300	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	caffè	11	it	custom_50	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	giocatore	1	it	http://www.wikidata.org/entity/Q24114117	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona che gioca d'azzardo; professionalmente o ricreativamente
 Rovetta-Gerolamo_Casta-diva_1903.txt	ufficiale	1	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	maschera	1	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	figura professionale in ambito teatrale
@@ -78,7 +80,7 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	chiesuola	4	it	custom_501	custom	religious 
 Rovetta-Gerolamo_Casta-diva_1903.txt	dottore	10	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	titolo accademico
 Rovetta-Gerolamo_Casta-diva_1903.txt	fiera	1	it	custom_651	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	salone	1	it	custom_714	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	chiosco	1	it	custom_72	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	chiosco	1	it	http://www.wikidata.org/entity/Q693369	wikidata	facility (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	piccolo edificio
 Rovetta-Gerolamo_Casta-diva_1903.txt	bottegaio	1	it	http://www.sapere.it/enciclopedia/botteg%C3%A0io.html	sapere	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	bottegàio: sm. (f. -a) [sec. XVI; da bottega]. Chi possiede e gestisce una bottega; specialmente di generi alimentari. Fig. spregiativo; speculatore; trafficante: i bottegai della cultura. Talvolta con valore di agg.; gretto; volgare; venale: rivelò la sua anima...
 Rovetta-Gerolamo_Casta-diva_1903.txt	bar	1	it	custom_43	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	alloggio	1	it	custom_167	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
@@ -87,7 +89,7 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	contadino	2	it	http://www.sapere.it/enciclo
 Rovetta-Gerolamo_Casta-diva_1903.txt	filosofo	1	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona che si occupa di filosofia
 Rovetta-Gerolamo_Casta-diva_1903.txt	municipio	1	it	custom_676	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	edificio	2	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	costruzione edilizia realizzata dall'uomo
-Rovetta-Gerolamo_Casta-diva_1903.txt	chiesa	11	it	custom_470	custom	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	chiesa	11	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	edificio religioso cristiano
 Rovetta-Gerolamo_Casta-diva_1903.txt	chalet	1	it	custom_571	custom	rural building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	cacciatore	1	it	http://www.wikidata.org/entity/Q1714828	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona che caccia
 Rovetta-Gerolamo_Casta-diva_1903.txt	cabina	1	it	custom_181	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
@@ -97,6 +99,7 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	cornetta	1	it	http://www.wikidata.org/entit
 Rovetta-Gerolamo_Casta-diva_1903.txt	ufficio	1	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	stanza in cui delle persone svolgono degli impieghi
 Rovetta-Gerolamo_Casta-diva_1903.txt	fabbro	1	it	http://www.wikidata.org/entity/Q1639825	wikidata	historical profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	professione
 Rovetta-Gerolamo_Casta-diva_1903.txt	mandriano	2	it	http://www.wikidata.org/entity/Q12059906	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona che si occupa di custodire il bestiame
+Rovetta-Gerolamo_Casta-diva_1903.txt	abitazione	1	it	custom_164	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	abituro	1	it	custom_166	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	covo	1	it	custom_242	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	maître	1	it	http://www.wikidata.org/entity/Q1634473	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
@@ -105,7 +108,7 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	ricetto	1	it	http://www.wikidata.org/entity
 Rovetta-Gerolamo_Casta-diva_1903.txt	seminario	5	it	http://www.wikidata.org/entity/Q233324	wikidata	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	istituto per l'insegnamento superiore della teologia
 Rovetta-Gerolamo_Casta-diva_1903.txt	monsignore	1	it	http://www.wikidata.org/entity/Q854905	wikidata	noble rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	fantesca	3	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	fantésca: sf. [sec. XIV; da fante sul modello del greco
-Rovetta-Gerolamo_Casta-diva_1903.txt	oratorio	1	it	custom_528	custom	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	oratorio	1	it	http://www.wikidata.org/entity/Q3884394	wikidata	religious building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	edificio destinato alla pastorale giovanile della Chiesa cattolica
 Rovetta-Gerolamo_Casta-diva_1903.txt	pastore	1	it	http://www.wikidata.org/entity/Q81710	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona che guida e si prende cura di un gregge di pecore o altri animali
 Rovetta-Gerolamo_Casta-diva_1903.txt	poeta	2	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	scrittore di poesie
 Rovetta-Gerolamo_Casta-diva_1903.txt	musicista	1	it	http://www.sapere.it/enciclopedia/musicista.html	sapere	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	musicista: sm. e f. (pl. m. -i) [sec. XIV; da musica]. Compositore di musica; anche esecutore o suonatore di uno strumento musicale.
@@ -120,10 +123,11 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	sarta	1	it	http://www.sapere.it/enciclopedi
 Rovetta-Gerolamo_Casta-diva_1903.txt	comune	1	it	custom_639	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	predicatore	2	it	http://www.wikidata.org/entity/Q432386	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	appartamento	2	it	custom_169	custom	civil building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	parco	1	it	custom_694	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	officina	1	it	custom_387	custom	industrial (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	opificio	1	it	custom_392	custom	industrial (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	parco	1	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	area protetta o per ricreazione
+Rovetta-Gerolamo_Casta-diva_1903.txt	officina	1	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	luogo di lavoro
+Rovetta-Gerolamo_Casta-diva_1903.txt	opificio	1	it	http://www.wikidata.org/entity/Q3884173	wikidata	factory (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	fabbrica o stabilimento industriale all'interno del quale avviene la trasformazione di una materia prima in un prodotto finito
 Rovetta-Gerolamo_Casta-diva_1903.txt	caserma	1	it	custom_10	custom	military (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	industria	1	it	custom_358	custom	industrial (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	piazza	1	it	custom_700	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	tappezzeria	1	it	custom_158	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	tribuno	1	it	http://www.wikidata.org/entity/Q190401	wikidata	military rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
@@ -131,9 +135,10 @@ Rovetta-Gerolamo_Casta-diva_1903.txt	rappresentante	2	it	http://www.wikidata.org
 Rovetta-Gerolamo_Casta-diva_1903.txt	funzionario	1	it	http://www.wikidata.org/entity/Q212238	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	persona titolare di un ufficio nell'ambito di un ente pubblico
 Rovetta-Gerolamo_Casta-diva_1903.txt	sede	1	it	custom_719	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	giudice	1	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	sovrano in lingua volgare sarda
+Rovetta-Gerolamo_Casta-diva_1903.txt	giardino pubblico	1	it	custom_659	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	cassa di risparmio	1	it	custom_69	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
+Rovetta-Gerolamo_Casta-diva_1903.txt	ufficio postale	1	it	custom_736	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	buca di suggeritore	1	it	http://www.wikidata.org/entity/Q1115316	wikidata	workplace (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	aiutante di campo	1	it	http://www.wikidata.org/entity/Q60983946	wikidata	military rank	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	Comandante di Plotone (Brigate Nere 1944)
 Rovetta-Gerolamo_Casta-diva_1903.txt	di il	2	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
 Rovetta-Gerolamo_Casta-diva_1903.txt	dama di compagnia	1	it	http://www.wikidata.org/entity/Q715222	wikidata	profession	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	cassa di risparmio	1	it	custom_69	custom	commercial building (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	
-Rovetta-Gerolamo_Casta-diva_1903.txt	ufficio postale	1	it	custom_736	custom	public (place)	Rovetta Gerolamo	Casta Diva	m	1903	1900_1909	

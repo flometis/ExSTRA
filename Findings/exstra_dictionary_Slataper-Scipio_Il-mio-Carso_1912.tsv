@@ -3,16 +3,16 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	casupola	1	it	custom_233	custom	civil buil
 Slataper-Scipio_Il-mio-Carso_1912.txt	casa	50	it	custom_184	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	terrazza	2	it	custom_288	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	cantina	5	it	custom_317	custom	industrial (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	giardino	4	it	custom_660	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	giardino	4	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	signore	11	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Slataper Scipio	Il mio Carso	m	1912	1910_1920	Titolo di nobiltà italiana
 Slataper-Scipio_Il-mio-Carso_1912.txt	centro	2	it	http://www.wikidata.org/entity/Q68773434	wikidata	facility (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	tipo di installazione
 Slataper-Scipio_Il-mio-Carso_1912.txt	fortezza	1	it	custom_13	custom	military (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	imperatore	1	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Slataper Scipio	Il mio Carso	m	1912	1910_1920	tipo di monarca
-Slataper-Scipio_Il-mio-Carso_1912.txt	tempio	3	it	custom_552	custom	religious building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	tempio	3	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	struttura architettonica utilizzata come luogo di culto
 Slataper-Scipio_Il-mio-Carso_1912.txt	capo	24	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	posizione all'interno di una organizzazione
 Slataper-Scipio_Il-mio-Carso_1912.txt	compagno	15	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Slataper Scipio	Il mio Carso	m	1912	1910_1920	titolo onorifico in uso in molti ordinamenti
 Slataper-Scipio_Il-mio-Carso_1912.txt	club	1	it	custom_636	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	palafitta	4	it	custom_584	custom	rural building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	palafitta	4	it	http://www.wikidata.org/entity/Q33565	wikidata	house (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	costruzioni in legno su pali a fiumi; nei laghi; nei laghi; nelle paludi o in mare
 Slataper-Scipio_Il-mio-Carso_1912.txt	direttore	3	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 Slataper-Scipio_Il-mio-Carso_1912.txt	muratore	3	it	http://www.wikidata.org/entity/Q327321	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	persona specializzata nella costruzione di opere in muratura
 Slataper-Scipio_Il-mio-Carso_1912.txt	meccanico	2	it	http://www.wikidata.org/entity/Q6804564	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	ingegnere o scienziato che si occupa di meccanica
@@ -37,6 +37,7 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	marinaio	1	it	http://www.wikidata.org/enti
 Slataper-Scipio_Il-mio-Carso_1912.txt	pompiere	2	it	http://www.sapere.it/enciclopedia/pompi%C3%A8re.html	sapere	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	pompière: sm. [sec. XIX; dal francese
 Slataper-Scipio_Il-mio-Carso_1912.txt	poeta	4	it	http://www.wikidata.org/entity/Q49757	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	scrittore di poesie
 Slataper-Scipio_Il-mio-Carso_1912.txt	guardia	5	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	caffè	8	it	custom_50	custom	commercial building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	piazza	4	it	custom_700	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	casotto	1	it	custom_231	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	portinaio	2	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	lavoratore adibito alla cura e custodia di un edificio residenziale
@@ -50,8 +51,9 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	carbonaio	4	it	http://www.wikidata.org/ent
 Slataper-Scipio_Il-mio-Carso_1912.txt	diga	1	it	custom_342a	custom	industrial (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	commerciante	3	it	http://www.sapere.it/enciclopedia/commerciante.html	sapere	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	commerciante: agg. e sm. e f. [sec. XVIII; ppr. di commerciare]. Chi; per professione; esercita il commercio: commerciante all'ingrosso; grossista; commerciante al minuto; dettagliante.
 Slataper-Scipio_Il-mio-Carso_1912.txt	soldato	2	it	http://www.wikidata.org/entity/Q4991371	wikidata	military rank	Slataper Scipio	Il mio Carso	m	1912	1910_1920	persona che si è arruolata nelle forze armate di un paese sovrano
-Slataper-Scipio_Il-mio-Carso_1912.txt	officina	1	it	custom_387	custom	industrial (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	teatro	1	it	custom_733	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	officina	1	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	luogo di lavoro
+Slataper-Scipio_Il-mio-Carso_1912.txt	casamento	3	it	custom_219	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	teatro	1	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	luogo in cui avvengono rappresentazioni teatrali
 Slataper-Scipio_Il-mio-Carso_1912.txt	custode	2	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
 Slataper-Scipio_Il-mio-Carso_1912.txt	deputato	1	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	membro di una assemblea legislativa
 Slataper-Scipio_Il-mio-Carso_1912.txt	ufficio	1	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	stanza in cui delle persone svolgono degli impieghi
@@ -60,7 +62,7 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	collegio	2	it	custom_637	custom	public (pl
 Slataper-Scipio_Il-mio-Carso_1912.txt	mercante	1	it	http://www.wikidata.org/entity/Q215536	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	persona che si occupa di acquistare e rivendere (ad un prezzo maggiore) un determinato bene o prodotto
 Slataper-Scipio_Il-mio-Carso_1912.txt	guida	1	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	impiegato	1	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
-Slataper-Scipio_Il-mio-Carso_1912.txt	castello	1	it	custom_232	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	complesso architettonico fortificato tipico del Medioevo
 Slataper-Scipio_Il-mio-Carso_1912.txt	tenda	2	it	custom_286	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	cocchiere	1	it	http://www.wikidata.org/entity/Q1221610	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	stazione	3	it	custom_723	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
@@ -70,7 +72,7 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	giornalista	1	it	http://www.wikidata.org/e
 Slataper-Scipio_Il-mio-Carso_1912.txt	attore	1	it	http://www.wikidata.org/entity/Q33999	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	persona che recita in commedie o opere drammatiche al cinema; alla televisione; al teatro o alla radio
 Slataper-Scipio_Il-mio-Carso_1912.txt	redazione	3	it	http://www.wikidata.org/entity/Q1446173	wikidata	workplace (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	insieme dei giornalisti che lavorano per una testata giornalistica o un'emittente televisiva o radiofonica
 Slataper-Scipio_Il-mio-Carso_1912.txt	critico	1	it	http://www.wikidata.org/entity/Q6430706	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	parco	1	it	custom_694	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	parco	1	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	area protetta o per ricreazione
 Slataper-Scipio_Il-mio-Carso_1912.txt	tipografia	1	it	custom_434	custom	industrial (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	tana	1	it	custom_285	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	cacciatore	1	it	http://www.wikidata.org/entity/Q1714828	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	persona che caccia
@@ -78,17 +80,17 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	stalla	1	it	custom_591	custom	rural buildi
 Slataper-Scipio_Il-mio-Carso_1912.txt	osteria	1	it	custom_123	custom	commercial building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	albergo	2	it	custom_32	custom	commercial building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	basso	2	it	custom_175	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	cappella	1	it	custom_458	custom	religious building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	studio	2	it	custom_728	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	cappella	1	it	http://www.wikidata.org/entity/Q108325	wikidata	religious building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	luogo destinato al culto religioso e legato a una struttura più grande
+Slataper-Scipio_Il-mio-Carso_1912.txt	studio	2	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	orologiaio	1	it	http://www.wikidata.org/entity/Q2700922	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	negozio	1	it	custom_108	custom	commercial building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	negozio	1	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	luogo in cui si vendono merci o servizi
 Slataper-Scipio_Il-mio-Carso_1912.txt	palazzo	1	it	custom_265	custom	civil building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	gelataio	1	it	http://www.sapere.it/enciclopedia/gelat%C3%A0io.html	sapere	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	gelatàio: sm. [sec. XIX; da gelato]. Chi fa e vende gelati.
 Slataper-Scipio_Il-mio-Carso_1912.txt	membro	1	it	http://www.wikidata.org/entity/Q59820617	wikidata	honorary title	Slataper Scipio	Il mio Carso	m	1912	1910_1920	titolo onorifico in uso in molti ordinamenti
 Slataper-Scipio_Il-mio-Carso_1912.txt	legnaiolo	1	it	http://www.sapere.it/enciclopedia/legnai%C3%B2lo.html	sapere	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	legnaiòlo: (lett. legnaiuòlo); sm. [sec. XIV; da legna]. Lavoratore del legno; specialmente chi esegue lavori grossolani di falegnameria.
 Slataper-Scipio_Il-mio-Carso_1912.txt	piantagione	1	it	http://www.wikidata.org/entity/Q188913	wikidata	rural building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	negoziante	1	it	http://www.wikidata.org/entity/Q7501153	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	commerciante che possiede o gestisce un esercizio di vendita al dettaglio
-Slataper-Scipio_Il-mio-Carso_1912.txt	fabbrica	1	it	custom_346	custom	industrial (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	fabbrica	1	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	luogo di produzione o elaborazione di beni materiali
 Slataper-Scipio_Il-mio-Carso_1912.txt	maestro	1	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	letterato	1	it	http://www.wikidata.org/entity/Q6673651	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	chi lavora in letteratura
 Slataper-Scipio_Il-mio-Carso_1912.txt	anfiteatro	1	it	custom_601	custom	public (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
@@ -97,8 +99,9 @@ Slataper-Scipio_Il-mio-Carso_1912.txt	torre	1	it	custom_290	custom	civil buildin
 Slataper-Scipio_Il-mio-Carso_1912.txt	ama	1	it	http://www.wikidata.org/entity/Q1577970	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	pescatrici subacquee in apnea tradizionali giapponesi
 Slataper-Scipio_Il-mio-Carso_1912.txt	fabbro	1	it	http://www.wikidata.org/entity/Q1639825	wikidata	historical profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	professione
 Slataper-Scipio_Il-mio-Carso_1912.txt	pilota	1	it	http://www.wikidata.org/entity/Q475604	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
-Slataper-Scipio_Il-mio-Carso_1912.txt	magazzino	2	it	custom_378	custom	industrial (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	magazzino	2	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	carrettiere	1	it	http://www.wikidata.org/entity/Q1473046	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
+Slataper-Scipio_Il-mio-Carso_1912.txt	piazza di arma	1	it	custom_21	custom	military (place)	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	direttore di orchestra	1	it	http://www.wikidata.org/entity/Q158852	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	persona che dirige un gruppo musicale durante un'esibizione
 Slataper-Scipio_Il-mio-Carso_1912.txt	critico teatrale	1	it	http://www.wikidata.org/entity/Q17337766	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	
 Slataper-Scipio_Il-mio-Carso_1912.txt	guardiano notturno	1	it	http://www.wikidata.org/entity/Q7973168	wikidata	profession	Slataper Scipio	Il mio Carso	m	1912	1910_1920	

@@ -16,7 +16,7 @@ Tartufari-Clarice_Maestra_1887.txt	usciere	3	it	http://www.wikidata.org/entity/Q
 Tartufari-Clarice_Maestra_1887.txt	deputato	1	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	membro di una assemblea legislativa
 Tartufari-Clarice_Maestra_1887.txt	commendatore	4	it	http://www.wikidata.org/entity/Q524980	wikidata	honorary title	Tartufari. Clarice	Maestra	f	1887	1880_1889	grado onorifico
 Tartufari-Clarice_Maestra_1887.txt	stazione	3	it	custom_723	custom	public (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
-Tartufari-Clarice_Maestra_1887.txt	castello	2	it	custom_232	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
+Tartufari-Clarice_Maestra_1887.txt	castello	2	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	complesso architettonico fortificato tipico del Medioevo
 Tartufari-Clarice_Maestra_1887.txt	impiegato	1	it	http://www.wikidata.org/entity/Q738142	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	lavoratore subordinato che svolge una prestazione prevalentemente intellettuale all'interno di un ufficio
 Tartufari-Clarice_Maestra_1887.txt	contadino	2	it	http://www.sapere.it/enciclopedia/contadino.html	sapere	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	contadino: sm. e agg. [sec. XIV; da contado].
 Tartufari-Clarice_Maestra_1887.txt	compagno	2	it	http://www.wikidata.org/entity/Q59820483	wikidata	honorary title	Tartufari. Clarice	Maestra	f	1887	1880_1889	titolo onorifico in uso in molti ordinamenti
@@ -29,13 +29,13 @@ Tartufari-Clarice_Maestra_1887.txt	garzone	1	it	http://www.sapere.it/enciclopedi
 Tartufari-Clarice_Maestra_1887.txt	re	4	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Tartufari. Clarice	Maestra	f	1887	1880_1889	titolo nobiliare maschile
 Tartufari-Clarice_Maestra_1887.txt	dimora	3	it	custom_245	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	prigione	1	it	custom_707	custom	public (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
-Tartufari-Clarice_Maestra_1887.txt	chiesa	3	it	custom_470	custom	religious building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
+Tartufari-Clarice_Maestra_1887.txt	chiesa	3	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	edificio religioso cristiano
 Tartufari-Clarice_Maestra_1887.txt	villa	2	it	custom_296	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
-Tartufari-Clarice_Maestra_1887.txt	giardino	2	it	custom_660	custom	public (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
+Tartufari-Clarice_Maestra_1887.txt	giardino	2	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	gentiluomo	1	it	http://www.wikidata.org/entity/Q749212	wikidata	honorary title	Tartufari. Clarice	Maestra	f	1887	1880_1889	qualifica e status attribuita a persone
 Tartufari-Clarice_Maestra_1887.txt	altare	1	it	custom_445	custom	religious building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	basso	1	it	custom_175	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
-Tartufari-Clarice_Maestra_1887.txt	residenza	2	it	custom_272	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
+Tartufari-Clarice_Maestra_1887.txt	residenza	2	it	http://www.wikidata.org/entity/Q7743	wikidata	house (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	luogo in cui la persona ha la dimora abituale
 Tartufari-Clarice_Maestra_1887.txt	commissionario	14	it	http://www.wikidata.org/entity/Q323336	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	appartamento	1	it	custom_169	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	albergo	2	it	custom_32	custom	commercial building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
@@ -53,9 +53,11 @@ Tartufari-Clarice_Maestra_1887.txt	attore	9	it	http://www.wikidata.org/entity/Q3
 Tartufari-Clarice_Maestra_1887.txt	corte	1	it	custom_240	custom	civil building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	interprete	1	it	http://www.wikidata.org/entity/Q11085831	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	persona che traduce oralmente da una lingua di partenza verso una lingua d'arrivo
 Tartufari-Clarice_Maestra_1887.txt	cameriere	1	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	personale di servizio in luoghi di ristorazione o case prevate
+Tartufari-Clarice_Maestra_1887.txt	caffè	1	it	custom_50	custom	commercial building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	direttore	2	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
 Tartufari-Clarice_Maestra_1887.txt	ballerino	1	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	persona che pratica l'arte del balletto
 Tartufari-Clarice_Maestra_1887.txt	scolaro	1	it	http://www.wikidata.org/entity/Q2248623	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	
-Tartufari-Clarice_Maestra_1887.txt	tempio	1	it	custom_552	custom	religious building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
+Tartufari-Clarice_Maestra_1887.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	struttura architettonica utilizzata come luogo di culto
 Tartufari-Clarice_Maestra_1887.txt	maestro	1	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Tartufari. Clarice	Maestra	f	1887	1880_1889	
+Tartufari-Clarice_Maestra_1887.txt	casa di signore	1	it	custom_460	custom	religious building (place)	Tartufari. Clarice	Maestra	f	1887	1880_1889	
 Tartufari-Clarice_Maestra_1887.txt	dama di compagnia	1	it	http://www.wikidata.org/entity/Q715222	wikidata	profession	Tartufari. Clarice	Maestra	f	1887	1880_1889	

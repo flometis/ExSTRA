@@ -6,11 +6,11 @@ Neera_Un-nido_1880.txt	domicilio	1	it	custom_246	custom	civil building (place)	N
 Neera_Un-nido_1880.txt	mercante	1	it	http://www.wikidata.org/entity/Q215536	wikidata	profession	Neera	Una passione	f	1880	1880_1889	persona che si occupa di acquistare e rivendere (ad un prezzo maggiore) un determinato bene o prodotto
 Neera_Un-nido_1880.txt	casa	63	it	custom_184	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	matematico	1	it	http://www.wikidata.org/entity/Q170790	wikidata	profession	Neera	Una passione	f	1880	1880_1889	professione
-Neera_Un-nido_1880.txt	teatro	2	it	custom_733	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	teatro	2	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Neera	Una passione	f	1880	1880_1889	luogo in cui avvengono rappresentazioni teatrali
 Neera_Un-nido_1880.txt	portinaio	1	it	http://www.wikidata.org/entity/Q1650716	wikidata	profession	Neera	Una passione	f	1880	1880_1889	lavoratore adibito alla cura e custodia di un edificio residenziale
 Neera_Un-nido_1880.txt	tana	3	it	custom_285	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	corte	7	it	custom_240	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
-Neera_Un-nido_1880.txt	fabbrica	2	it	custom_346	custom	industrial (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	fabbrica	2	it	http://www.wikidata.org/entity/Q83405	wikidata	facility (place)	Neera	Una passione	f	1880	1880_1889	luogo di produzione o elaborazione di beni materiali
 Neera_Un-nido_1880.txt	portalettere	2	it	http://www.sapere.it/enciclopedia/portal%C3%A8ttere.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	portalèttere: sm. e f. inv. [sec. XVI; dall'impt. di portare+lettera]. Pubblico impiegato; dipendente dal Ministero delle Comunicazioni; che ha il compito di recapitare a domicilio le corrispondenze; epistolari e non epistolari (per esempio cartoline; pacchi; campioni senza...
 Neera_Un-nido_1880.txt	pizzicagnolo	2	it	http://www.sapere.it/enciclopedia/pizzic%C3%A0gnolo.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	pizzicàgnolo: (romanesco pizzicaròlo); sm. (f. -a) [sec. XIII; da pizzicare; in quanto venditore di cibi che pizzicano]. Venditore di salumi; formaggi; ecc.; salumiere.
 Neera_Un-nido_1880.txt	serva	4	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	sèrva: sf. [sec. XIV; f. di servo].
@@ -35,7 +35,7 @@ Neera_Un-nido_1880.txt	poeta	19	it	http://www.wikidata.org/entity/Q49757	wikidat
 Neera_Un-nido_1880.txt	medico	5	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Neera_Un-nido_1880.txt	stanza	2	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Neera	Una passione	f	1880	1880_1889	ambiente interno di un edificio; ad uso abitazione o ufficio
 Neera_Un-nido_1880.txt	stella	2	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Neera	Una passione	f	1880	1880_1889	artista del mondo dello spettacolo che gode di molta popolarità
-Neera_Un-nido_1880.txt	giardino	8	it	custom_660	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	giardino	8	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	stazione	3	it	custom_723	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	maestro	1	it	http://www.wikidata.org/entity/Q59389180	wikidata	noble rank	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	mulino	2	it	custom_582	custom	rural building (place)	Neera	Una passione	f	1880	1880_1889	
@@ -46,11 +46,12 @@ Neera_Un-nido_1880.txt	corrispondente	1	it	http://www.wikidata.org/entity/Q35892
 Neera_Un-nido_1880.txt	villa	1	it	custom_296	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	cameriere	1	it	http://www.wikidata.org/entity/Q157195	wikidata	profession	Neera	Una passione	f	1880	1880_1889	personale di servizio in luoghi di ristorazione o case prevate
 Neera_Un-nido_1880.txt	sultana	1	it	http://www.wikidata.org/entity/Q2300062	wikidata	honorary title	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	caffè	4	it	custom_50	custom	commercial building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	sarta	1	it	http://www.sapere.it/enciclopedia/sarta.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	sarta: sf. [sec. XV; f. di sarto]. Donna che; in proprio o come lavoratrice dipendente; taglia e confeziona abiti; specialmente femminili.
 Neera_Un-nido_1880.txt	appartamento	1	it	custom_169	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	dimora	1	it	custom_245	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
-Neera_Un-nido_1880.txt	studio	3	it	custom_728	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
-Neera_Un-nido_1880.txt	chiesa	9	it	custom_470	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	studio	3	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	chiesa	9	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Neera	Una passione	f	1880	1880_1889	edificio religioso cristiano
 Neera_Un-nido_1880.txt	pastore	1	it	http://www.wikidata.org/entity/Q81710	wikidata	profession	Neera	Una passione	f	1880	1880_1889	persona che guida e si prende cura di un gregge di pecore o altri animali
 Neera_Un-nido_1880.txt	mugnaio	2	it	http://www.wikidata.org/entity/Q694116	wikidata	profession	Neera	Una passione	f	1880	1880_1889	persona che macina grano o granaglie in un mulino per produrre farine
 Neera_Un-nido_1880.txt	castellano	2	it	http://www.wikidata.org/entity/Q1505781	wikidata	profession	Neera	Una passione	f	1880	1880_1889	proprietario o custode di un castello
@@ -69,7 +70,7 @@ Neera_Un-nido_1880.txt	cavaliere	1	it	http://www.wikidata.org/entity/Q2730732	wi
 Neera_Un-nido_1880.txt	eccellenza	1	it	http://www.wikidata.org/entity/Q1067610	wikidata	honorary title	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	cortile	5	it	custom_644	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	pollaio	4	it	custom_586	custom	rural building (place)	Neera	Una passione	f	1880	1880_1889	
-Neera_Un-nido_1880.txt	officina	1	it	custom_387	custom	industrial (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	officina	1	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	Neera	Una passione	f	1880	1880_1889	luogo di lavoro
 Neera_Un-nido_1880.txt	allevatore	1	it	http://www.wikidata.org/entity/Q1368409	wikidata	profession	Neera	Una passione	f	1880	1880_1889	professione
 Neera_Un-nido_1880.txt	dottore	3	it	http://www.wikidata.org/entity/Q4618975	wikidata	honorary title	Neera	Una passione	f	1880	1880_1889	titolo accademico
 Neera_Un-nido_1880.txt	tugurio	1	it	custom_294	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
@@ -79,16 +80,18 @@ Neera_Un-nido_1880.txt	regina	2	it	http://www.wikidata.org/entity/Q16511993	wiki
 Neera_Un-nido_1880.txt	palazzo	1	it	custom_265	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	massaia	2	it	http://www.sapere.it/enciclopedia/mass%C3%A0ia.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	massàia: sf. [sec. XIV; f. di massaio].
 Neera_Un-nido_1880.txt	servetta	1	it	http://www.sapere.it/enciclopedia/serv%C3%A9tta.html	sapere	profession	Neera	Una passione	f	1880	1880_1889	servétta: sf. [sec. XVII; dim. di serva].
-Neera_Un-nido_1880.txt	tempio	1	it	custom_552	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Neera	Una passione	f	1880	1880_1889	struttura architettonica utilizzata come luogo di culto
 Neera_Un-nido_1880.txt	padiglione	2	it	custom_687	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
-Neera_Un-nido_1880.txt	cimitero	1	it	custom_504	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Neera	Una passione	f	1880	1880_1889	luogo di sepoltura dei defunti
 Neera_Un-nido_1880.txt	consorte	2	it	http://www.wikidata.org/entity/Q5784340	wikidata	noble rank	Neera	Una passione	f	1880	1880_1889	coniuge del monarca
 Neera_Un-nido_1880.txt	prevosto	1	it	http://www.wikidata.org/entity/Q756215	wikidata	ecclesiastical occupation	Neera	Una passione	f	1880	1880_1889	titolo presbiterale e prelatizio
 Neera_Un-nido_1880.txt	collegio	1	it	custom_637	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
-Neera_Un-nido_1880.txt	castello	1	it	custom_232	custom	civil building (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	castello	1	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Neera	Una passione	f	1880	1880_1889	complesso architettonico fortificato tipico del Medioevo
 Neera_Un-nido_1880.txt	avvocato	1	it	http://www.wikidata.org/entity/Q40348	wikidata	profession	Neera	Una passione	f	1880	1880_1889	professione svolta in ambito giuridico
 Neera_Un-nido_1880.txt	editore	1	it	http://www.wikidata.org/entity/Q2516866	wikidata	profession	Neera	Una passione	f	1880	1880_1889	persona che si occupa di pubblicare libri
+Neera_Un-nido_1880.txt	ospedale	1	it	custom_681	custom	public (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	cella	1	it	custom_467	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	campanile	1	it	custom_456	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	altare	1	it	custom_445	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
+Neera_Un-nido_1880.txt	casa di signore	4	it	custom_460	custom	religious building (place)	Neera	Una passione	f	1880	1880_1889	
 Neera_Un-nido_1880.txt	primo viola	1	it	http://www.wikidata.org/entity/Q64169184	wikidata	profession	Neera	Una passione	f	1880	1880_1889	professione; leader della prima sezione di viola di un'orchestra

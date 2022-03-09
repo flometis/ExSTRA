@@ -1,5 +1,5 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
-Righetti-Carlo_La-Scapigliatura_1862.txt	studio	11	it	custom_728	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	studio	11	it	http://www.wikidata.org/entity/Q1759167	wikidata	workplace (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	manicomio	1	it	custom_672	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	maestra	1	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	foro	1	it	custom_654	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
@@ -8,6 +8,7 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	duca	1	it	http://www.wikidata.org/entit
 Righetti-Carlo_La-Scapigliatura_1862.txt	servitore	2	it	http://www.sapere.it/enciclopedia/servit%C3%B3re.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	servitóre: (anticamente
 Righetti-Carlo_La-Scapigliatura_1862.txt	signore	57	it	http://www.wikidata.org/entity/Q57979877	wikidata	noble rank	Righetti Carlo	La scapigliatura	m	1862	1860_1869	Titolo di nobiltà italiana
 Righetti-Carlo_La-Scapigliatura_1862.txt	cavaliere	6	it	http://www.wikidata.org/entity/Q2730732	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	atleta che pratica lo sport dell'equitazione
+Righetti-Carlo_La-Scapigliatura_1862.txt	industria	1	it	custom_358	custom	industrial (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	spia	3	it	http://www.wikidata.org/entity/Q9352089	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	soggetto atto a praticare l'attività di spionaggio per conto di agenzie governative
 Righetti-Carlo_La-Scapigliatura_1862.txt	casa	131	it	custom_184	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	bottega	11	it	custom_48	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
@@ -17,7 +18,7 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	chirurgo	3	it	http://www.sapere.it/enci
 Righetti-Carlo_La-Scapigliatura_1862.txt	fantesca	2	it	http://www.sapere.it/enciclopedia/fant%C3%A9sca.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	fantésca: sf. [sec. XIV; da fante sul modello del greco
 Righetti-Carlo_La-Scapigliatura_1862.txt	serva	2	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	sèrva: sf. [sec. XIV; f. di servo].
 Righetti-Carlo_La-Scapigliatura_1862.txt	capo	67	it	http://www.wikidata.org/entity/Q20920693	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	posizione all'interno di una organizzazione
-Righetti-Carlo_La-Scapigliatura_1862.txt	chiesa	6	it	custom_470	custom	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	chiesa	6	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	edificio religioso cristiano
 Righetti-Carlo_La-Scapigliatura_1862.txt	medico	5	it	http://www.sapere.it/enciclopedia/m%C3%A8dico.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	mèdico: agg. e sm. (pl. m. -ci) [sec. XIII; dal latino medícus; da medēri; curare].
 Righetti-Carlo_La-Scapigliatura_1862.txt	farmacista	1	it	http://www.sapere.it/enciclopedia/farmacista.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	farmacista: sm. e f. (pl. m. -i) [sec. XVIII; da farmacia]. Laureato in farmacia autorizzato a vendere medicinali o a prepararne secondo le prescrizioni mediche.
 Righetti-Carlo_La-Scapigliatura_1862.txt	filosofo	9	it	http://www.wikidata.org/entity/Q4964182	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	persona che si occupa di filosofia
@@ -31,17 +32,18 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	portico	2	it	custom_705	custom	public (
 Righetti-Carlo_La-Scapigliatura_1862.txt	stanza	23	it	http://www.wikidata.org/entity/Q180516	wikidata	facility (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	ambiente interno di un edificio; ad uso abitazione o ufficio
 Righetti-Carlo_La-Scapigliatura_1862.txt	romanziere	3	it	http://www.wikidata.org/entity/Q6625963	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	autore di romanzi e/o racconti
 Righetti-Carlo_La-Scapigliatura_1862.txt	maschera	10	it	http://www.wikidata.org/entity/Q25410306	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	figura professionale in ambito teatrale
-Righetti-Carlo_La-Scapigliatura_1862.txt	residenza	1	it	custom_272	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	residenza	1	it	http://www.wikidata.org/entity/Q7743	wikidata	house (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	luogo in cui la persona ha la dimora abituale
 Righetti-Carlo_La-Scapigliatura_1862.txt	sede	1	it	custom_719	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	tabaccaio	8	it	http://www.sapere.it/enciclopedia/tabacc%C3%A0io.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	tabaccàio: sm. (f. -a) [sec. XVII; da tabacco]. Chi gestisce una tabaccheria; per metonimia; la rivendita stessa: qual è il tabaccaio più vicino?
 Righetti-Carlo_La-Scapigliatura_1862.txt	impresa	1	it	custom_97	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	osteria	8	it	custom_123	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	caffè	18	it	custom_50	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	club	6	it	custom_636	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	narratore	3	it	http://www.wikidata.org/entity/Q755070	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	chi racconta la storia al pubblico
 Righetti-Carlo_La-Scapigliatura_1862.txt	guantaio	2	it	http://www.wikidata.org/entity/Q15819198	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	ufficio	3	it	http://www.wikidata.org/entity/Q182060	wikidata	workplace (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	stanza in cui delle persone svolgono degli impieghi
 Righetti-Carlo_La-Scapigliatura_1862.txt	domicilio	1	it	custom_246	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
-Righetti-Carlo_La-Scapigliatura_1862.txt	teatro	12	it	custom_733	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	teatro	12	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	luogo in cui avvengono rappresentazioni teatrali
 Righetti-Carlo_La-Scapigliatura_1862.txt	prigione	4	it	custom_707	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	lettore	11	it	http://www.wikidata.org/entity/Q1569495	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	posizione accademica di rango inferiore al professore
 Righetti-Carlo_La-Scapigliatura_1862.txt	sarto	1	it	http://www.wikidata.org/entity/Q242468	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	professione di chi confeziona; ripara o modifica abiti
@@ -60,7 +62,7 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	cassiere	1	it	http://www.wikidata.org/e
 Righetti-Carlo_La-Scapigliatura_1862.txt	ufficiale	1	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	lumaio	2	it	http://www.sapere.it/enciclopedia/lum%C3%A0io.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	lumàio: sm. [sec. XIX; da lume]. Chi fabbrica; ripara o vende lumi. Meno comune; chi accende i lumi.
 Righetti-Carlo_La-Scapigliatura_1862.txt	conte	34	it	http://www.wikidata.org/entity/Q3519259	wikidata	noble rank	Righetti Carlo	La scapigliatura	m	1862	1860_1869	titolo della nobiltà esistente nei paesi europei
-Righetti-Carlo_La-Scapigliatura_1862.txt	giardino	3	it	custom_660	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	giardino	3	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	banchiere	4	it	http://www.wikidata.org/entity/Q806798	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	proprietario o dirigente di una banca
 Righetti-Carlo_La-Scapigliatura_1862.txt	appartamento	6	it	custom_169	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	pensione	1	it	custom_132	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
@@ -84,7 +86,7 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	fabbricato	1	it	custom_347	custom	indus
 Righetti-Carlo_La-Scapigliatura_1862.txt	mensa	2	it	custom_674	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	modello	2	it	http://www.wikidata.org/entity/Q4610556	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	professione
 Righetti-Carlo_La-Scapigliatura_1862.txt	palcoscenico	1	it	http://www.wikidata.org/entity/Q194428	wikidata	workplace (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	parte del teatro
-Righetti-Carlo_La-Scapigliatura_1862.txt	cimitero	1	it	custom_504	custom	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	cimitero	1	it	http://www.wikidata.org/entity/Q39614	wikidata	facility (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	luogo di sepoltura dei defunti
 Righetti-Carlo_La-Scapigliatura_1862.txt	soffitta	2	it	custom_280	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	gallo	2	it	http://www.wikidata.org/entity/Q1492584	wikidata	historical profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	sacerdote eunuco della dea Cibele
 Righetti-Carlo_La-Scapigliatura_1862.txt	attore	1	it	http://www.wikidata.org/entity/Q33999	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	persona che recita in commedie o opere drammatiche al cinema; alla televisione; al teatro o alla radio
@@ -101,23 +103,24 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	scolaro	1	it	http://www.wikidata.org/en
 Righetti-Carlo_La-Scapigliatura_1862.txt	assessore	1	it	http://www.wikidata.org/entity/Q4657217	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	membro della giunta comunale
 Righetti-Carlo_La-Scapigliatura_1862.txt	biblioteca	1	it	http://www.wikidata.org/entity/Q7075	wikidata	facility (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	istituzione culturale finalizzata alla raccolta organizzata di libri e risorse informative
 Righetti-Carlo_La-Scapigliatura_1862.txt	edificio	1	it	http://www.wikidata.org/entity/Q41176	wikidata	facility (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	costruzione edilizia realizzata dall'uomo
-Righetti-Carlo_La-Scapigliatura_1862.txt	castello	4	it	custom_232	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	castello	4	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	complesso architettonico fortificato tipico del Medioevo
 Righetti-Carlo_La-Scapigliatura_1862.txt	stella	1	it	http://www.wikidata.org/entity/Q15982595	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	artista del mondo dello spettacolo che gode di molta popolarità
-Righetti-Carlo_La-Scapigliatura_1862.txt	negozio	4	it	custom_108	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	negozio	4	it	http://www.wikidata.org/entity/Q213441	wikidata	workplace (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	luogo in cui si vendono merci o servizi
 Righetti-Carlo_La-Scapigliatura_1862.txt	capitano	3	it	http://www.wikidata.org/entity/Q5036510	wikidata	military rank	Righetti Carlo	La scapigliatura	m	1862	1860_1869	grado militare della Royal Marines e della British Army
 Righetti-Carlo_La-Scapigliatura_1862.txt	campanile	1	it	custom_456	custom	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	pompiere	4	it	http://www.sapere.it/enciclopedia/pompi%C3%A8re.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	pompière: sm. [sec. XIX; dal francese
 Righetti-Carlo_La-Scapigliatura_1862.txt	comune	1	it	custom_639	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	tappezziere	1	it	http://www.wikidata.org/entity/Q23754740	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	persona che produce o ripara imbottiture e rivestimenti di mobili
 Righetti-Carlo_La-Scapigliatura_1862.txt	cospiratore	2	it	http://www.wikidata.org/entity/Q63967171	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
-Righetti-Carlo_La-Scapigliatura_1862.txt	carcere	1	it	custom_619	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	carcere	1	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	luogo di detenzione
 Righetti-Carlo_La-Scapigliatura_1862.txt	pittore	1	it	http://www.sapere.it/enciclopedia/pitt%C3%B3re.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	pittóre: sm. (f. -trice) [sec. XIV; latino pictor-ōris; da pingĕre; dipingere].
 Righetti-Carlo_La-Scapigliatura_1862.txt	giudice	2	it	http://www.wikidata.org/entity/Q3769128	wikidata	noble rank	Righetti Carlo	La scapigliatura	m	1862	1860_1869	sovrano in lingua volgare sarda
 Righetti-Carlo_La-Scapigliatura_1862.txt	venditore	1	it	http://www.wikidata.org/entity/Q685433	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	lavoro
 Righetti-Carlo_La-Scapigliatura_1862.txt	protomedico	1	it	http://www.wikidata.org/entity/Q3924320	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	stazione	2	it	custom_723	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	ospedale	2	it	custom_681	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	direttore	1	it	http://www.wikidata.org/entity/Q1162163	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	ruolo di comando in un'impresa; in un'organizzazione o un'istituzione
-Righetti-Carlo_La-Scapigliatura_1862.txt	tempio	1	it	custom_552	custom	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	tempio	1	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	struttura architettonica utilizzata come luogo di culto
 Righetti-Carlo_La-Scapigliatura_1862.txt	banca	7	it	custom_42	custom	commercial building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	deputato	1	it	http://www.wikidata.org/entity/Q1055894	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	membro di una assemblea legislativa
 Righetti-Carlo_La-Scapigliatura_1862.txt	alchimista	1	it	http://www.wikidata.org/entity/Q15954519	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	persona praticante l'alchimia
@@ -135,7 +138,8 @@ Righetti-Carlo_La-Scapigliatura_1862.txt	marinaio	1	it	http://www.wikidata.org/e
 Righetti-Carlo_La-Scapigliatura_1862.txt	economo	1	it	http://www.sapere.it/enciclopedia/ec%C3%B2nomo.html	sapere	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	ecònomo: agg. e sm. (f. -a) [sec. XVI; dal latino tardo oeconomus; che risale al greco
 Righetti-Carlo_La-Scapigliatura_1862.txt	convento	1	it	custom_508	custom	religious building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	villa	2	it	custom_296	custom	civil building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	casa di campagna	1	it	custom_565	custom	rural building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
+Righetti-Carlo_La-Scapigliatura_1862.txt	giardino pubblico	1	it	custom_659	custom	public (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	artista contemporaneo	1	it	http://www.wikidata.org/entity/Q21477194	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	dama di compagnia	1	it	http://www.wikidata.org/entity/Q715222	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	
 Righetti-Carlo_La-Scapigliatura_1862.txt	agente di cambio	5	it	http://www.wikidata.org/entity/Q961407	wikidata	profession	Righetti Carlo	La scapigliatura	m	1862	1860_1869	intermediario finanziario
-Righetti-Carlo_La-Scapigliatura_1862.txt	casa di campagna	1	it	custom_565	custom	rural building (place)	Righetti Carlo	La scapigliatura	m	1862	1860_1869	

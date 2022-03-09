@@ -1,5 +1,5 @@
 File	Lemma	Occurrences	Language	LemmaID	Source	Tags	Author	Title	Gender	Year	Decade	Description
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	tempio	12	it	custom_552	custom	religious building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	tempio	12	it	http://www.wikidata.org/entity/Q44539	wikidata	religious building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	struttura architettonica utilizzata come luogo di culto
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	re	155	it	http://www.wikidata.org/entity/Q12097	wikidata	noble rank	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	titolo nobiliare maschile
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	convitto	4	it	custom_238	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	impresa	20	it	custom_97	custom	commercial building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
@@ -20,7 +20,7 @@ Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	stanza	28	it	http://www.wik
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	corte	30	it	custom_240	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	ufficiale	14	it	http://www.wikidata.org/entity/Q61022630	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	guardia	14	it	http://www.wikidata.org/entity/Q680928	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	carcere	10	it	custom_619	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	carcere	10	it	http://www.wikidata.org/entity/Q40357	wikidata	facility (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	luogo di detenzione
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	generale	22	it	http://www.wikidata.org/entity/Q83460	wikidata	military rank	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	militare appartenente alla più elevata categoria degli ufficiali
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	maestra	2	it	http://www.wikidata.org/entity/Q78812499	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	arbitro	1	it	http://www.wikidata.org/entity/Q716711	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	responsabile del rispetto delle regole del Football Americano durante il gioco
@@ -29,10 +29,10 @@ Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	fiera	5	it	custom_651	custo
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	principe	3	it	http://www.wikidata.org/entity/Q2747456	wikidata	honorary title	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	figlio di un principe; re; regina; imperatore o imperatrice o altra persona di alto rango (come un granduca)
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	imperatore	15	it	http://www.wikidata.org/entity/Q39018	wikidata	noble rank	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	tipo di monarca
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	fisico	1	it	http://www.wikidata.org/entity/Q169470	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	scienziato che si occupa di fisica
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	giardino	15	it	custom_660	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	giardino	15	it	http://www.wikidata.org/entity/Q1107656	wikidata	workplace (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	domestico	19	it	http://www.sapere.it/enciclopedia/dom%C3%A8stico.html	sapere	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	domèstico: (ant. e dial. dimèstico); agg. e sm. (pl. m. -ci) [sec. XIII; dal latino domestícus].
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	osteria	2	it	custom_123	custom	commercial building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	parco	3	it	custom_694	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	parco	3	it	http://www.wikidata.org/entity/Q22698	wikidata	facility (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	area protetta o per ricreazione
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	serva	2	it	http://www.sapere.it/enciclopedia/s%C3%A8rva.html	sapere	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	sèrva: sf. [sec. XIV; f. di servo].
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	consolato	1	it	custom_641	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	altare	3	it	custom_445	custom	religious building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
@@ -41,7 +41,7 @@ Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	cacciatore	11	it	http://www
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	torre	4	it	custom_290	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	tana	1	it	custom_285	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	casolare	3	it	custom_570	custom	rural building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	officina	3	it	custom_387	custom	industrial (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	officina	3	it	http://www.wikidata.org/entity/Q656720	wikidata	workplace (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	luogo di lavoro
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	pastore	2	it	http://www.wikidata.org/entity/Q81710	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	persona che guida e si prende cura di un gregge di pecore o altri animali
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	capanna	2	it	custom_561	custom	rural building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	abituro	1	it	custom_166	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
@@ -63,10 +63,10 @@ Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	paggio	3	it	http://www.wiki
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	casa	5	it	custom_184	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	interprete	1	it	http://www.wikidata.org/entity/Q11085831	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	persona che traduce oralmente da una lingua di partenza verso una lingua d'arrivo
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	ballerino	1	it	http://www.wikidata.org/entity/Q805221	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	persona che pratica l'arte del balletto
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	magazzino	2	it	custom_378	custom	industrial (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	magazzino	2	it	http://www.wikidata.org/entity/Q181623	wikidata	commercial building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	forte	2	it	http://www.wikidata.org/entity/Q1785071	wikidata	fortification (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	costruzione militare destinata alla guerra difensiva
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	predicatore	1	it	http://www.wikidata.org/entity/Q432386	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	chiesa	3	it	custom_470	custom	religious building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	chiesa	3	it	http://www.wikidata.org/entity/Q16970	wikidata	religious building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	edificio religioso cristiano
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	esarca	8	it	http://www.wikidata.org/entity/Q4144428	wikidata	ecclesiastical occupation	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	titolo
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	bardo	1	it	http://www.wikidata.org/entity/Q215144	wikidata	historical profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	maneggio	1	it	custom_671	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
@@ -95,14 +95,14 @@ Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	marchese	2	it	http://www.wi
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	custode	1	it	http://www.wikidata.org/entity/Q64155712	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	addetto alla custodia; alla cura; alla sorveglianza di edifici; case; animali; persone
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	comune	1	it	custom_639	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	capitano	8	it	http://www.wikidata.org/entity/Q5036510	wikidata	military rank	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	grado militare della Royal Marines e della British Army
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	castello	9	it	custom_232	custom	civil building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	castello	9	it	http://www.wikidata.org/entity/Q23413	wikidata	fortification (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	complesso architettonico fortificato tipico del Medioevo
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	commesso	4	it	http://www.wikidata.org/entity/Q5803091	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	chirurgo	6	it	http://www.sapere.it/enciclopedia/chirurgo.html	sapere	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	chirurgo: sm. (pl. -gi o -ghi) [sec. XV; dal greco
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	guida	3	it	http://www.wikidata.org/entity/Q14290559	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	cattedrale	1	it	custom_465	custom	religious building (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	reggente	5	it	http://www.wikidata.org/entity/Q477406	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	titolo posseduto da un capo di stato ad interim in una monarchia
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	pilota	1	it	http://www.wikidata.org/entity/Q475604	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	teatro	1	it	custom_733	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
+Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	teatro	1	it	http://www.wikidata.org/entity/Q24354	wikidata	venue (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	luogo in cui avvengono rappresentazioni teatrali
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	pescatore	1	it	http://www.wikidata.org/entity/Q331432	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	persona addetta alla cattura di pesci
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	prigione	4	it	custom_707	custom	public (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	monarca	1	it	http://www.wikidata.org/entity/Q116	wikidata	noble rank	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	capo di Stato
@@ -118,4 +118,3 @@ Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	regina regnante	6	it	http:/
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	pompa funebre	2	it	http://www.wikidata.org/entity/Q316490	wikidata	profession	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	azienda che si occupa della vendita di beni e servizi funebri
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	di il	2	it	http://www.wikidata.org/entity/Q66725670	wikidata	nobiliary particle	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
 Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	imperatore romano	3	it	http://www.wikidata.org/entity/Q842606	wikidata	noble rank	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	magistrato supremo che governava Roma e il suo impero
-Silvola-Rodolfo-Giuspeppe_Alboino-in-Italia_1840.txt	forte 	2	it	custom_12	custom	military (place)	Silvola Rodolfo Giuseppe	Alboino in Italia	m	1840	1840_1849	
