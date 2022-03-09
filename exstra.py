@@ -95,7 +95,10 @@ def dictGenerator(patternlist, languages = ""):
         try:
             sep = '\t'
             chiave = patternlist[prow].split(sep)[profs["prof"]]
-            valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], patternlist[prow].split(sep)[profs["definition"]]]
+            try:
+                valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], patternlist[prow].split(sep)[profs["definition"]]]
+            except IndexError:
+                valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], ""]
             lingua = patternlist[prow].split(sep)[profs["lang"]]
             if languages != "":
                 if lingua not in languages.split(","):
@@ -111,7 +114,8 @@ def dictGenerator(patternlist, languages = ""):
                     patterndict[chiave][lingua] = valori
                 else:
                     patterndict[chiave] = {lingua: valori}
-        except:
+        except Exception as e:
+            #print(e)
             continue
     print("Lemmas: "+str(len(patterndict)))
     print("Ngrams: "+str(len(ngramsdict)))
