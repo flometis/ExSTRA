@@ -34,7 +34,7 @@ for line in findingsstr.split("\n"):
     except:
         continue
     filename = None
-    if line.split("\t")[1] in blacklist:
+    if line.split("\t")[1] in blacklst:
         continue
     for k in tagDct:
         if tagDct[k] == None:
