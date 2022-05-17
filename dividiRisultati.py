@@ -10,6 +10,14 @@ text_file = open(findingsfile, "r", encoding='utf-8')
 findingsstr = text_file.read()
 text_file.close()
 
+blacklist = "C:\\Users\\flo-f\\Documents\\GitHub\\ExSTRA\\blacklist.txt"
+blacklist_file = open(blacklist, "r", encoding='utf-8')
+blackliststr = blacklist_file.read()
+text_file.close()
+blacklst = []
+for element in blackliststr.split("\n"):
+    blacklst.append(element)
+
 for k in tagDct:
     if tagDct[k] == None:
         continue
@@ -26,6 +34,8 @@ for line in findingsstr.split("\n"):
     except:
         continue
     filename = None
+    if line.split("\t")[1] in blacklist:
+        continue
     for k in tagDct:
         if tagDct[k] == None:
             continue

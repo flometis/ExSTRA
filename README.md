@@ -59,7 +59,9 @@ For this to work you'll need R and Rscript (https://cran.r-project.org/bin/windo
 6. Generate contingency table
 If you need a contingency table, you should run
 ```
-python3 contingenza.py
+python3 dividiRisultati.py
+python3 contingenza.py professions.tsv 
+python3 contingenza.py places.tsv 
 ```
 The script, at this moment, builds a lemmaXyear table, but you can easily change the code to set different variable for rows and columns.
 
