@@ -36,3 +36,6 @@ piloto
 foro
 basso
 spa
+barbetta
+casa di signore
+principia
