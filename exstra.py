@@ -35,7 +35,7 @@ if so == "Windows":
     modello = modello.replace("/", "\\")
 
 corpuscols = {'TAGcorpus': 0,'token': 1,'lemma': 2,'pos': 3,'ner': 4,'feat': 5,'IDword': 6,'IDphrase': 7,'dep': 8,'head': 9}
-profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "definition" : 5}
+profs = {"url" : 0, "prof" : 1, "source": 2 , "lang": 3 , "tag": 4, "lemmatized": 5, "definition" : 6}
 
 
 patterndict = {}
@@ -94,11 +94,11 @@ def dictGenerator(patternlist, languages = ""):
     for prow in range(len(patternlist)):
         try:
             sep = '\t'
-            chiave = patternlist[prow].split(sep)[profs["prof"]]
+            chiave = patternlist[prow].split(sep)[profs["lemmatized"]]
             try:
-                valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], patternlist[prow].split(sep)[profs["definition"]]]
+                valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], patternlist[prow].split(sep)[profs["prof"]], patternlist[prow].split(sep)[profs["definition"]]]
             except IndexError:
-                valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], ""]
+                valori = [patternlist[prow].split(sep)[profs["url"]], patternlist[prow].split(sep)[profs["source"]], patternlist[prow].split(sep)[profs["tag"]], patternlist[prow].split(sep)[profs["prof"]], ""]
             lingua = patternlist[prow].split(sep)[profs["lang"]]
             if languages != "":
                 if lingua not in languages.split(","):
@@ -156,7 +156,9 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
             #Aggiungo una riga per ogni lingua in cui esiste il lemma
             for lingua in patterndict[lemma]:
                 if occ[lemma] == 1:
-                    rigarisultato = [os.path.basename(filepath), lemma]
+                    #origToken = lemma
+                    origToken = patterndict[lemma][lingua][3]  #Write the original token in results, not the lemmatized version
+                    rigarisultato = [os.path.basename(filepath), origToken]
                     rigarisultato.append(occ[lemma])
                     rigarisultato.append(lingua)
                     rigarisultato.extend(patterndict[lemma][lingua][:-1])
@@ -242,7 +244,7 @@ def patternfinder(filepath, stroutput, patternlist, languages = ""):
     return listarisultati
 
 def savetable(risultato, fileName = "risultato.tsv"):
-    header = "File\tLemma\tOccurrences\tLanguage\tLemmaID\tSource\tTags\tAuthor\tTitle\tGender\tYear\tDecade\tDescription\n"
+    header = "File\tLemma\tOccurrences\tLanguage\tLemmaID\tSource\tTags\tEXSTRAToken\tAuthor\tTitle\tGender\tYear\tDecade\tDescription\n"
     separatore = "\t"
     stringarisultato = header
     for r in range(len(risultato)):
