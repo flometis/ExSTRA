@@ -20,8 +20,9 @@ fullpath <- "../../Findings/exstra_dictionary_COMPLETE.tsv";
 
 origfile <- read.table(fullpath,header=TRUE, sep="\t");
 #print(names(origfile));
-origsubset <- origfile[, c("EXSTRAToken","Occurrences","Decade", "Tags")] ;
-names(origsubset)[names(origsubset) == 'EXSTRAToken'] <- 'Lemma';
+origsubset <- origfile[, c("Lemma","Occurrences","Decade", "Tags")] ;
+#origsubset <- origfile[, c("EXSTRAToken","Occurrences","Decade", "Tags")] ;
+#names(origsubset)[names(origsubset) == 'EXSTRAToken'] <- 'Lemma';
 origsubset <- subset(origsubset, grepl("place",origsubset$Tags)==FALSE); #estraggo solo professioni (non luoghi)
 file <- aggregate(. ~Decade+Lemma, data=origsubset, sum, na.rm=TRUE)
 #print.data.frame(head(file));

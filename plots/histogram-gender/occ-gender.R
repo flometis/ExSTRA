@@ -2,8 +2,8 @@
 
 #Se lo script viene eseguito da amministratore (permessi di scrittura nella cartella delle librerie), installa le librerie
 if (file.access(.libPaths()[1],2)==0) {
-#    install.packages("ggplot2",repos = "https://cran.stat.unipd.it/");
-#    install.packages("gridSVG",repos = "https://cran.stat.unipd.it/");
+    install.packages("ggplot2",repos = "https://cran.stat.unipd.it/");
+    install.packages("gridSVG",repos = "https://cran.stat.unipd.it/");
     print("Se ci sono stati errori, esegui sudo apt-get install libxml2-dev e riprova.")
     print("Sembra che tu sia amministratore, sarebbe meglio procedere solo da utente semplice. Vuoi comunque creare i grafici? [y/N]");
     choice <- readLines("stdin", 1);
@@ -20,8 +20,9 @@ fullpath <- "../../Findings/exstra_dictionary_COMPLETE.tsv";
 
 origfile <- read.table(fullpath,header=TRUE, sep="\t");
 #print(names(origfile));
-origsubset <- origfile[, c("EXSTRAToken","Occurrences","Decade", "Tags")] ;
-names(origsubset)[names(origsubset) == 'EXSTRAToken'] <- 'Lemma';
+origsubset <- origfile[, c("Lemma","Occurrences","Decade", "Tags")] ;
+#origsubset <- origfile[, c("EXSTRAToken","Occurrences","Decade", "Tags")] ;
+#names(origsubset)[names(origsubset) == 'EXSTRAToken'] <- 'Lemma';
 origsubset <- subset(origsubset, grepl("place",origsubset$Tags)==FALSE); #estraggo solo professioni (non luoghi)
 file <- aggregate(. ~Decade+Lemma, data=origsubset, sum, na.rm=TRUE)
 #print.data.frame(head(file));
