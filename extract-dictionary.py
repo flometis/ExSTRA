@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import urllib.request
 import urllib.parse
 import re
@@ -38,6 +39,16 @@ language = ""
 
 fulltable = []
 
+#Intestazione colonne:
+#ID,token,source,language,category,lemmatized,description
+ID_col=0
+token_col=1 #this is the original token
+orig_col=1  #this is the original token
+source_col=2
+language_col=3
+category_col=4
+lemmatized_col=5  #this is the cleaned lemmatized version of the word
+description_col=6
 
 
 so = platform.system()
@@ -123,7 +134,7 @@ def execWithTimeout(mycmd, checkfile = "", mytimeout = 10, waitforstop = 10):
 
 def lemmatizza(myindex):
     global fulltable
-    mytext = fulltable[myindex][1]
+    mytext = fulltable[myindex][token_col]
     mylemma = mytext
     if so == "Windows":
         os.makedirs("C:\Temp\Bran", exist_ok=True)
@@ -150,7 +161,7 @@ def lemmatizza(myindex):
     print(mylemma)
     text_file.close()
     shutil.rmtree(tmpdir)
-    fulltable[myindex][1] = mylemma
+    fulltable[myindex][lemmatized_col] = mylemma
     fulltable[myindex][-1] = fulltable[myindex][-1].replace("DALEMMATIZZARE", "")
 
 
@@ -384,12 +395,13 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
                 myrow.append("wikidata")
                 myrow.append(language)
                 myrow.append(entity)
+                myrow.append(myrowLemma)
             else:
                 myrow.append(res[key]["value"])
         if len(res) < 3:
             myrow.append("") #empty description
-        if bool(re.search('[^a-zA-Z]', myrowLemma)):
-            myrow[-1] = str(myrow[-1]) + "DALEMMATIZZARE"
+        if not bool(re.search('[^a-zA-Z]', myrowLemma)):
+            myrow[lemmatized_col] = myrowLemma
         resultsTable.append(myrow)
     
     #If you want sorted results, do it
@@ -469,26 +481,52 @@ def openTable(inFile, sep = "\t"):
     return mytable
 
 def cleanAccents(parola):
-    pulita = parola.replace("à", "a")
-    pulita = pulita.replace("è", "e")
-    pulita = pulita.replace("é", "e")
-    pulita = pulita.replace("ì", "i")
-    pulita = pulita.replace("ò", "o")
-    pulita = pulita.replace("ó", "o") 
-    pulita = pulita.replace("ù", "u")  
-    pulita = re.sub("[^a-z]", "", pulita.lower())
+    pulita = parola
+    pulita = re.sub("à(?!\\b)", "a", pulita)
+    pulita = re.sub("è(?!\\b)", "e", pulita)
+    pulita = re.sub("é(?!\\b)", "e", pulita)
+    pulita = re.sub("ì(?!\\b)", "i", pulita)
+    pulita = re.sub("ò(?!\\b)", "o", pulita)
+    pulita = re.sub("ó(?!\\b)", "o", pulita)
+    pulita = re.sub("ù(?!\\b)", "ù", pulita)
+    pulita = re.sub("[^a-zàèéìòóù ]", "", pulita.lower())
     return pulita
 
 def mergeSapere(mytable):
     sapere = openTable("listing_sapere_profession_it.tsv")
     transTable = list(map(list, zip(*mytable)))
     #transTable = list(map(list, itertools.zip_longest(*mytable, fillvalue="")))
+    old_descrCol = description_col-1  #old sources did not have "lemmatized" column
     for r in range(len(sapere)):
-        if cleanAccents(sapere[r][1]) not in transTable[1]:
-            newrow = [sapere[r][0],cleanAccents(sapere[r][1])]
-            newrow.extend(sapere[r][2:])
+        cleanLemma = cleanAccents(sapere[r][1])
+        if cleanLemma not in transTable[1]:
+            newrow = [sapere[r][0],cleanLemma]  #lemmatizzare il token?
+            newrow.extend(sapere[r][2:old_descrCol])
+            newrow.append(cleanLemma) #lemma
+            try:
+                newrow.append(sapere[r][old_descrCol])
+            except:
+                newrow.append("")
             mytable.append(newrow)
     return mytable
+
+def mergeCustom(mytable):
+    custom = openTable("listing_custom_it.tsv")
+    transTable = list(map(list, zip(*mytable)))
+    old_descrCol = description_col-1  #old sources did not have "lemmatized" column
+    for r in range(len(custom)):
+        cleanLemma = cleanAccents(custom[r][1])
+        if cleanLemma not in transTable[1]:
+            newrow = [custom[r][0],cleanLemma]
+            newrow.extend(custom[r][2:old_descrCol])
+            newrow.append(custom[r][1]) #lemma
+            try:
+                newrow.append(custom[r][old_descrCol])
+            except:
+                newrow.append("")
+            mytable.append(newrow)
+    return mytable
+
     
 #Main routine:
 source = "1"
@@ -592,8 +630,8 @@ for mylang in mylangs:
                 for myrow in mytable:
                     if len(myrow) < 3:
                         myrow.append("") #empty description
-                    if bool(re.search('[^a-zA-Z]', myrow[1])):
-                        myrow[-1] = str(myrow[-1]) + "DALEMMATIZZARE"
+                    if not bool(re.search('[^a-zA-Z]', myrow[1])):
+                        myrow[lemmatized_col] = myrowLemma
             else:
                 mytable.extend(getInstanceOf(myentity, mylang))
 
@@ -608,7 +646,7 @@ for mylang in mylangs:
     lemmatizethese = []
     f = 0
     for fullrow in fulltable:
-        if "DALEMMATIZZARE" in fullrow[-1]:
+        if fullrow[lemmatized_col] == "":
             lemmatizethese.append(f)
         f = f + 1
     if len(lemmatizethese) > 0 and os.path.isfile(branmain):
@@ -618,6 +656,7 @@ for mylang in mylangs:
 if "it" in mylangs and "exstra_dictionary" in filename:
     fulltable = openTable(filename)
     fulltable = mergeSapere(fulltable)
+    fulltable = mergeCustom(fulltable)
     saveTable(fulltable, filename)
 
 
