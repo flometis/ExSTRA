@@ -12,6 +12,13 @@ This should only be done if you plan to use a new corpus: clean up common OCR er
 python3 pulisci.py
 ```
 
+2. (optional) Tag files using multicore CPU parsing
+The corpus will be tagged one file after the other if needed, but you can speed the process up using
+```
+python3 multicore-tag.py Eltec100/puliti
+```
+This way many files will be tagged simultaneously using as many CPU cores as possible.
+
 2. (optional) Update metadata
 This should only be done if you plan to use a new corpus: please add its metadata in **Eltec100/Eltec-metadata.tsv**, then run
 ```
@@ -33,6 +40,8 @@ python3 extract-dictionary.py human it 1800 1801
 This is also interactive tool: if run without arguments, it will ask you questions to get the lemmas you want.
 
 NOTE: This tool updates the existing dictionary, it does not drop old records. This means that you can add more entities or languages to the existing file just by running again the script with different parameters.
+
+Original lemmas and ngrams are written in "Lemma" column (number 1). Single word lemmas are maintained (eventually only with regex cleaning for "àèéìòù") in "EXSTRAToken" column (number 5, also called "lemmatized"). Ngrams are lemmatized and stored in "EXSTRAToken" column (with the original non-lemmatized form still in "Lemma" column).
 
 4. Extract lemma occurrences
 If you need to tag again your corpus, please remove files inside ***Tagged*** folder (rm Tagged/*).
