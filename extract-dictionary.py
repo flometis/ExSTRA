@@ -19,7 +19,7 @@ from threading import Thread
 
 
 #List of the Wikidata entities we can download. If you need another one, just add it to the dictionary
-entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "honorary title": "Q3320743", "ecclesiastical occupation": "Q11773926", "historical profession": "Q16335296", "military rank": "Q56019", "human": "Q5", "place": {"factory (place)": "Q83405", "facility (place)": "Q13226383", "workplace (place)": "Q628858", "shop (place)": "Q213441", "commercial building (place)": "Q655686", "religious building (place)": "Q24398318", "house (place)": "Q3947", "rural building (place)": "Q131596", "fortification (place)": "Q57821", "venue (place)": "Q17350442"}}
+entities = { "profession" : "Q28640", "nobiliary particle": "Q355505", "noble rank": "Q355567", "honorary title": "Q3320743", "ecclesiastical occupation": "Q11773926", "episcopal function": "Q21114371", "christian religious occupation": "Q63188683", "catholic religious occupation": "Q63188808", "historical profession": "Q16335296", "military rank": "Q56019", "human": "Q5", "place": {"factory (place)": "Q83405", "facility (place)": "Q13226383", "workplace (place)": "Q628858", "shop (place)": "Q213441", "commercial building (place)": "Q655686", "religious building (place)": "Q24398318", "house (place)": "Q3947", "rural building (place)": "Q131596", "fortification (place)": "Q57821", "venue (place)": "Q17350442"}}
 
 
 #Any language can be used, I'm laying these out just as examples
@@ -370,7 +370,12 @@ def getInstanceOf(entity, language = "en", year = "NaN", sort = True):
     #Send the HTTP request and read the output
     resultsStr = geturl(WIKIDATA_SPARQL_URL, myparams)
     #the output is a json text, we turn it into an object (nested dictionaries and lists)
-    results = json.loads(resultsStr)
+    try:
+        results = json.loads(resultsStr)
+    except:
+        print(myparams)
+        print(resultsStr)
+        sys.exit(1)
     
     #print(json.dumps(results["results"]["bindings"][1]))  #decomment for debug
 
