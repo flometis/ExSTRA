@@ -655,7 +655,11 @@ for mylang in mylangs:
             lemmatizethese.append(f)
         f = f + 1
     if len(lemmatizethese) > 0 and os.path.isfile(branmain):
-        bulklemmatize(lemmatizethese)
+        try:
+            #bulklemmatize(lemmatizethese)
+            pass
+        except Exception as e:
+            print(e)
     saveTable(fulltable, filename)
     print("Saved in " + filename)
 if "it" in mylangs and "exstra_dictionary" in filename:
